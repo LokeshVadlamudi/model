@@ -232,7 +232,7 @@ class App extends Component {
                     <input
                       type="text"
                       class="form-control"
-                      placeholder="Total_wage"
+                      placeholder="Prevailing_Wage"
                       name="Total_wage"
                       onChange={this.handleChange}
                     />
