@@ -58,7 +58,7 @@ class App extends Component {
       Total_wage: this.state.Total_wage,
       model_choice: this.state.model_choice
     };
-    axios.post("http://3.132.212.209:90/pred", data).then(res => {
+    axios.post("http://ec2-3-134-96-99.us-east-2.compute.amazonaws.com:90/pred", data).then(res => {
       console.log(res);
       console.log(res.data);
       alert(res.data);
