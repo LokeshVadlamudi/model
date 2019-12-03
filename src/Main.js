@@ -12,7 +12,7 @@ class Main extends Component {
         <Route exact path="/exploratory" component={graph} />
         {/* <Route path="/form" component={form} />
         <Route path="/water" component={water} /> */}{" "}
-        */}
+        
       </div>
     );
   }
