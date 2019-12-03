@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  width: 60%;
+  margin-top: 10%;
+  margin-left: 40%;
+  color: #09d3ac;
+}
+/* .Car {
+  background-color: powderblue;
+} */
+.cool {
+  margin-left: 1000%;
 }
 
 .App-logo {

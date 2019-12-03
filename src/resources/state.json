@@ -1,0 +1,287 @@
+[
+  {
+    "": 0,
+    "EMPLOYER_STATE": "TX",
+    "EMPLOYER_STATE.1": 48
+  },
+  {
+    "": 2,
+    "EMPLOYER_STATE": "NC",
+    "EMPLOYER_STATE.1": 30
+  },
+  {
+    "": 3,
+    "EMPLOYER_STATE": "FL",
+    "EMPLOYER_STATE.1": 9
+  },
+  {
+    "": 4,
+    "EMPLOYER_STATE": "KY",
+    "EMPLOYER_STATE.1": 19
+  },
+  {
+    "": 5,
+    "EMPLOYER_STATE": "MP",
+    "EMPLOYER_STATE.1": 27
+  },
+  {
+    "": 8,
+    "EMPLOYER_STATE": "MN",
+    "EMPLOYER_STATE.1": 25
+  },
+  {
+    "": 14,
+    "EMPLOYER_STATE": "OH",
+    "EMPLOYER_STATE.1": 38
+  },
+  {
+    "": 16,
+    "EMPLOYER_STATE": "NJ",
+    "EMPLOYER_STATE.1": 34
+  },
+  {
+    "": 19,
+    "EMPLOYER_STATE": "VA",
+    "EMPLOYER_STATE.1": 50
+  },
+  {
+    "": 21,
+    "EMPLOYER_STATE": "ID",
+    "EMPLOYER_STATE.1": 15
+  },
+  {
+    "": 24,
+    "EMPLOYER_STATE": "GA",
+    "EMPLOYER_STATE.1": 11
+  },
+  {
+    "": 27,
+    "EMPLOYER_STATE": "NY",
+    "EMPLOYER_STATE.1": 37
+  },
+  {
+    "": 28,
+    "EMPLOYER_STATE": "OR",
+    "EMPLOYER_STATE.1": 40
+  },
+  {
+    "": 30,
+    "EMPLOYER_STATE": "WA",
+    "EMPLOYER_STATE.1": 53
+  },
+  {
+    "": 34,
+    "EMPLOYER_STATE": "PA",
+    "EMPLOYER_STATE.1": 41
+  },
+  {
+    "": 35,
+    "EMPLOYER_STATE": "KS",
+    "EMPLOYER_STATE.1": 18
+  },
+  {
+    "": 40,
+    "EMPLOYER_STATE": "SC",
+    "EMPLOYER_STATE.1": 45
+  },
+  {
+    "": 50,
+    "EMPLOYER_STATE": "MS",
+    "EMPLOYER_STATE.1": 28
+  },
+  {
+    "": 52,
+    "EMPLOYER_STATE": "AZ",
+    "EMPLOYER_STATE.1": 3
+  },
+  {
+    "": 54,
+    "EMPLOYER_STATE": "AL",
+    "EMPLOYER_STATE.1": 1
+  },
+  {
+    "": 55,
+    "EMPLOYER_STATE": "IN",
+    "EMPLOYER_STATE.1": 17
+  },
+  {
+    "": 60,
+    "EMPLOYER_STATE": "CA",
+    "EMPLOYER_STATE.1": 4
+  },
+  {
+    "": 65,
+    "EMPLOYER_STATE": "MA",
+    "EMPLOYER_STATE.1": 21
+  },
+  {
+    "": 69,
+    "EMPLOYER_STATE": "ME",
+    "EMPLOYER_STATE.1": 23
+  },
+  {
+    "": 75,
+    "EMPLOYER_STATE": "CO",
+    "EMPLOYER_STATE.1": 5
+  },
+  {
+    "": 91,
+    "EMPLOYER_STATE": "MI",
+    "EMPLOYER_STATE.1": 24
+  },
+  {
+    "": 112,
+    "EMPLOYER_STATE": "TN",
+    "EMPLOYER_STATE.1": 47
+  },
+  {
+    "": 113,
+    "EMPLOYER_STATE": "MT",
+    "EMPLOYER_STATE.1": 29
+  },
+  {
+    "": 114,
+    "EMPLOYER_STATE": "IL",
+    "EMPLOYER_STATE.1": 16
+  },
+  {
+    "": 126,
+    "EMPLOYER_STATE": "IA",
+    "EMPLOYER_STATE.1": 14
+  },
+  {
+    "": 127,
+    "EMPLOYER_STATE": "NV",
+    "EMPLOYER_STATE.1": 36
+  },
+  {
+    "": 129,
+    "EMPLOYER_STATE": "UT",
+    "EMPLOYER_STATE.1": 49
+  },
+  {
+    "": 151,
+    "EMPLOYER_STATE": "HI",
+    "EMPLOYER_STATE.1": 13
+  },
+  {
+    "": 161,
+    "EMPLOYER_STATE": "OK",
+    "EMPLOYER_STATE.1": 39
+  },
+  {
+    "": 163,
+    "EMPLOYER_STATE": "AR",
+    "EMPLOYER_STATE.1": 2
+  },
+  {
+    "": 262,
+    "EMPLOYER_STATE": "GU",
+    "EMPLOYER_STATE.1": 12
+  },
+  {
+    "": 268,
+    "EMPLOYER_STATE": "WI",
+    "EMPLOYER_STATE.1": 54
+  },
+  {
+    "": 298,
+    "EMPLOYER_STATE": "LA",
+    "EMPLOYER_STATE.1": 20
+  },
+  {
+    "": 309,
+    "EMPLOYER_STATE": "DC",
+    "EMPLOYER_STATE.1": 7
+  },
+  {
+    "": 315,
+    "EMPLOYER_STATE": "NM",
+    "EMPLOYER_STATE.1": 35
+  },
+  {
+    "": 354,
+    "EMPLOYER_STATE": "WV",
+    "EMPLOYER_STATE.1": 55
+  },
+  {
+    "": 366,
+    "EMPLOYER_STATE": "NE",
+    "EMPLOYER_STATE.1": 32
+  },
+  {
+    "": 380,
+    "EMPLOYER_STATE": "MO",
+    "EMPLOYER_STATE.1": 26
+  },
+  {
+    "": 440,
+    "EMPLOYER_STATE": "VI",
+    "EMPLOYER_STATE.1": 51
+  },
+  {
+    "": 454,
+    "EMPLOYER_STATE": "MD",
+    "EMPLOYER_STATE.1": 22
+  },
+  {
+    "": 479,
+    "EMPLOYER_STATE": "DE",
+    "EMPLOYER_STATE.1": 8
+  },
+  {
+    "": 482,
+    "EMPLOYER_STATE": "ND",
+    "EMPLOYER_STATE.1": 31
+  },
+  {
+    "": 483,
+    "EMPLOYER_STATE": "CT",
+    "EMPLOYER_STATE.1": 6
+  },
+  {
+    "": 601,
+    "EMPLOYER_STATE": "SD",
+    "EMPLOYER_STATE.1": 46
+  },
+  {
+    "": 689,
+    "EMPLOYER_STATE": "AK",
+    "EMPLOYER_STATE.1": 0
+  },
+  {
+    "": 1062,
+    "EMPLOYER_STATE": "VT",
+    "EMPLOYER_STATE.1": 52
+  },
+  {
+    "": 1558,
+    "EMPLOYER_STATE": "RI",
+    "EMPLOYER_STATE.1": 44
+  },
+  {
+    "": 2066,
+    "EMPLOYER_STATE": "NH",
+    "EMPLOYER_STATE.1": 33
+  },
+  {
+    "": 2081,
+    "EMPLOYER_STATE": "WY",
+    "EMPLOYER_STATE.1": 56
+  },
+  {
+    "": 19120,
+    "EMPLOYER_STATE": "PR",
+    "EMPLOYER_STATE.1": 42
+  },
+  {
+    "": 36736,
+    "EMPLOYER_STATE": "FM",
+    "EMPLOYER_STATE.1": 10
+  },
+  {
+    "": 456296,
+    "EMPLOYER_STATE": "PW",
+    "EMPLOYER_STATE.1": 43
+  }
+]
