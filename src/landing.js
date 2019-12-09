@@ -5,12 +5,13 @@ import ButtonAppBar from "./appbar.js";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import Row from "react-bootstrap/Row";
-import { CardDeck, Col, Container, Card } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import axios from "axios";
 import EmpData from "./resources/employers.json";
 import StateData from "./resources/state.json";
-// import { StyleSheet, Text, View } from "react-native";
-// import { LinearGradient } from "react-native-web-linear-gradient";
+import socData from "./resources/socs.json";
+import naicsData from "./resources/naics.json";
+
 import Image from "./usa.jpg";
 const styles = {
   paperContainer: {
@@ -23,12 +24,14 @@ class App extends Component {
     super(props);
     this.searchList = this.searchList.bind(this);
     this.stateList = this.stateList.bind(this);
+    this.socList = this.socList.bind(this);
+    this.naicsList = this.naicsList.bind(this);
   }
   state = {
     Employer_Name: "",
     Employer_State: "",
     SOC_Code: "",
-    NAICS_code: "",
+    NAICS_Code: "",
     Total_workers: "",
     FullTime_Position: "",
     H1b_dependent: "",
@@ -38,7 +41,11 @@ class App extends Component {
     matches: [],
     noMatch: false,
     states: [],
-    noState: false
+    noState: false,
+    socs: [],
+    noSoc: false,
+    naicss: [],
+    noNaics: false
   };
   handleChange = e => {
     this.setState({ [e.target.name]: e.target.value });
@@ -50,7 +57,7 @@ class App extends Component {
       Employer_Name: this.state.Employer_Name,
       Employer_State: this.state.Employer_State,
       SOC_Code: this.state.SOC_Code,
-      NAICS_code: this.state.NAICS_code,
+      NAICS_Code: this.state.NAICS_Code,
       Total_workers: this.state.Total_workers,
       FullTime_Position: this.state.FullTime_Position,
       H1b_dependent: this.state.H1b_dependent,
@@ -58,11 +65,16 @@ class App extends Component {
       Total_wage: this.state.Total_wage,
       model_choice: this.state.model_choice
     };
-    axios.post("http://ec2-3-134-96-99.us-east-2.compute.amazonaws.com:90/pred", data).then(res => {
-      console.log(res);
-      console.log(res.data);
-      alert(res.data);
-    });
+    axios
+      .post(
+        "http://ec2-3-134-96-99.us-east-2.compute.amazonaws.com:90/pred",
+        data
+      )
+      .then(res => {
+        console.log(res);
+        console.log(res.data);
+        alert(res.data);
+      });
   };
 
   searchList = event => {
@@ -113,6 +125,57 @@ class App extends Component {
       this.setState({ states: [{ EMPLOYER_STATE: "" }] });
     }
   };
+
+  //code for soc search
+  socList = event => {
+    const value = event.target.value;
+    let socs = [];
+    if (value.length > 0) {
+      socs = socData.filter(function(emp) {
+        if (emp.SOC_Code && emp.SOC_Code.length > 0) {
+          return emp.SOC_Code.includes(value.toUpperCase());
+        }
+        return false;
+      });
+      this.setState({ socs: socs });
+      if (!socs.length) {
+        this.setState({ noSoc: true });
+      } else {
+        this.setState({ noSoc: false });
+      }
+      if (socs.length === 1 && socs[0].SOC_Code.length > 0) {
+        this.setState({ SOC_Code: socs[0]["SOC_Code.1"] });
+      }
+    } else {
+      this.setState({ socs: [{ SOC_Code: "" }] });
+    }
+  };
+
+  //code for naics search
+  naicsList = event => {
+    const value = event.target.value;
+    let naicss = [];
+    if (value.length > 0) {
+      naicss = naicsData.filter(function(emp) {
+        if (emp.NAICS_Code && emp.NAICS_Code.length > 0) {
+          return emp.NAICS_Code.includes(value.toUpperCase());
+        }
+        return false;
+      });
+      this.setState({ naicss: naicss });
+      if (!naicss.length) {
+        this.setState({ noNaics: true });
+      } else {
+        this.setState({ noNaics: false });
+      }
+      if (naicss.length === 1 && naicss[0].NAICS_Code.length > 0) {
+        this.setState({ NAICS_Code: naicss[0]["NAICS_Code.1"] });
+      }
+    } else {
+      this.setState({ naicss: [{ NAICS_Code: "" }] });
+    }
+  };
+
   // selectedItem = event => {
   //   alert(event.target.value);
   // };
@@ -120,6 +183,8 @@ class App extends Component {
   render() {
     const { matches, noMatch } = this.state;
     const { states, noState } = this.state;
+    const { socs, noSoc } = this.state;
+    const { naicss, noNaics } = this.state;
     return (
       <div style={styles.paperContainer}>
         {/* <LinearGradient
@@ -185,16 +250,36 @@ class App extends Component {
                       class="form-control"
                       placeholder="SOC_Code"
                       name="SOC_Code"
-                      onChange={this.handleChange}
+                      onChange={this.socList}
+                      list="filterList2"
                     />
+                    {socs.length > 0 && (
+                      <datalist id="filterList2">
+                        {socs.map((match2, index) => (
+                          <option key={index} value={`${match2.SOC_Code}`} />
+                        ))}
+                      </datalist>
+                    )}
+                    {noSoc && <p> No soc found</p>}
+
                     <br></br>
                     <input
                       type="text"
                       class="form-control"
-                      placeholder="NAICS_code"
-                      name="NAICS_code"
-                      onChange={this.handleChange}
+                      placeholder="NAICS_Code"
+                      name="NAICS_Code"
+                      onChange={this.naicsList}
+                      list="filterList3"
                     />
+                    {naicss.length > 0 && (
+                      <datalist id="filterList3">
+                        {naicss.map((match3, index) => (
+                          <option key={index} value={`${match3.NAICS_Code}`} />
+                        ))}
+                      </datalist>
+                    )}
+                    {noNaics && <p> No naics found</p>}
+
                     <br></br>
                     <input
                       type="text"

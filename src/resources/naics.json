@@ -1,0 +1,9807 @@
+[
+  {
+    "": 116642,
+    "NAICS_Code": "1111",
+    "NAICS_Code.1": 0
+  },
+  {
+    "": 26069,
+    "NAICS_Code": "1112",
+    "NAICS_Code.1": 1
+  },
+  {
+    "": 316565,
+    "NAICS_Code": "1113",
+    "NAICS_Code.1": 2
+  },
+  {
+    "": 314631,
+    "NAICS_Code": "1114",
+    "NAICS_Code.1": 3
+  },
+  {
+    "": 31,
+    "NAICS_Code": "1121",
+    "NAICS_Code.1": 4
+  },
+  {
+    "": 74146,
+    "NAICS_Code": "1125",
+    "NAICS_Code.1": 5
+  },
+  {
+    "": 374058,
+    "NAICS_Code": "1151",
+    "NAICS_Code.1": 6
+  },
+  {
+    "": 214058,
+    "NAICS_Code": "1153",
+    "NAICS_Code.1": 7
+  },
+  {
+    "": 12585,
+    "NAICS_Code": "2111",
+    "NAICS_Code.1": 8
+  },
+  {
+    "": 196459,
+    "NAICS_Code": "2121",
+    "NAICS_Code.1": 9
+  },
+  {
+    "": 42290,
+    "NAICS_Code": "2122",
+    "NAICS_Code.1": 10
+  },
+  {
+    "": 43700,
+    "NAICS_Code": "2131",
+    "NAICS_Code.1": 11
+  },
+  {
+    "": 17722,
+    "NAICS_Code": "2211",
+    "NAICS_Code.1": 12
+  },
+  {
+    "": 135057,
+    "NAICS_Code": "2212",
+    "NAICS_Code.1": 13
+  },
+  {
+    "": 4506,
+    "NAICS_Code": "2213",
+    "NAICS_Code.1": 14
+  },
+  {
+    "": 8634,
+    "NAICS_Code": "2361",
+    "NAICS_Code.1": 15
+  },
+  {
+    "": 285,
+    "NAICS_Code": "2362",
+    "NAICS_Code.1": 16
+  },
+  {
+    "": 183841,
+    "NAICS_Code": "2371",
+    "NAICS_Code.1": 17
+  },
+  {
+    "": 316399,
+    "NAICS_Code": "2372",
+    "NAICS_Code.1": 18
+  },
+  {
+    "": 1511,
+    "NAICS_Code": "2373",
+    "NAICS_Code.1": 19
+  },
+  {
+    "": 20913,
+    "NAICS_Code": "2379",
+    "NAICS_Code.1": 20
+  },
+  {
+    "": 11434,
+    "NAICS_Code": "2381",
+    "NAICS_Code.1": 21
+  },
+  {
+    "": 321572,
+    "NAICS_Code": "2382",
+    "NAICS_Code.1": 22
+  },
+  {
+    "": 19537,
+    "NAICS_Code": "2383",
+    "NAICS_Code.1": 23
+  },
+  {
+    "": 834,
+    "NAICS_Code": "2389",
+    "NAICS_Code.1": 24
+  },
+  {
+    "": 27458,
+    "NAICS_Code": "3111",
+    "NAICS_Code.1": 25
+  },
+  {
+    "": 214768,
+    "NAICS_Code": "3112",
+    "NAICS_Code.1": 26
+  },
+  {
+    "": 169552,
+    "NAICS_Code": "3113",
+    "NAICS_Code.1": 27
+  },
+  {
+    "": 24559,
+    "NAICS_Code": "3114",
+    "NAICS_Code.1": 28
+  },
+  {
+    "": 20138,
+    "NAICS_Code": "3115",
+    "NAICS_Code.1": 29
+  },
+  {
+    "": 3391,
+    "NAICS_Code": "3117",
+    "NAICS_Code.1": 30
+  },
+  {
+    "": 319173,
+    "NAICS_Code": "3118",
+    "NAICS_Code.1": 31
+  },
+  {
+    "": 9137,
+    "NAICS_Code": "3119",
+    "NAICS_Code.1": 32
+  },
+  {
+    "": 18822,
+    "NAICS_Code": "3121",
+    "NAICS_Code.1": 33
+  },
+  {
+    "": 25030,
+    "NAICS_Code": "3131",
+    "NAICS_Code.1": 34
+  },
+  {
+    "": 23108,
+    "NAICS_Code": "3133",
+    "NAICS_Code.1": 35
+  },
+  {
+    "": 78196,
+    "NAICS_Code": "3141",
+    "NAICS_Code.1": 36
+  },
+  {
+    "": 316393,
+    "NAICS_Code": "3149",
+    "NAICS_Code.1": 37
+  },
+  {
+    "": 20406,
+    "NAICS_Code": "3151",
+    "NAICS_Code.1": 38
+  },
+  {
+    "": 903,
+    "NAICS_Code": "3152",
+    "NAICS_Code.1": 39
+  },
+  {
+    "": 20038,
+    "NAICS_Code": "3159",
+    "NAICS_Code.1": 40
+  },
+  {
+    "": 441757,
+    "NAICS_Code": "3162",
+    "NAICS_Code.1": 41
+  },
+  {
+    "": 4026,
+    "NAICS_Code": "3219",
+    "NAICS_Code.1": 42
+  },
+  {
+    "": 102353,
+    "NAICS_Code": "3221",
+    "NAICS_Code.1": 43
+  },
+  {
+    "": 20357,
+    "NAICS_Code": "3222",
+    "NAICS_Code.1": 44
+  },
+  {
+    "": 1402,
+    "NAICS_Code": "3231",
+    "NAICS_Code.1": 45
+  },
+  {
+    "": 111576,
+    "NAICS_Code": "3241",
+    "NAICS_Code.1": 46
+  },
+  {
+    "": 25400,
+    "NAICS_Code": "3251",
+    "NAICS_Code.1": 47
+  },
+  {
+    "": 12578,
+    "NAICS_Code": "3253",
+    "NAICS_Code.1": 48
+  },
+  {
+    "": 427,
+    "NAICS_Code": "3254",
+    "NAICS_Code.1": 49
+  },
+  {
+    "": 93362,
+    "NAICS_Code": "3255",
+    "NAICS_Code.1": 50
+  },
+  {
+    "": 66014,
+    "NAICS_Code": "3256",
+    "NAICS_Code.1": 51
+  },
+  {
+    "": 40510,
+    "NAICS_Code": "3259",
+    "NAICS_Code.1": 52
+  },
+  {
+    "": 1546,
+    "NAICS_Code": "3261",
+    "NAICS_Code.1": 53
+  },
+  {
+    "": 253895,
+    "NAICS_Code": "3262",
+    "NAICS_Code.1": 54
+  },
+  {
+    "": 426460,
+    "NAICS_Code": "3271",
+    "NAICS_Code.1": 55
+  },
+  {
+    "": 283150,
+    "NAICS_Code": "3272",
+    "NAICS_Code.1": 56
+  },
+  {
+    "": 217217,
+    "NAICS_Code": "3273",
+    "NAICS_Code.1": 57
+  },
+  {
+    "": 65824,
+    "NAICS_Code": "3279",
+    "NAICS_Code.1": 58
+  },
+  {
+    "": 46223,
+    "NAICS_Code": "3311",
+    "NAICS_Code.1": 59
+  },
+  {
+    "": 1758,
+    "NAICS_Code": "3312",
+    "NAICS_Code.1": 60
+  },
+  {
+    "": 347831,
+    "NAICS_Code": "3313",
+    "NAICS_Code.1": 61
+  },
+  {
+    "": 538325,
+    "NAICS_Code": "3314",
+    "NAICS_Code.1": 62
+  },
+  {
+    "": 2465,
+    "NAICS_Code": "3323",
+    "NAICS_Code.1": 63
+  },
+  {
+    "": 1858,
+    "NAICS_Code": "3324",
+    "NAICS_Code.1": 64
+  },
+  {
+    "": 14144,
+    "NAICS_Code": "3325",
+    "NAICS_Code.1": 65
+  },
+  {
+    "": 32255,
+    "NAICS_Code": "3326",
+    "NAICS_Code.1": 66
+  },
+  {
+    "": 70645,
+    "NAICS_Code": "3327",
+    "NAICS_Code.1": 67
+  },
+  {
+    "": 25142,
+    "NAICS_Code": "3329",
+    "NAICS_Code.1": 68
+  },
+  {
+    "": 82632,
+    "NAICS_Code": "3331",
+    "NAICS_Code.1": 69
+  },
+  {
+    "": 27836,
+    "NAICS_Code": "3332",
+    "NAICS_Code.1": 70
+  },
+  {
+    "": 503252,
+    "NAICS_Code": "3333",
+    "NAICS_Code.1": 71
+  },
+  {
+    "": 65266,
+    "NAICS_Code": "3334",
+    "NAICS_Code.1": 72
+  },
+  {
+    "": 39732,
+    "NAICS_Code": "3335",
+    "NAICS_Code.1": 73
+  },
+  {
+    "": 27453,
+    "NAICS_Code": "3336",
+    "NAICS_Code.1": 74
+  },
+  {
+    "": 32547,
+    "NAICS_Code": "3339",
+    "NAICS_Code.1": 75
+  },
+  {
+    "": 1980,
+    "NAICS_Code": "3341",
+    "NAICS_Code.1": 76
+  },
+  {
+    "": 25879,
+    "NAICS_Code": "3342",
+    "NAICS_Code.1": 77
+  },
+  {
+    "": 21328,
+    "NAICS_Code": "3343",
+    "NAICS_Code.1": 78
+  },
+  {
+    "": 6798,
+    "NAICS_Code": "3344",
+    "NAICS_Code.1": 79
+  },
+  {
+    "": 6775,
+    "NAICS_Code": "3345",
+    "NAICS_Code.1": 80
+  },
+  {
+    "": 36233,
+    "NAICS_Code": "3351",
+    "NAICS_Code.1": 81
+  },
+  {
+    "": 309103,
+    "NAICS_Code": "3352",
+    "NAICS_Code.1": 82
+  },
+  {
+    "": 30320,
+    "NAICS_Code": "3353",
+    "NAICS_Code.1": 83
+  },
+  {
+    "": 4671,
+    "NAICS_Code": "3359",
+    "NAICS_Code.1": 84
+  },
+  {
+    "": 6563,
+    "NAICS_Code": "3361",
+    "NAICS_Code.1": 85
+  },
+  {
+    "": 22215,
+    "NAICS_Code": "3363",
+    "NAICS_Code.1": 86
+  },
+  {
+    "": 35673,
+    "NAICS_Code": "3364",
+    "NAICS_Code.1": 87
+  },
+  {
+    "": 33337,
+    "NAICS_Code": "3365",
+    "NAICS_Code.1": 88
+  },
+  {
+    "": 218592,
+    "NAICS_Code": "3369",
+    "NAICS_Code.1": 89
+  },
+  {
+    "": 44049,
+    "NAICS_Code": "3371",
+    "NAICS_Code.1": 90
+  },
+  {
+    "": 23441,
+    "NAICS_Code": "3372",
+    "NAICS_Code.1": 91
+  },
+  {
+    "": 39165,
+    "NAICS_Code": "3379",
+    "NAICS_Code.1": 92
+  },
+  {
+    "": 18090,
+    "NAICS_Code": "3391",
+    "NAICS_Code.1": 93
+  },
+  {
+    "": 25563,
+    "NAICS_Code": "3399",
+    "NAICS_Code.1": 94
+  },
+  {
+    "": 13336,
+    "NAICS_Code": "4231",
+    "NAICS_Code.1": 95
+  },
+  {
+    "": 36979,
+    "NAICS_Code": "4232",
+    "NAICS_Code.1": 96
+  },
+  {
+    "": 3743,
+    "NAICS_Code": "4233",
+    "NAICS_Code.1": 97
+  },
+  {
+    "": 49048,
+    "NAICS_Code": "4234",
+    "NAICS_Code.1": 98
+  },
+  {
+    "": 314546,
+    "NAICS_Code": "4235",
+    "NAICS_Code.1": 99
+  },
+  {
+    "": 705,
+    "NAICS_Code": "4236",
+    "NAICS_Code.1": 100
+  },
+  {
+    "": 233,
+    "NAICS_Code": "4237",
+    "NAICS_Code.1": 101
+  },
+  {
+    "": 30245,
+    "NAICS_Code": "4238",
+    "NAICS_Code.1": 102
+  },
+  {
+    "": 22972,
+    "NAICS_Code": "4239",
+    "NAICS_Code.1": 103
+  },
+  {
+    "": 1670,
+    "NAICS_Code": "4241",
+    "NAICS_Code.1": 104
+  },
+  {
+    "": 261001,
+    "NAICS_Code": "4242",
+    "NAICS_Code.1": 105
+  },
+  {
+    "": 2416,
+    "NAICS_Code": "4243",
+    "NAICS_Code.1": 106
+  },
+  {
+    "": 1974,
+    "NAICS_Code": "4244",
+    "NAICS_Code.1": 107
+  },
+  {
+    "": 316558,
+    "NAICS_Code": "4245",
+    "NAICS_Code.1": 108
+  },
+  {
+    "": 313652,
+    "NAICS_Code": "4246",
+    "NAICS_Code.1": 109
+  },
+  {
+    "": 2014,
+    "NAICS_Code": "4247",
+    "NAICS_Code.1": 110
+  },
+  {
+    "": 951,
+    "NAICS_Code": "4248",
+    "NAICS_Code.1": 111
+  },
+  {
+    "": 36513,
+    "NAICS_Code": "4249",
+    "NAICS_Code.1": 112
+  },
+  {
+    "": 162828,
+    "NAICS_Code": "4251",
+    "NAICS_Code.1": 113
+  },
+  {
+    "": 2812,
+    "NAICS_Code": "4411",
+    "NAICS_Code.1": 114
+  },
+  {
+    "": 43444,
+    "NAICS_Code": "4412",
+    "NAICS_Code.1": 115
+  },
+  {
+    "": 182,
+    "NAICS_Code": "4413",
+    "NAICS_Code.1": 116
+  },
+  {
+    "": 32772,
+    "NAICS_Code": "4421",
+    "NAICS_Code.1": 117
+  },
+  {
+    "": 19582,
+    "NAICS_Code": "4422",
+    "NAICS_Code.1": 118
+  },
+  {
+    "": 4347,
+    "NAICS_Code": "4431",
+    "NAICS_Code.1": 119
+  },
+  {
+    "": 367329,
+    "NAICS_Code": "4441",
+    "NAICS_Code.1": 120
+  },
+  {
+    "": 992,
+    "NAICS_Code": "4451",
+    "NAICS_Code.1": 121
+  },
+  {
+    "": 5232,
+    "NAICS_Code": "4452",
+    "NAICS_Code.1": 122
+  },
+  {
+    "": 2356,
+    "NAICS_Code": "4453",
+    "NAICS_Code.1": 123
+  },
+  {
+    "": 316800,
+    "NAICS_Code": "4461",
+    "NAICS_Code.1": 124
+  },
+  {
+    "": 7772,
+    "NAICS_Code": "4471",
+    "NAICS_Code.1": 125
+  },
+  {
+    "": 430,
+    "NAICS_Code": "4481",
+    "NAICS_Code.1": 126
+  },
+  {
+    "": 330691,
+    "NAICS_Code": "4482",
+    "NAICS_Code.1": 127
+  },
+  {
+    "": 337098,
+    "NAICS_Code": "4483",
+    "NAICS_Code.1": 128
+  },
+  {
+    "": 1514,
+    "NAICS_Code": "4511",
+    "NAICS_Code.1": 129
+  },
+  {
+    "": 167954,
+    "NAICS_Code": "4512",
+    "NAICS_Code.1": 130
+  },
+  {
+    "": 2595,
+    "NAICS_Code": "4529",
+    "NAICS_Code.1": 131
+  },
+  {
+    "": 3170,
+    "NAICS_Code": "4531",
+    "NAICS_Code.1": 132
+  },
+  {
+    "": 2539,
+    "NAICS_Code": "4532",
+    "NAICS_Code.1": 133
+  },
+  {
+    "": 16,
+    "NAICS_Code": "4539",
+    "NAICS_Code.1": 134
+  },
+  {
+    "": 14701,
+    "NAICS_Code": "4541",
+    "NAICS_Code.1": 135
+  },
+  {
+    "": 324345,
+    "NAICS_Code": "4811",
+    "NAICS_Code.1": 136
+  },
+  {
+    "": 289788,
+    "NAICS_Code": "4812",
+    "NAICS_Code.1": 137
+  },
+  {
+    "": 509147,
+    "NAICS_Code": "4831",
+    "NAICS_Code.1": 138
+  },
+  {
+    "": 12040,
+    "NAICS_Code": "4841",
+    "NAICS_Code.1": 139
+  },
+  {
+    "": 159836,
+    "NAICS_Code": "4842",
+    "NAICS_Code.1": 140
+  },
+  {
+    "": 375335,
+    "NAICS_Code": "4851",
+    "NAICS_Code.1": 141
+  },
+  {
+    "": 51270,
+    "NAICS_Code": "4852",
+    "NAICS_Code.1": 142
+  },
+  {
+    "": 64920,
+    "NAICS_Code": "4853",
+    "NAICS_Code.1": 143
+  },
+  {
+    "": 341217,
+    "NAICS_Code": "4854",
+    "NAICS_Code.1": 144
+  },
+  {
+    "": 24544,
+    "NAICS_Code": "4859",
+    "NAICS_Code.1": 145
+  },
+  {
+    "": 550073,
+    "NAICS_Code": "4862",
+    "NAICS_Code.1": 146
+  },
+  {
+    "": 335785,
+    "NAICS_Code": "4881",
+    "NAICS_Code.1": 147
+  },
+  {
+    "": 353304,
+    "NAICS_Code": "4882",
+    "NAICS_Code.1": 148
+  },
+  {
+    "": 239189,
+    "NAICS_Code": "4883",
+    "NAICS_Code.1": 149
+  },
+  {
+    "": 19351,
+    "NAICS_Code": "4885",
+    "NAICS_Code.1": 150
+  },
+  {
+    "": 224090,
+    "NAICS_Code": "4889",
+    "NAICS_Code.1": 151
+  },
+  {
+    "": 4905,
+    "NAICS_Code": "4921",
+    "NAICS_Code.1": 152
+  },
+  {
+    "": 318369,
+    "NAICS_Code": "4922",
+    "NAICS_Code.1": 153
+  },
+  {
+    "": 4178,
+    "NAICS_Code": "4931",
+    "NAICS_Code.1": 154
+  },
+  {
+    "": 1784,
+    "NAICS_Code": "5014",
+    "NAICS_Code.1": 155
+  },
+  {
+    "": 1106,
+    "NAICS_Code": "5111",
+    "NAICS_Code.1": 156
+  },
+  {
+    "": 1075,
+    "NAICS_Code": "5112",
+    "NAICS_Code.1": 157
+  },
+  {
+    "": 21801,
+    "NAICS_Code": "5121",
+    "NAICS_Code.1": 158
+  },
+  {
+    "": 337,
+    "NAICS_Code": "5122",
+    "NAICS_Code.1": 159
+  },
+  {
+    "": 78491,
+    "NAICS_Code": "5141",
+    "NAICS_Code.1": 160
+  },
+  {
+    "": 748,
+    "NAICS_Code": "5151",
+    "NAICS_Code.1": 161
+  },
+  {
+    "": 371899,
+    "NAICS_Code": "5152",
+    "NAICS_Code.1": 162
+  },
+  {
+    "": 228627,
+    "NAICS_Code": "5161",
+    "NAICS_Code.1": 163
+  },
+  {
+    "": 57419,
+    "NAICS_Code": "5171",
+    "NAICS_Code.1": 164
+  },
+  {
+    "": 19836,
+    "NAICS_Code": "5172",
+    "NAICS_Code.1": 165
+  },
+  {
+    "": 319506,
+    "NAICS_Code": "5173",
+    "NAICS_Code.1": 166
+  },
+  {
+    "": 528100,
+    "NAICS_Code": "5174",
+    "NAICS_Code.1": 167
+  },
+  {
+    "": 26246,
+    "NAICS_Code": "5179",
+    "NAICS_Code.1": 168
+  },
+  {
+    "": 93337,
+    "NAICS_Code": "5181",
+    "NAICS_Code.1": 169
+  },
+  {
+    "": 6729,
+    "NAICS_Code": "5182",
+    "NAICS_Code.1": 170
+  },
+  {
+    "": 1636,
+    "NAICS_Code": "5191",
+    "NAICS_Code.1": 171
+  },
+  {
+    "": 570871,
+    "NAICS_Code": "5211",
+    "NAICS_Code.1": 172
+  },
+  {
+    "": 225376,
+    "NAICS_Code": "5221",
+    "NAICS_Code.1": 173
+  },
+  {
+    "": 4488,
+    "NAICS_Code": "5222",
+    "NAICS_Code.1": 174
+  },
+  {
+    "": 43579,
+    "NAICS_Code": "5223",
+    "NAICS_Code.1": 175
+  },
+  {
+    "": 46494,
+    "NAICS_Code": "5231",
+    "NAICS_Code.1": 176
+  },
+  {
+    "": 344037,
+    "NAICS_Code": "5232",
+    "NAICS_Code.1": 177
+  },
+  {
+    "": 2777,
+    "NAICS_Code": "5239",
+    "NAICS_Code.1": 178
+  },
+  {
+    "": 19884,
+    "NAICS_Code": "5241",
+    "NAICS_Code.1": 179
+  },
+  {
+    "": 1743,
+    "NAICS_Code": "5242",
+    "NAICS_Code.1": 180
+  },
+  {
+    "": 74264,
+    "NAICS_Code": "5251",
+    "NAICS_Code.1": 181
+  },
+  {
+    "": 36442,
+    "NAICS_Code": "5259",
+    "NAICS_Code.1": 182
+  },
+  {
+    "": 18968,
+    "NAICS_Code": "5311",
+    "NAICS_Code.1": 183
+  },
+  {
+    "": 1804,
+    "NAICS_Code": "5312",
+    "NAICS_Code.1": 184
+  },
+  {
+    "": 937,
+    "NAICS_Code": "5313",
+    "NAICS_Code.1": 185
+  },
+  {
+    "": 221684,
+    "NAICS_Code": "5321",
+    "NAICS_Code.1": 186
+  },
+  {
+    "": 434333,
+    "NAICS_Code": "5322",
+    "NAICS_Code.1": 187
+  },
+  {
+    "": 35771,
+    "NAICS_Code": "5323",
+    "NAICS_Code.1": 188
+  },
+  {
+    "": 58384,
+    "NAICS_Code": "5324",
+    "NAICS_Code.1": 189
+  },
+  {
+    "": 315232,
+    "NAICS_Code": "5331",
+    "NAICS_Code.1": 190
+  },
+  {
+    "": 1074,
+    "NAICS_Code": "5411",
+    "NAICS_Code.1": 191
+  },
+  {
+    "": 2898,
+    "NAICS_Code": "5412",
+    "NAICS_Code.1": 192
+  },
+  {
+    "": 567,
+    "NAICS_Code": "5413",
+    "NAICS_Code.1": 193
+  },
+  {
+    "": 698,
+    "NAICS_Code": "5414",
+    "NAICS_Code.1": 194
+  },
+  {
+    "": 550,
+    "NAICS_Code": "5415",
+    "NAICS_Code.1": 195
+  },
+  {
+    "": 656,
+    "NAICS_Code": "5416",
+    "NAICS_Code.1": 196
+  },
+  {
+    "": 350,
+    "NAICS_Code": "5417",
+    "NAICS_Code.1": 197
+  },
+  {
+    "": 284,
+    "NAICS_Code": "5418",
+    "NAICS_Code.1": 198
+  },
+  {
+    "": 18159,
+    "NAICS_Code": "5419",
+    "NAICS_Code.1": 199
+  },
+  {
+    "": 1569,
+    "NAICS_Code": "5511",
+    "NAICS_Code.1": 200
+  },
+  {
+    "": 34129,
+    "NAICS_Code": "5611",
+    "NAICS_Code.1": 201
+  },
+  {
+    "": 2281,
+    "NAICS_Code": "5613",
+    "NAICS_Code.1": 202
+  },
+  {
+    "": 441,
+    "NAICS_Code": "5614",
+    "NAICS_Code.1": 203
+  },
+  {
+    "": 1306,
+    "NAICS_Code": "5615",
+    "NAICS_Code.1": 204
+  },
+  {
+    "": 92789,
+    "NAICS_Code": "5616",
+    "NAICS_Code.1": 205
+  },
+  {
+    "": 325939,
+    "NAICS_Code": "5617",
+    "NAICS_Code.1": 206
+  },
+  {
+    "": 672,
+    "NAICS_Code": "5619",
+    "NAICS_Code.1": 207
+  },
+  {
+    "": 22223,
+    "NAICS_Code": "5621",
+    "NAICS_Code.1": 208
+  },
+  {
+    "": 72957,
+    "NAICS_Code": "5622",
+    "NAICS_Code.1": 209
+  },
+  {
+    "": 393986,
+    "NAICS_Code": "5629",
+    "NAICS_Code.1": 210
+  },
+  {
+    "": 70,
+    "NAICS_Code": "6111",
+    "NAICS_Code.1": 211
+  },
+  {
+    "": 3047,
+    "NAICS_Code": "6112",
+    "NAICS_Code.1": 212
+  },
+  {
+    "": 43,
+    "NAICS_Code": "6113",
+    "NAICS_Code.1": 213
+  },
+  {
+    "": 655,
+    "NAICS_Code": "6114",
+    "NAICS_Code.1": 214
+  },
+  {
+    "": 56514,
+    "NAICS_Code": "6115",
+    "NAICS_Code.1": 215
+  },
+  {
+    "": 93,
+    "NAICS_Code": "6116",
+    "NAICS_Code.1": 216
+  },
+  {
+    "": 680,
+    "NAICS_Code": "6117",
+    "NAICS_Code.1": 217
+  },
+  {
+    "": 18736,
+    "NAICS_Code": "6211",
+    "NAICS_Code.1": 218
+  },
+  {
+    "": 11745,
+    "NAICS_Code": "6212",
+    "NAICS_Code.1": 219
+  },
+  {
+    "": 214,
+    "NAICS_Code": "6213",
+    "NAICS_Code.1": 220
+  },
+  {
+    "": 334526,
+    "NAICS_Code": "6214",
+    "NAICS_Code.1": 221
+  },
+  {
+    "": 10361,
+    "NAICS_Code": "6215",
+    "NAICS_Code.1": 222
+  },
+  {
+    "": 68,
+    "NAICS_Code": "6216",
+    "NAICS_Code.1": 223
+  },
+  {
+    "": 246142,
+    "NAICS_Code": "6219",
+    "NAICS_Code.1": 224
+  },
+  {
+    "": 519,
+    "NAICS_Code": "6221",
+    "NAICS_Code.1": 225
+  },
+  {
+    "": 74391,
+    "NAICS_Code": "6222",
+    "NAICS_Code.1": 226
+  },
+  {
+    "": 348290,
+    "NAICS_Code": "6223",
+    "NAICS_Code.1": 227
+  },
+  {
+    "": 4999,
+    "NAICS_Code": "6231",
+    "NAICS_Code.1": 228
+  },
+  {
+    "": 338032,
+    "NAICS_Code": "6232",
+    "NAICS_Code.1": 229
+  },
+  {
+    "": 314475,
+    "NAICS_Code": "6233",
+    "NAICS_Code.1": 230
+  },
+  {
+    "": 417945,
+    "NAICS_Code": "6239",
+    "NAICS_Code.1": 231
+  },
+  {
+    "": 678,
+    "NAICS_Code": "6241",
+    "NAICS_Code.1": 232
+  },
+  {
+    "": 19553,
+    "NAICS_Code": "6242",
+    "NAICS_Code.1": 233
+  },
+  {
+    "": 1305,
+    "NAICS_Code": "6243",
+    "NAICS_Code.1": 234
+  },
+  {
+    "": 19128,
+    "NAICS_Code": "6244",
+    "NAICS_Code.1": 235
+  },
+  {
+    "": 55860,
+    "NAICS_Code": "7111",
+    "NAICS_Code.1": 236
+  },
+  {
+    "": 252188,
+    "NAICS_Code": "7112",
+    "NAICS_Code.1": 237
+  },
+  {
+    "": 342,
+    "NAICS_Code": "7113",
+    "NAICS_Code.1": 238
+  },
+  {
+    "": 15630,
+    "NAICS_Code": "7114",
+    "NAICS_Code.1": 239
+  },
+  {
+    "": 4495,
+    "NAICS_Code": "7115",
+    "NAICS_Code.1": 240
+  },
+  {
+    "": 389,
+    "NAICS_Code": "7121",
+    "NAICS_Code.1": 241
+  },
+  {
+    "": 23225,
+    "NAICS_Code": "7131",
+    "NAICS_Code.1": 242
+  },
+  {
+    "": 58258,
+    "NAICS_Code": "7132",
+    "NAICS_Code.1": 243
+  },
+  {
+    "": 225,
+    "NAICS_Code": "7139",
+    "NAICS_Code.1": 244
+  },
+  {
+    "": 21,
+    "NAICS_Code": "7211",
+    "NAICS_Code.1": 245
+  },
+  {
+    "": 47,
+    "NAICS_Code": "7221",
+    "NAICS_Code.1": 246
+  },
+  {
+    "": 22094,
+    "NAICS_Code": "7223",
+    "NAICS_Code.1": 247
+  },
+  {
+    "": 162,
+    "NAICS_Code": "7225",
+    "NAICS_Code.1": 248
+  },
+  {
+    "": 314851,
+    "NAICS_Code": "8111",
+    "NAICS_Code.1": 249
+  },
+  {
+    "": 337074,
+    "NAICS_Code": "8112",
+    "NAICS_Code.1": 250
+  },
+  {
+    "": 3841,
+    "NAICS_Code": "8113",
+    "NAICS_Code.1": 251
+  },
+  {
+    "": 24503,
+    "NAICS_Code": "8121",
+    "NAICS_Code.1": 252
+  },
+  {
+    "": 349083,
+    "NAICS_Code": "8129",
+    "NAICS_Code.1": 253
+  },
+  {
+    "": 243,
+    "NAICS_Code": "8131",
+    "NAICS_Code.1": 254
+  },
+  {
+    "": 315394,
+    "NAICS_Code": "8132",
+    "NAICS_Code.1": 255
+  },
+  {
+    "": 3893,
+    "NAICS_Code": "8133",
+    "NAICS_Code.1": 256
+  },
+  {
+    "": 3285,
+    "NAICS_Code": "8134",
+    "NAICS_Code.1": 257
+  },
+  {
+    "": 37402,
+    "NAICS_Code": "8139",
+    "NAICS_Code.1": 258
+  },
+  {
+    "": 314281,
+    "NAICS_Code": "8141",
+    "NAICS_Code.1": 259
+  },
+  {
+    "": 3305,
+    "NAICS_Code": "9211",
+    "NAICS_Code.1": 260
+  },
+  {
+    "": 82317,
+    "NAICS_Code": "9221",
+    "NAICS_Code.1": 261
+  },
+  {
+    "": 274516,
+    "NAICS_Code": "9231",
+    "NAICS_Code.1": 262
+  },
+  {
+    "": 348000,
+    "NAICS_Code": "9241",
+    "NAICS_Code.1": 263
+  },
+  {
+    "": 27319,
+    "NAICS_Code": "9251",
+    "NAICS_Code.1": 264
+  },
+  {
+    "": 40647,
+    "NAICS_Code": "9261",
+    "NAICS_Code.1": 265
+  },
+  {
+    "": 444487,
+    "NAICS_Code": "9271",
+    "NAICS_Code.1": 266
+  },
+  {
+    "": 346022,
+    "NAICS_Code": "9281",
+    "NAICS_Code.1": 267
+  },
+  {
+    "": 353920,
+    "NAICS_Code": "11119",
+    "NAICS_Code.1": 268
+  },
+  {
+    "": 19558,
+    "NAICS_Code": "11121",
+    "NAICS_Code.1": 269
+  },
+  {
+    "": 252550,
+    "NAICS_Code": "11141",
+    "NAICS_Code.1": 270
+  },
+  {
+    "": 19547,
+    "NAICS_Code": "11142",
+    "NAICS_Code.1": 271
+  },
+  {
+    "": 542393,
+    "NAICS_Code": "11194",
+    "NAICS_Code.1": 272
+  },
+  {
+    "": 379484,
+    "NAICS_Code": "11199",
+    "NAICS_Code.1": 273
+  },
+  {
+    "": 23857,
+    "NAICS_Code": "11210",
+    "NAICS_Code.1": 274
+  },
+  {
+    "": 58452,
+    "NAICS_Code": "11212",
+    "NAICS_Code.1": 275
+  },
+  {
+    "": 22430,
+    "NAICS_Code": "11234",
+    "NAICS_Code.1": 276
+  },
+  {
+    "": 215665,
+    "NAICS_Code": "11251",
+    "NAICS_Code.1": 277
+  },
+  {
+    "": 19053,
+    "NAICS_Code": "11292",
+    "NAICS_Code.1": 278
+  },
+  {
+    "": 506245,
+    "NAICS_Code": "11511",
+    "NAICS_Code.1": 279
+  },
+  {
+    "": 340074,
+    "NAICS_Code": "11521",
+    "NAICS_Code.1": 280
+  },
+  {
+    "": 2847,
+    "NAICS_Code": "21111",
+    "NAICS_Code.1": 281
+  },
+  {
+    "": 105258,
+    "NAICS_Code": "21211",
+    "NAICS_Code.1": 282
+  },
+  {
+    "": 284160,
+    "NAICS_Code": "21222",
+    "NAICS_Code.1": 283
+  },
+  {
+    "": 214573,
+    "NAICS_Code": "21223",
+    "NAICS_Code.1": 284
+  },
+  {
+    "": 252585,
+    "NAICS_Code": "21229",
+    "NAICS_Code.1": 285
+  },
+  {
+    "": 358467,
+    "NAICS_Code": "21232",
+    "NAICS_Code.1": 286
+  },
+  {
+    "": 346926,
+    "NAICS_Code": "21311",
+    "NAICS_Code.1": 287
+  },
+  {
+    "": 1840,
+    "NAICS_Code": "22111",
+    "NAICS_Code.1": 288
+  },
+  {
+    "": 32267,
+    "NAICS_Code": "22112",
+    "NAICS_Code.1": 289
+  },
+  {
+    "": 405651,
+    "NAICS_Code": "22121",
+    "NAICS_Code.1": 290
+  },
+  {
+    "": 34752,
+    "NAICS_Code": "22131",
+    "NAICS_Code.1": 291
+  },
+  {
+    "": 365116,
+    "NAICS_Code": "22133",
+    "NAICS_Code.1": 292
+  },
+  {
+    "": 301,
+    "NAICS_Code": "23611",
+    "NAICS_Code.1": 293
+  },
+  {
+    "": 4498,
+    "NAICS_Code": "23621",
+    "NAICS_Code.1": 294
+  },
+  {
+    "": 24,
+    "NAICS_Code": "23622",
+    "NAICS_Code.1": 295
+  },
+  {
+    "": 28468,
+    "NAICS_Code": "23711",
+    "NAICS_Code.1": 296
+  },
+  {
+    "": 45719,
+    "NAICS_Code": "23712",
+    "NAICS_Code.1": 297
+  },
+  {
+    "": 171370,
+    "NAICS_Code": "23731",
+    "NAICS_Code.1": 298
+  },
+  {
+    "": 366,
+    "NAICS_Code": "23799",
+    "NAICS_Code.1": 299
+  },
+  {
+    "": 36013,
+    "NAICS_Code": "23811",
+    "NAICS_Code.1": 300
+  },
+  {
+    "": 29129,
+    "NAICS_Code": "23812",
+    "NAICS_Code.1": 301
+  },
+  {
+    "": 24702,
+    "NAICS_Code": "23813",
+    "NAICS_Code.1": 302
+  },
+  {
+    "": 35590,
+    "NAICS_Code": "23814",
+    "NAICS_Code.1": 303
+  },
+  {
+    "": 102747,
+    "NAICS_Code": "23815",
+    "NAICS_Code.1": 304
+  },
+  {
+    "": 315571,
+    "NAICS_Code": "23816",
+    "NAICS_Code.1": 305
+  },
+  {
+    "": 36573,
+    "NAICS_Code": "23819",
+    "NAICS_Code.1": 306
+  },
+  {
+    "": 247,
+    "NAICS_Code": "23821",
+    "NAICS_Code.1": 307
+  },
+  {
+    "": 35589,
+    "NAICS_Code": "23822",
+    "NAICS_Code.1": 308
+  },
+  {
+    "": 28264,
+    "NAICS_Code": "23829",
+    "NAICS_Code.1": 309
+  },
+  {
+    "": 329832,
+    "NAICS_Code": "23831",
+    "NAICS_Code.1": 310
+  },
+  {
+    "": 333239,
+    "NAICS_Code": "23833",
+    "NAICS_Code.1": 311
+  },
+  {
+    "": 20526,
+    "NAICS_Code": "23834",
+    "NAICS_Code.1": 312
+  },
+  {
+    "": 352530,
+    "NAICS_Code": "23839",
+    "NAICS_Code.1": 313
+  },
+  {
+    "": 81541,
+    "NAICS_Code": "23891",
+    "NAICS_Code.1": 314
+  },
+  {
+    "": 4039,
+    "NAICS_Code": "23899",
+    "NAICS_Code.1": 315
+  },
+  {
+    "": 30702,
+    "NAICS_Code": "31111",
+    "NAICS_Code.1": 316
+  },
+  {
+    "": 178771,
+    "NAICS_Code": "31122",
+    "NAICS_Code.1": 317
+  },
+  {
+    "": 36647,
+    "NAICS_Code": "31123",
+    "NAICS_Code.1": 318
+  },
+  {
+    "": 134682,
+    "NAICS_Code": "31133",
+    "NAICS_Code.1": 319
+  },
+  {
+    "": 402095,
+    "NAICS_Code": "31135",
+    "NAICS_Code.1": 320
+  },
+  {
+    "": 1387,
+    "NAICS_Code": "31141",
+    "NAICS_Code.1": 321
+  },
+  {
+    "": 83268,
+    "NAICS_Code": "31151",
+    "NAICS_Code.1": 322
+  },
+  {
+    "": 336956,
+    "NAICS_Code": "31152",
+    "NAICS_Code.1": 323
+  },
+  {
+    "": 56750,
+    "NAICS_Code": "31161",
+    "NAICS_Code.1": 324
+  },
+  {
+    "": 362341,
+    "NAICS_Code": "31171",
+    "NAICS_Code.1": 325
+  },
+  {
+    "": 87,
+    "NAICS_Code": "31181",
+    "NAICS_Code.1": 326
+  },
+  {
+    "": 20437,
+    "NAICS_Code": "31191",
+    "NAICS_Code.1": 327
+  },
+  {
+    "": 163469,
+    "NAICS_Code": "31192",
+    "NAICS_Code.1": 328
+  },
+  {
+    "": 72623,
+    "NAICS_Code": "31193",
+    "NAICS_Code.1": 329
+  },
+  {
+    "": 1812,
+    "NAICS_Code": "31199",
+    "NAICS_Code.1": 330
+  },
+  {
+    "": 161220,
+    "NAICS_Code": "31211",
+    "NAICS_Code.1": 331
+  },
+  {
+    "": 240057,
+    "NAICS_Code": "31212",
+    "NAICS_Code.1": 332
+  },
+  {
+    "": 149,
+    "NAICS_Code": "31213",
+    "NAICS_Code.1": 333
+  },
+  {
+    "": 337085,
+    "NAICS_Code": "31214",
+    "NAICS_Code.1": 334
+  },
+  {
+    "": 188167,
+    "NAICS_Code": "31222",
+    "NAICS_Code.1": 335
+  },
+  {
+    "": 336110,
+    "NAICS_Code": "31311",
+    "NAICS_Code.1": 336
+  },
+  {
+    "": 359477,
+    "NAICS_Code": "31331",
+    "NAICS_Code.1": 337
+  },
+  {
+    "": 31190,
+    "NAICS_Code": "31499",
+    "NAICS_Code.1": 338
+  },
+  {
+    "": 359879,
+    "NAICS_Code": "31519",
+    "NAICS_Code.1": 339
+  },
+  {
+    "": 315383,
+    "NAICS_Code": "31522",
+    "NAICS_Code.1": 340
+  },
+  {
+    "": 643,
+    "NAICS_Code": "31523",
+    "NAICS_Code.1": 341
+  },
+  {
+    "": 339071,
+    "NAICS_Code": "31528",
+    "NAICS_Code.1": 342
+  },
+  {
+    "": 254570,
+    "NAICS_Code": "31529",
+    "NAICS_Code.1": 343
+  },
+  {
+    "": 488,
+    "NAICS_Code": "31599",
+    "NAICS_Code.1": 344
+  },
+  {
+    "": 35884,
+    "NAICS_Code": "31621",
+    "NAICS_Code.1": 345
+  },
+  {
+    "": 225026,
+    "NAICS_Code": "31699",
+    "NAICS_Code.1": 346
+  },
+  {
+    "": 349192,
+    "NAICS_Code": "32111",
+    "NAICS_Code.1": 347
+  },
+  {
+    "": 57980,
+    "NAICS_Code": "32121",
+    "NAICS_Code.1": 348
+  },
+  {
+    "": 199192,
+    "NAICS_Code": "32192",
+    "NAICS_Code.1": 349
+  },
+  {
+    "": 949,
+    "NAICS_Code": "32199",
+    "NAICS_Code.1": 350
+  },
+  {
+    "": 23270,
+    "NAICS_Code": "32211",
+    "NAICS_Code.1": 351
+  },
+  {
+    "": 333925,
+    "NAICS_Code": "32212",
+    "NAICS_Code.1": 352
+  },
+  {
+    "": 56572,
+    "NAICS_Code": "32221",
+    "NAICS_Code.1": 353
+  },
+  {
+    "": 123364,
+    "NAICS_Code": "32222",
+    "NAICS_Code.1": 354
+  },
+  {
+    "": 339110,
+    "NAICS_Code": "32223",
+    "NAICS_Code.1": 355
+  },
+  {
+    "": 178,
+    "NAICS_Code": "32311",
+    "NAICS_Code.1": 356
+  },
+  {
+    "": 217366,
+    "NAICS_Code": "32411",
+    "NAICS_Code.1": 357
+  },
+  {
+    "": 199871,
+    "NAICS_Code": "32412",
+    "NAICS_Code.1": 358
+  },
+  {
+    "": 312883,
+    "NAICS_Code": "32419",
+    "NAICS_Code.1": 359
+  },
+  {
+    "": 351953,
+    "NAICS_Code": "32511",
+    "NAICS_Code.1": 360
+  },
+  {
+    "": 118999,
+    "NAICS_Code": "32512",
+    "NAICS_Code.1": 361
+  },
+  {
+    "": 35864,
+    "NAICS_Code": "32518",
+    "NAICS_Code.1": 362
+  },
+  {
+    "": 213945,
+    "NAICS_Code": "32519",
+    "NAICS_Code.1": 363
+  },
+  {
+    "": 561723,
+    "NAICS_Code": "32521",
+    "NAICS_Code.1": 364
+  },
+  {
+    "": 12579,
+    "NAICS_Code": "32531",
+    "NAICS_Code.1": 365
+  },
+  {
+    "": 1793,
+    "NAICS_Code": "32532",
+    "NAICS_Code.1": 366
+  },
+  {
+    "": 1220,
+    "NAICS_Code": "32541",
+    "NAICS_Code.1": 367
+  },
+  {
+    "": 25803,
+    "NAICS_Code": "32551",
+    "NAICS_Code.1": 368
+  },
+  {
+    "": 348597,
+    "NAICS_Code": "32552",
+    "NAICS_Code.1": 369
+  },
+  {
+    "": 93740,
+    "NAICS_Code": "32561",
+    "NAICS_Code.1": 370
+  },
+  {
+    "": 187424,
+    "NAICS_Code": "32562",
+    "NAICS_Code.1": 371
+  },
+  {
+    "": 45549,
+    "NAICS_Code": "32591",
+    "NAICS_Code.1": 372
+  },
+  {
+    "": 128950,
+    "NAICS_Code": "32599",
+    "NAICS_Code.1": 373
+  },
+  {
+    "": 9573,
+    "NAICS_Code": "32611",
+    "NAICS_Code.1": 374
+  },
+  {
+    "": 44173,
+    "NAICS_Code": "32615",
+    "NAICS_Code.1": 375
+  },
+  {
+    "": 90150,
+    "NAICS_Code": "32619",
+    "NAICS_Code.1": 376
+  },
+  {
+    "": 86133,
+    "NAICS_Code": "32621",
+    "NAICS_Code.1": 377
+  },
+  {
+    "": 29900,
+    "NAICS_Code": "32629",
+    "NAICS_Code.1": 378
+  },
+  {
+    "": 1673,
+    "NAICS_Code": "32711",
+    "NAICS_Code.1": 379
+  },
+  {
+    "": 553132,
+    "NAICS_Code": "32712",
+    "NAICS_Code.1": 380
+  },
+  {
+    "": 22252,
+    "NAICS_Code": "32721",
+    "NAICS_Code.1": 381
+  },
+  {
+    "": 379692,
+    "NAICS_Code": "32731",
+    "NAICS_Code.1": 382
+  },
+  {
+    "": 45736,
+    "NAICS_Code": "32733",
+    "NAICS_Code.1": 383
+  },
+  {
+    "": 350868,
+    "NAICS_Code": "32739",
+    "NAICS_Code.1": 384
+  },
+  {
+    "": 134839,
+    "NAICS_Code": "32742",
+    "NAICS_Code.1": 385
+  },
+  {
+    "": 86122,
+    "NAICS_Code": "32799",
+    "NAICS_Code.1": 386
+  },
+  {
+    "": 82821,
+    "NAICS_Code": "33111",
+    "NAICS_Code.1": 387
+  },
+  {
+    "": 29510,
+    "NAICS_Code": "33121",
+    "NAICS_Code.1": 388
+  },
+  {
+    "": 40255,
+    "NAICS_Code": "33131",
+    "NAICS_Code.1": 389
+  },
+  {
+    "": 378512,
+    "NAICS_Code": "33141",
+    "NAICS_Code.1": 390
+  },
+  {
+    "": 269227,
+    "NAICS_Code": "33151",
+    "NAICS_Code.1": 391
+  },
+  {
+    "": 578171,
+    "NAICS_Code": "33152",
+    "NAICS_Code.1": 392
+  },
+  {
+    "": 319014,
+    "NAICS_Code": "33211",
+    "NAICS_Code.1": 393
+  },
+  {
+    "": 552403,
+    "NAICS_Code": "33231",
+    "NAICS_Code.1": 394
+  },
+  {
+    "": 356634,
+    "NAICS_Code": "33232",
+    "NAICS_Code.1": 395
+  },
+  {
+    "": 442835,
+    "NAICS_Code": "33241",
+    "NAICS_Code.1": 396
+  },
+  {
+    "": 338425,
+    "NAICS_Code": "33251",
+    "NAICS_Code.1": 397
+  },
+  {
+    "": 346950,
+    "NAICS_Code": "33261",
+    "NAICS_Code.1": 398
+  },
+  {
+    "": 319667,
+    "NAICS_Code": "33271",
+    "NAICS_Code.1": 399
+  },
+  {
+    "": 456358,
+    "NAICS_Code": "33272",
+    "NAICS_Code.1": 400
+  },
+  {
+    "": 19907,
+    "NAICS_Code": "33281",
+    "NAICS_Code.1": 401
+  },
+  {
+    "": 35814,
+    "NAICS_Code": "33291",
+    "NAICS_Code.1": 402
+  },
+  {
+    "": 329522,
+    "NAICS_Code": "33299",
+    "NAICS_Code.1": 403
+  },
+  {
+    "": 267159,
+    "NAICS_Code": "33312",
+    "NAICS_Code.1": 404
+  },
+  {
+    "": 25175,
+    "NAICS_Code": "33313",
+    "NAICS_Code.1": 405
+  },
+  {
+    "": 194880,
+    "NAICS_Code": "33322",
+    "NAICS_Code.1": 406
+  },
+  {
+    "": 8779,
+    "NAICS_Code": "33324",
+    "NAICS_Code.1": 407
+  },
+  {
+    "": 356321,
+    "NAICS_Code": "33329",
+    "NAICS_Code.1": 408
+  },
+  {
+    "": 36667,
+    "NAICS_Code": "33331",
+    "NAICS_Code.1": 409
+  },
+  {
+    "": 91798,
+    "NAICS_Code": "33341",
+    "NAICS_Code.1": 410
+  },
+  {
+    "": 44167,
+    "NAICS_Code": "33351",
+    "NAICS_Code.1": 411
+  },
+  {
+    "": 78110,
+    "NAICS_Code": "33361",
+    "NAICS_Code.1": 412
+  },
+  {
+    "": 317033,
+    "NAICS_Code": "33391",
+    "NAICS_Code.1": 413
+  },
+  {
+    "": 192259,
+    "NAICS_Code": "33392",
+    "NAICS_Code.1": 414
+  },
+  {
+    "": 22377,
+    "NAICS_Code": "33399",
+    "NAICS_Code.1": 415
+  },
+  {
+    "": 22219,
+    "NAICS_Code": "33411",
+    "NAICS_Code.1": 416
+  },
+  {
+    "": 48801,
+    "NAICS_Code": "33421",
+    "NAICS_Code.1": 417
+  },
+  {
+    "": 76098,
+    "NAICS_Code": "33422",
+    "NAICS_Code.1": 418
+  },
+  {
+    "": 334353,
+    "NAICS_Code": "33429",
+    "NAICS_Code.1": 419
+  },
+  {
+    "": 26409,
+    "NAICS_Code": "33431",
+    "NAICS_Code.1": 420
+  },
+  {
+    "": 8045,
+    "NAICS_Code": "33441",
+    "NAICS_Code.1": 421
+  },
+  {
+    "": 57962,
+    "NAICS_Code": "33451",
+    "NAICS_Code.1": 422
+  },
+  {
+    "": 12765,
+    "NAICS_Code": "33461",
+    "NAICS_Code.1": 423
+  },
+  {
+    "": 19218,
+    "NAICS_Code": "33512",
+    "NAICS_Code.1": 424
+  },
+  {
+    "": 359012,
+    "NAICS_Code": "33521",
+    "NAICS_Code.1": 425
+  },
+  {
+    "": 33419,
+    "NAICS_Code": "33522",
+    "NAICS_Code.1": 426
+  },
+  {
+    "": 26814,
+    "NAICS_Code": "33531",
+    "NAICS_Code.1": 427
+  },
+  {
+    "": 45578,
+    "NAICS_Code": "33591",
+    "NAICS_Code.1": 428
+  },
+  {
+    "": 57112,
+    "NAICS_Code": "33592",
+    "NAICS_Code.1": 429
+  },
+  {
+    "": 48329,
+    "NAICS_Code": "33593",
+    "NAICS_Code.1": 430
+  },
+  {
+    "": 1344,
+    "NAICS_Code": "33599",
+    "NAICS_Code.1": 431
+  },
+  {
+    "": 52558,
+    "NAICS_Code": "33611",
+    "NAICS_Code.1": 432
+  },
+  {
+    "": 45025,
+    "NAICS_Code": "33612",
+    "NAICS_Code.1": 433
+  },
+  {
+    "": 43312,
+    "NAICS_Code": "33621",
+    "NAICS_Code.1": 434
+  },
+  {
+    "": 55937,
+    "NAICS_Code": "33631",
+    "NAICS_Code.1": 435
+  },
+  {
+    "": 204507,
+    "NAICS_Code": "33632",
+    "NAICS_Code.1": 436
+  },
+  {
+    "": 36148,
+    "NAICS_Code": "33634",
+    "NAICS_Code.1": 437
+  },
+  {
+    "": 66136,
+    "NAICS_Code": "33636",
+    "NAICS_Code.1": 438
+  },
+  {
+    "": 362617,
+    "NAICS_Code": "33637",
+    "NAICS_Code.1": 439
+  },
+  {
+    "": 32742,
+    "NAICS_Code": "33639",
+    "NAICS_Code.1": 440
+  },
+  {
+    "": 1404,
+    "NAICS_Code": "33641",
+    "NAICS_Code.1": 441
+  },
+  {
+    "": 38669,
+    "NAICS_Code": "33661",
+    "NAICS_Code.1": 442
+  },
+  {
+    "": 283119,
+    "NAICS_Code": "33699",
+    "NAICS_Code.1": 443
+  },
+  {
+    "": 7766,
+    "NAICS_Code": "33711",
+    "NAICS_Code.1": 444
+  },
+  {
+    "": 19741,
+    "NAICS_Code": "33712",
+    "NAICS_Code.1": 445
+  },
+  {
+    "": 20573,
+    "NAICS_Code": "33721",
+    "NAICS_Code.1": 446
+  },
+  {
+    "": 40706,
+    "NAICS_Code": "33791",
+    "NAICS_Code.1": 447
+  },
+  {
+    "": 24554,
+    "NAICS_Code": "33911",
+    "NAICS_Code.1": 448
+  },
+  {
+    "": 25140,
+    "NAICS_Code": "33991",
+    "NAICS_Code.1": 449
+  },
+  {
+    "": 39569,
+    "NAICS_Code": "33992",
+    "NAICS_Code.1": 450
+  },
+  {
+    "": 315438,
+    "NAICS_Code": "33993",
+    "NAICS_Code.1": 451
+  },
+  {
+    "": 48689,
+    "NAICS_Code": "33994",
+    "NAICS_Code.1": 452
+  },
+  {
+    "": 42806,
+    "NAICS_Code": "33999",
+    "NAICS_Code.1": 453
+  },
+  {
+    "": 163432,
+    "NAICS_Code": "35614",
+    "NAICS_Code.1": 454
+  },
+  {
+    "": 30641,
+    "NAICS_Code": "42183",
+    "NAICS_Code.1": 455
+  },
+  {
+    "": 210200,
+    "NAICS_Code": "42311",
+    "NAICS_Code.1": 456
+  },
+  {
+    "": 334133,
+    "NAICS_Code": "42312",
+    "NAICS_Code.1": 457
+  },
+  {
+    "": 247154,
+    "NAICS_Code": "42313",
+    "NAICS_Code.1": 458
+  },
+  {
+    "": 4177,
+    "NAICS_Code": "42321",
+    "NAICS_Code.1": 459
+  },
+  {
+    "": 1203,
+    "NAICS_Code": "42322",
+    "NAICS_Code.1": 460
+  },
+  {
+    "": 416287,
+    "NAICS_Code": "42331",
+    "NAICS_Code.1": 461
+  },
+  {
+    "": 319280,
+    "NAICS_Code": "42332",
+    "NAICS_Code.1": 462
+  },
+  {
+    "": 26009,
+    "NAICS_Code": "42339",
+    "NAICS_Code.1": 463
+  },
+  {
+    "": 17178,
+    "NAICS_Code": "42343",
+    "NAICS_Code.1": 464
+  },
+  {
+    "": 892,
+    "NAICS_Code": "42345",
+    "NAICS_Code.1": 465
+  },
+  {
+    "": 19341,
+    "NAICS_Code": "42349",
+    "NAICS_Code.1": 466
+  },
+  {
+    "": 218594,
+    "NAICS_Code": "42350",
+    "NAICS_Code.1": 467
+  },
+  {
+    "": 126057,
+    "NAICS_Code": "42351",
+    "NAICS_Code.1": 468
+  },
+  {
+    "": 32621,
+    "NAICS_Code": "42361",
+    "NAICS_Code.1": 469
+  },
+  {
+    "": 315898,
+    "NAICS_Code": "42362",
+    "NAICS_Code.1": 470
+  },
+  {
+    "": 1197,
+    "NAICS_Code": "42369",
+    "NAICS_Code.1": 471
+  },
+  {
+    "": 435773,
+    "NAICS_Code": "42371",
+    "NAICS_Code.1": 472
+  },
+  {
+    "": 514707,
+    "NAICS_Code": "42372",
+    "NAICS_Code.1": 473
+  },
+  {
+    "": 1205,
+    "NAICS_Code": "42383",
+    "NAICS_Code.1": 474
+  },
+  {
+    "": 44234,
+    "NAICS_Code": "42384",
+    "NAICS_Code.1": 475
+  },
+  {
+    "": 3949,
+    "NAICS_Code": "42386",
+    "NAICS_Code.1": 476
+  },
+  {
+    "": 203226,
+    "NAICS_Code": "42391",
+    "NAICS_Code.1": 477
+  },
+  {
+    "": 2336,
+    "NAICS_Code": "42392",
+    "NAICS_Code.1": 478
+  },
+  {
+    "": 314455,
+    "NAICS_Code": "42393",
+    "NAICS_Code.1": 479
+  },
+  {
+    "": 57979,
+    "NAICS_Code": "42394",
+    "NAICS_Code.1": 480
+  },
+  {
+    "": 377,
+    "NAICS_Code": "42399",
+    "NAICS_Code.1": 481
+  },
+  {
+    "": 336624,
+    "NAICS_Code": "42432",
+    "NAICS_Code.1": 482
+  },
+  {
+    "": 935,
+    "NAICS_Code": "42433",
+    "NAICS_Code.1": 483
+  },
+  {
+    "": 44052,
+    "NAICS_Code": "42434",
+    "NAICS_Code.1": 484
+  },
+  {
+    "": 1149,
+    "NAICS_Code": "42441",
+    "NAICS_Code.1": 485
+  },
+  {
+    "": 61205,
+    "NAICS_Code": "42442",
+    "NAICS_Code.1": 486
+  },
+  {
+    "": 414770,
+    "NAICS_Code": "42444",
+    "NAICS_Code.1": 487
+  },
+  {
+    "": 31629,
+    "NAICS_Code": "42446",
+    "NAICS_Code.1": 488
+  },
+  {
+    "": 82640,
+    "NAICS_Code": "42447",
+    "NAICS_Code.1": 489
+  },
+  {
+    "": 104019,
+    "NAICS_Code": "42448",
+    "NAICS_Code.1": 490
+  },
+  {
+    "": 316349,
+    "NAICS_Code": "42449",
+    "NAICS_Code.1": 491
+  },
+  {
+    "": 35669,
+    "NAICS_Code": "42459",
+    "NAICS_Code.1": 492
+  },
+  {
+    "": 1951,
+    "NAICS_Code": "42461",
+    "NAICS_Code.1": 493
+  },
+  {
+    "": 392188,
+    "NAICS_Code": "42472",
+    "NAICS_Code.1": 494
+  },
+  {
+    "": 90878,
+    "NAICS_Code": "42482",
+    "NAICS_Code.1": 495
+  },
+  {
+    "": 55668,
+    "NAICS_Code": "42491",
+    "NAICS_Code.1": 496
+  },
+  {
+    "": 9572,
+    "NAICS_Code": "42493",
+    "NAICS_Code.1": 497
+  },
+  {
+    "": 1564,
+    "NAICS_Code": "42499",
+    "NAICS_Code.1": 498
+  },
+  {
+    "": 30309,
+    "NAICS_Code": "42511",
+    "NAICS_Code.1": 499
+  },
+  {
+    "": 1674,
+    "NAICS_Code": "42512",
+    "NAICS_Code.1": 500
+  },
+  {
+    "": 2880,
+    "NAICS_Code": "44111",
+    "NAICS_Code.1": 501
+  },
+  {
+    "": 15902,
+    "NAICS_Code": "44112",
+    "NAICS_Code.1": 502
+  },
+  {
+    "": 143428,
+    "NAICS_Code": "44131",
+    "NAICS_Code.1": 503
+  },
+  {
+    "": 25335,
+    "NAICS_Code": "44211",
+    "NAICS_Code.1": 504
+  },
+  {
+    "": 4149,
+    "NAICS_Code": "44229",
+    "NAICS_Code.1": 505
+  },
+  {
+    "": 26877,
+    "NAICS_Code": "44311",
+    "NAICS_Code.1": 506
+  },
+  {
+    "": 18856,
+    "NAICS_Code": "44312",
+    "NAICS_Code.1": 507
+  },
+  {
+    "": 323162,
+    "NAICS_Code": "44314",
+    "NAICS_Code.1": 508
+  },
+  {
+    "": 393552,
+    "NAICS_Code": "44421",
+    "NAICS_Code.1": 509
+  },
+  {
+    "": 2424,
+    "NAICS_Code": "44511",
+    "NAICS_Code.1": 510
+  },
+  {
+    "": 27658,
+    "NAICS_Code": "44512",
+    "NAICS_Code.1": 511
+  },
+  {
+    "": 457788,
+    "NAICS_Code": "44521",
+    "NAICS_Code.1": 512
+  },
+  {
+    "": 66769,
+    "NAICS_Code": "44529",
+    "NAICS_Code.1": 513
+  },
+  {
+    "": 1729,
+    "NAICS_Code": "44531",
+    "NAICS_Code.1": 514
+  },
+  {
+    "": 4160,
+    "NAICS_Code": "44611",
+    "NAICS_Code.1": 515
+  },
+  {
+    "": 44949,
+    "NAICS_Code": "44612",
+    "NAICS_Code.1": 516
+  },
+  {
+    "": 231501,
+    "NAICS_Code": "44613",
+    "NAICS_Code.1": 517
+  },
+  {
+    "": 75138,
+    "NAICS_Code": "44619",
+    "NAICS_Code.1": 518
+  },
+  {
+    "": 29094,
+    "NAICS_Code": "44711",
+    "NAICS_Code.1": 519
+  },
+  {
+    "": 17533,
+    "NAICS_Code": "44811",
+    "NAICS_Code.1": 520
+  },
+  {
+    "": 343,
+    "NAICS_Code": "44812",
+    "NAICS_Code.1": 521
+  },
+  {
+    "": 322029,
+    "NAICS_Code": "44813",
+    "NAICS_Code.1": 522
+  },
+  {
+    "": 20171,
+    "NAICS_Code": "44814",
+    "NAICS_Code.1": 523
+  },
+  {
+    "": 321089,
+    "NAICS_Code": "44815",
+    "NAICS_Code.1": 524
+  },
+  {
+    "": 361695,
+    "NAICS_Code": "44819",
+    "NAICS_Code.1": 525
+  },
+  {
+    "": 393394,
+    "NAICS_Code": "44821",
+    "NAICS_Code.1": 526
+  },
+  {
+    "": 2802,
+    "NAICS_Code": "44831",
+    "NAICS_Code.1": 527
+  },
+  {
+    "": 315829,
+    "NAICS_Code": "45111",
+    "NAICS_Code.1": 528
+  },
+  {
+    "": 182357,
+    "NAICS_Code": "45211",
+    "NAICS_Code.1": 529
+  },
+  {
+    "": 347800,
+    "NAICS_Code": "45291",
+    "NAICS_Code.1": 530
+  },
+  {
+    "": 316331,
+    "NAICS_Code": "45299",
+    "NAICS_Code.1": 531
+  },
+  {
+    "": 504419,
+    "NAICS_Code": "45321",
+    "NAICS_Code.1": 532
+  },
+  {
+    "": 359,
+    "NAICS_Code": "45392",
+    "NAICS_Code.1": 533
+  },
+  {
+    "": 24019,
+    "NAICS_Code": "45399",
+    "NAICS_Code.1": 534
+  },
+  {
+    "": 793,
+    "NAICS_Code": "45411",
+    "NAICS_Code.1": 535
+  },
+  {
+    "": 25558,
+    "NAICS_Code": "45431",
+    "NAICS_Code.1": 536
+  },
+  {
+    "": 162365,
+    "NAICS_Code": "45439",
+    "NAICS_Code.1": 537
+  },
+  {
+    "": 10354,
+    "NAICS_Code": "48111",
+    "NAICS_Code.1": 538
+  },
+  {
+    "": 28909,
+    "NAICS_Code": "48211",
+    "NAICS_Code.1": 539
+  },
+  {
+    "": 376106,
+    "NAICS_Code": "48311",
+    "NAICS_Code.1": 540
+  },
+  {
+    "": 928,
+    "NAICS_Code": "48411",
+    "NAICS_Code.1": 541
+  },
+  {
+    "": 3425,
+    "NAICS_Code": "48412",
+    "NAICS_Code.1": 542
+  },
+  {
+    "": 43376,
+    "NAICS_Code": "48421",
+    "NAICS_Code.1": 543
+  },
+  {
+    "": 138500,
+    "NAICS_Code": "48423",
+    "NAICS_Code.1": 544
+  },
+  {
+    "": 372416,
+    "NAICS_Code": "48511",
+    "NAICS_Code.1": 545
+  },
+  {
+    "": 289680,
+    "NAICS_Code": "48521",
+    "NAICS_Code.1": 546
+  },
+  {
+    "": 17176,
+    "NAICS_Code": "48599",
+    "NAICS_Code.1": 547
+  },
+  {
+    "": 327795,
+    "NAICS_Code": "48711",
+    "NAICS_Code.1": 548
+  },
+  {
+    "": 348376,
+    "NAICS_Code": "48811",
+    "NAICS_Code.1": 549
+  },
+  {
+    "": 29902,
+    "NAICS_Code": "48819",
+    "NAICS_Code.1": 550
+  },
+  {
+    "": 23048,
+    "NAICS_Code": "48831",
+    "NAICS_Code.1": 551
+  },
+  {
+    "": 177380,
+    "NAICS_Code": "48832",
+    "NAICS_Code.1": 552
+  },
+  {
+    "": 44295,
+    "NAICS_Code": "48833",
+    "NAICS_Code.1": 553
+  },
+  {
+    "": 363310,
+    "NAICS_Code": "48841",
+    "NAICS_Code.1": 554
+  },
+  {
+    "": 208359,
+    "NAICS_Code": "48849",
+    "NAICS_Code.1": 555
+  },
+  {
+    "": 7124,
+    "NAICS_Code": "48851",
+    "NAICS_Code.1": 556
+  },
+  {
+    "": 3109,
+    "NAICS_Code": "48899",
+    "NAICS_Code.1": 557
+  },
+  {
+    "": 316183,
+    "NAICS_Code": "49211",
+    "NAICS_Code.1": 558
+  },
+  {
+    "": 316911,
+    "NAICS_Code": "49311",
+    "NAICS_Code.1": 559
+  },
+  {
+    "": 36826,
+    "NAICS_Code": "49319",
+    "NAICS_Code.1": 560
+  },
+  {
+    "": 530,
+    "NAICS_Code": "51111",
+    "NAICS_Code.1": 561
+  },
+  {
+    "": 24193,
+    "NAICS_Code": "51112",
+    "NAICS_Code.1": 562
+  },
+  {
+    "": 25046,
+    "NAICS_Code": "51113",
+    "NAICS_Code.1": 563
+  },
+  {
+    "": 77910,
+    "NAICS_Code": "51114",
+    "NAICS_Code.1": 564
+  },
+  {
+    "": 22380,
+    "NAICS_Code": "51119",
+    "NAICS_Code.1": 565
+  },
+  {
+    "": 261141,
+    "NAICS_Code": "51120",
+    "NAICS_Code.1": 566
+  },
+  {
+    "": 2950,
+    "NAICS_Code": "51121",
+    "NAICS_Code.1": 567
+  },
+  {
+    "": 487,
+    "NAICS_Code": "51211",
+    "NAICS_Code.1": 568
+  },
+  {
+    "": 356066,
+    "NAICS_Code": "51212",
+    "NAICS_Code.1": 569
+  },
+  {
+    "": 481,
+    "NAICS_Code": "51219",
+    "NAICS_Code.1": 570
+  },
+  {
+    "": 35822,
+    "NAICS_Code": "51221",
+    "NAICS_Code.1": 571
+  },
+  {
+    "": 11833,
+    "NAICS_Code": "51223",
+    "NAICS_Code.1": 572
+  },
+  {
+    "": 303597,
+    "NAICS_Code": "51224",
+    "NAICS_Code.1": 573
+  },
+  {
+    "": 122001,
+    "NAICS_Code": "51511",
+    "NAICS_Code.1": 574
+  },
+  {
+    "": 3701,
+    "NAICS_Code": "51512",
+    "NAICS_Code.1": 575
+  },
+  {
+    "": 521282,
+    "NAICS_Code": "51521",
+    "NAICS_Code.1": 576
+  },
+  {
+    "": 12853,
+    "NAICS_Code": "51611",
+    "NAICS_Code.1": 577
+  },
+  {
+    "": 132784,
+    "NAICS_Code": "51711",
+    "NAICS_Code.1": 578
+  },
+  {
+    "": 164480,
+    "NAICS_Code": "51721",
+    "NAICS_Code.1": 579
+  },
+  {
+    "": 31322,
+    "NAICS_Code": "51731",
+    "NAICS_Code.1": 580
+  },
+  {
+    "": 372671,
+    "NAICS_Code": "51741",
+    "NAICS_Code.1": 581
+  },
+  {
+    "": 84829,
+    "NAICS_Code": "51791",
+    "NAICS_Code.1": 582
+  },
+  {
+    "": 391978,
+    "NAICS_Code": "51810",
+    "NAICS_Code.1": 583
+  },
+  {
+    "": 56499,
+    "NAICS_Code": "51811",
+    "NAICS_Code.1": 584
+  },
+  {
+    "": 56788,
+    "NAICS_Code": "51821",
+    "NAICS_Code.1": 585
+  },
+  {
+    "": 335922,
+    "NAICS_Code": "51911",
+    "NAICS_Code.1": 586
+  },
+  {
+    "": 27430,
+    "NAICS_Code": "51912",
+    "NAICS_Code.1": 587
+  },
+  {
+    "": 19615,
+    "NAICS_Code": "51913",
+    "NAICS_Code.1": 588
+  },
+  {
+    "": 17813,
+    "NAICS_Code": "51919",
+    "NAICS_Code.1": 589
+  },
+  {
+    "": 317079,
+    "NAICS_Code": "52111",
+    "NAICS_Code.1": 590
+  },
+  {
+    "": 1633,
+    "NAICS_Code": "52211",
+    "NAICS_Code.1": 591
+  },
+  {
+    "": 87916,
+    "NAICS_Code": "52213",
+    "NAICS_Code.1": 592
+  },
+  {
+    "": 215859,
+    "NAICS_Code": "52221",
+    "NAICS_Code.1": 593
+  },
+  {
+    "": 27477,
+    "NAICS_Code": "52222",
+    "NAICS_Code.1": 594
+  },
+  {
+    "": 317640,
+    "NAICS_Code": "52229",
+    "NAICS_Code.1": 595
+  },
+  {
+    "": 163942,
+    "NAICS_Code": "52231",
+    "NAICS_Code.1": 596
+  },
+  {
+    "": 1634,
+    "NAICS_Code": "52232",
+    "NAICS_Code.1": 597
+  },
+  {
+    "": 88468,
+    "NAICS_Code": "52239",
+    "NAICS_Code.1": 598
+  },
+  {
+    "": 18233,
+    "NAICS_Code": "52311",
+    "NAICS_Code.1": 599
+  },
+  {
+    "": 28381,
+    "NAICS_Code": "52312",
+    "NAICS_Code.1": 600
+  },
+  {
+    "": 297842,
+    "NAICS_Code": "52313",
+    "NAICS_Code.1": 601
+  },
+  {
+    "": 17843,
+    "NAICS_Code": "52314",
+    "NAICS_Code.1": 602
+  },
+  {
+    "": 507666,
+    "NAICS_Code": "52321",
+    "NAICS_Code.1": 603
+  },
+  {
+    "": 105482,
+    "NAICS_Code": "52391",
+    "NAICS_Code.1": 604
+  },
+  {
+    "": 52220,
+    "NAICS_Code": "52392",
+    "NAICS_Code.1": 605
+  },
+  {
+    "": 20273,
+    "NAICS_Code": "52393",
+    "NAICS_Code.1": 606
+  },
+  {
+    "": 1049,
+    "NAICS_Code": "52399",
+    "NAICS_Code.1": 607
+  },
+  {
+    "": 19683,
+    "NAICS_Code": "52411",
+    "NAICS_Code.1": 608
+  },
+  {
+    "": 137666,
+    "NAICS_Code": "52412",
+    "NAICS_Code.1": 609
+  },
+  {
+    "": 181378,
+    "NAICS_Code": "52413",
+    "NAICS_Code.1": 610
+  },
+  {
+    "": 989,
+    "NAICS_Code": "52421",
+    "NAICS_Code.1": 611
+  },
+  {
+    "": 19631,
+    "NAICS_Code": "52429",
+    "NAICS_Code.1": 612
+  },
+  {
+    "": 81933,
+    "NAICS_Code": "52511",
+    "NAICS_Code.1": 613
+  },
+  {
+    "": 18644,
+    "NAICS_Code": "52591",
+    "NAICS_Code.1": 614
+  },
+  {
+    "": 20404,
+    "NAICS_Code": "52592",
+    "NAICS_Code.1": 615
+  },
+  {
+    "": 20848,
+    "NAICS_Code": "52593",
+    "NAICS_Code.1": 616
+  },
+  {
+    "": 36791,
+    "NAICS_Code": "52599",
+    "NAICS_Code.1": 617
+  },
+  {
+    "": 382363,
+    "NAICS_Code": "53111",
+    "NAICS_Code.1": 618
+  },
+  {
+    "": 532046,
+    "NAICS_Code": "53113",
+    "NAICS_Code.1": 619
+  },
+  {
+    "": 346304,
+    "NAICS_Code": "53119",
+    "NAICS_Code.1": 620
+  },
+  {
+    "": 610,
+    "NAICS_Code": "53121",
+    "NAICS_Code.1": 621
+  },
+  {
+    "": 651,
+    "NAICS_Code": "53131",
+    "NAICS_Code.1": 622
+  },
+  {
+    "": 2453,
+    "NAICS_Code": "53132",
+    "NAICS_Code.1": 623
+  },
+  {
+    "": 5615,
+    "NAICS_Code": "53139",
+    "NAICS_Code.1": 624
+  },
+  {
+    "": 38843,
+    "NAICS_Code": "53211",
+    "NAICS_Code.1": 625
+  },
+  {
+    "": 44796,
+    "NAICS_Code": "53212",
+    "NAICS_Code.1": 626
+  },
+  {
+    "": 245310,
+    "NAICS_Code": "53223",
+    "NAICS_Code.1": 627
+  },
+  {
+    "": 36081,
+    "NAICS_Code": "53229",
+    "NAICS_Code.1": 628
+  },
+  {
+    "": 339106,
+    "NAICS_Code": "53241",
+    "NAICS_Code.1": 629
+  },
+  {
+    "": 57271,
+    "NAICS_Code": "53249",
+    "NAICS_Code.1": 630
+  },
+  {
+    "": 207,
+    "NAICS_Code": "54111",
+    "NAICS_Code.1": 631
+  },
+  {
+    "": 95065,
+    "NAICS_Code": "54114",
+    "NAICS_Code.1": 632
+  },
+  {
+    "": 805,
+    "NAICS_Code": "54119",
+    "NAICS_Code.1": 633
+  },
+  {
+    "": 58,
+    "NAICS_Code": "54121",
+    "NAICS_Code.1": 634
+  },
+  {
+    "": 203,
+    "NAICS_Code": "54131",
+    "NAICS_Code.1": 635
+  },
+  {
+    "": 3534,
+    "NAICS_Code": "54132",
+    "NAICS_Code.1": 636
+  },
+  {
+    "": 135,
+    "NAICS_Code": "54133",
+    "NAICS_Code.1": 637
+  },
+  {
+    "": 344087,
+    "NAICS_Code": "54134",
+    "NAICS_Code.1": 638
+  },
+  {
+    "": 56357,
+    "NAICS_Code": "54136",
+    "NAICS_Code.1": 639
+  },
+  {
+    "": 6584,
+    "NAICS_Code": "54137",
+    "NAICS_Code.1": 640
+  },
+  {
+    "": 6422,
+    "NAICS_Code": "54138",
+    "NAICS_Code.1": 641
+  },
+  {
+    "": 2059,
+    "NAICS_Code": "54141",
+    "NAICS_Code.1": 642
+  },
+  {
+    "": 975,
+    "NAICS_Code": "54142",
+    "NAICS_Code.1": 643
+  },
+  {
+    "": 1671,
+    "NAICS_Code": "54143",
+    "NAICS_Code.1": 644
+  },
+  {
+    "": 19365,
+    "NAICS_Code": "54149",
+    "NAICS_Code.1": 645
+  },
+  {
+    "": 297,
+    "NAICS_Code": "54151",
+    "NAICS_Code.1": 646
+  },
+  {
+    "": 218,
+    "NAICS_Code": "54161",
+    "NAICS_Code.1": 647
+  },
+  {
+    "": 22295,
+    "NAICS_Code": "54162",
+    "NAICS_Code.1": 648
+  },
+  {
+    "": 769,
+    "NAICS_Code": "54169",
+    "NAICS_Code.1": 649
+  },
+  {
+    "": 44649,
+    "NAICS_Code": "54170",
+    "NAICS_Code.1": 650
+  },
+  {
+    "": 669,
+    "NAICS_Code": "54171",
+    "NAICS_Code.1": 651
+  },
+  {
+    "": 2899,
+    "NAICS_Code": "54172",
+    "NAICS_Code.1": 652
+  },
+  {
+    "": 7017,
+    "NAICS_Code": "54181",
+    "NAICS_Code.1": 653
+  },
+  {
+    "": 1957,
+    "NAICS_Code": "54182",
+    "NAICS_Code.1": 654
+  },
+  {
+    "": 29149,
+    "NAICS_Code": "54183",
+    "NAICS_Code.1": 655
+  },
+  {
+    "": 189562,
+    "NAICS_Code": "54184",
+    "NAICS_Code.1": 656
+  },
+  {
+    "": 438,
+    "NAICS_Code": "54185",
+    "NAICS_Code.1": 657
+  },
+  {
+    "": 180571,
+    "NAICS_Code": "54187",
+    "NAICS_Code.1": 658
+  },
+  {
+    "": 19751,
+    "NAICS_Code": "54189",
+    "NAICS_Code.1": 659
+  },
+  {
+    "": 632,
+    "NAICS_Code": "54191",
+    "NAICS_Code.1": 660
+  },
+  {
+    "": 1085,
+    "NAICS_Code": "54192",
+    "NAICS_Code.1": 661
+  },
+  {
+    "": 746,
+    "NAICS_Code": "54193",
+    "NAICS_Code.1": 662
+  },
+  {
+    "": 6893,
+    "NAICS_Code": "54194",
+    "NAICS_Code.1": 663
+  },
+  {
+    "": 10808,
+    "NAICS_Code": "54199",
+    "NAICS_Code.1": 664
+  },
+  {
+    "": 143880,
+    "NAICS_Code": "54511",
+    "NAICS_Code.1": 665
+  },
+  {
+    "": 28378,
+    "NAICS_Code": "55111",
+    "NAICS_Code.1": 666
+  },
+  {
+    "": 1936,
+    "NAICS_Code": "56111",
+    "NAICS_Code.1": 667
+  },
+  {
+    "": 948,
+    "NAICS_Code": "56131",
+    "NAICS_Code.1": 668
+  },
+  {
+    "": 285411,
+    "NAICS_Code": "56132",
+    "NAICS_Code.1": 669
+  },
+  {
+    "": 36931,
+    "NAICS_Code": "56133",
+    "NAICS_Code.1": 670
+  },
+  {
+    "": 314512,
+    "NAICS_Code": "56141",
+    "NAICS_Code.1": 671
+  },
+  {
+    "": 91095,
+    "NAICS_Code": "56142",
+    "NAICS_Code.1": 672
+  },
+  {
+    "": 1716,
+    "NAICS_Code": "56143",
+    "NAICS_Code.1": 673
+  },
+  {
+    "": 31426,
+    "NAICS_Code": "56144",
+    "NAICS_Code.1": 674
+  },
+  {
+    "": 27259,
+    "NAICS_Code": "56145",
+    "NAICS_Code.1": 675
+  },
+  {
+    "": 3033,
+    "NAICS_Code": "56149",
+    "NAICS_Code.1": 676
+  },
+  {
+    "": 1143,
+    "NAICS_Code": "56151",
+    "NAICS_Code.1": 677
+  },
+  {
+    "": 5467,
+    "NAICS_Code": "56152",
+    "NAICS_Code.1": 678
+  },
+  {
+    "": 257,
+    "NAICS_Code": "56159",
+    "NAICS_Code.1": 679
+  },
+  {
+    "": 25482,
+    "NAICS_Code": "56162",
+    "NAICS_Code.1": 680
+  },
+  {
+    "": 7451,
+    "NAICS_Code": "56172",
+    "NAICS_Code.1": 681
+  },
+  {
+    "": 42248,
+    "NAICS_Code": "56173",
+    "NAICS_Code.1": 682
+  },
+  {
+    "": 337832,
+    "NAICS_Code": "56179",
+    "NAICS_Code.1": 683
+  },
+  {
+    "": 35882,
+    "NAICS_Code": "56191",
+    "NAICS_Code.1": 684
+  },
+  {
+    "": 19235,
+    "NAICS_Code": "56192",
+    "NAICS_Code.1": 685
+  },
+  {
+    "": 369860,
+    "NAICS_Code": "56199",
+    "NAICS_Code.1": 686
+  },
+  {
+    "": 101476,
+    "NAICS_Code": "56221",
+    "NAICS_Code.1": 687
+  },
+  {
+    "": 44456,
+    "NAICS_Code": "56299",
+    "NAICS_Code.1": 688
+  },
+  {
+    "": 5,
+    "NAICS_Code": "61111",
+    "NAICS_Code.1": 689
+  },
+  {
+    "": 40,
+    "NAICS_Code": "61131",
+    "NAICS_Code.1": 690
+  },
+  {
+    "": 317495,
+    "NAICS_Code": "61141",
+    "NAICS_Code.1": 691
+  },
+  {
+    "": 83390,
+    "NAICS_Code": "61142",
+    "NAICS_Code.1": 692
+  },
+  {
+    "": 2139,
+    "NAICS_Code": "61143",
+    "NAICS_Code.1": 693
+  },
+  {
+    "": 73507,
+    "NAICS_Code": "61151",
+    "NAICS_Code.1": 694
+  },
+  {
+    "": 109,
+    "NAICS_Code": "61161",
+    "NAICS_Code.1": 695
+  },
+  {
+    "": 1307,
+    "NAICS_Code": "61162",
+    "NAICS_Code.1": 696
+  },
+  {
+    "": 19052,
+    "NAICS_Code": "61163",
+    "NAICS_Code.1": 697
+  },
+  {
+    "": 279,
+    "NAICS_Code": "61169",
+    "NAICS_Code.1": 698
+  },
+  {
+    "": 19744,
+    "NAICS_Code": "61171",
+    "NAICS_Code.1": 699
+  },
+  {
+    "": 1456,
+    "NAICS_Code": "62111",
+    "NAICS_Code.1": 700
+  },
+  {
+    "": 175,
+    "NAICS_Code": "62121",
+    "NAICS_Code.1": 701
+  },
+  {
+    "": 55,
+    "NAICS_Code": "62131",
+    "NAICS_Code.1": 702
+  },
+  {
+    "": 192324,
+    "NAICS_Code": "62132",
+    "NAICS_Code.1": 703
+  },
+  {
+    "": 594,
+    "NAICS_Code": "62133",
+    "NAICS_Code.1": 704
+  },
+  {
+    "": 217,
+    "NAICS_Code": "62134",
+    "NAICS_Code.1": 705
+  },
+  {
+    "": 18203,
+    "NAICS_Code": "62139",
+    "NAICS_Code.1": 706
+  },
+  {
+    "": 388,
+    "NAICS_Code": "62142",
+    "NAICS_Code.1": 707
+  },
+  {
+    "": 19679,
+    "NAICS_Code": "62149",
+    "NAICS_Code.1": 708
+  },
+  {
+    "": 3511,
+    "NAICS_Code": "62151",
+    "NAICS_Code.1": 709
+  },
+  {
+    "": 14559,
+    "NAICS_Code": "62161",
+    "NAICS_Code.1": 710
+  },
+  {
+    "": 336144,
+    "NAICS_Code": "62191",
+    "NAICS_Code.1": 711
+  },
+  {
+    "": 250818,
+    "NAICS_Code": "62199",
+    "NAICS_Code.1": 712
+  },
+  {
+    "": 405,
+    "NAICS_Code": "62211",
+    "NAICS_Code.1": 713
+  },
+  {
+    "": 15699,
+    "NAICS_Code": "62231",
+    "NAICS_Code.1": 714
+  },
+  {
+    "": 1773,
+    "NAICS_Code": "62311",
+    "NAICS_Code.1": 715
+  },
+  {
+    "": 36909,
+    "NAICS_Code": "62322",
+    "NAICS_Code.1": 716
+  },
+  {
+    "": 15189,
+    "NAICS_Code": "62331",
+    "NAICS_Code.1": 717
+  },
+  {
+    "": 1100,
+    "NAICS_Code": "62411",
+    "NAICS_Code.1": 718
+  },
+  {
+    "": 823,
+    "NAICS_Code": "62412",
+    "NAICS_Code.1": 719
+  },
+  {
+    "": 335579,
+    "NAICS_Code": "62419",
+    "NAICS_Code.1": 720
+  },
+  {
+    "": 146,
+    "NAICS_Code": "62421",
+    "NAICS_Code.1": 721
+  },
+  {
+    "": 21377,
+    "NAICS_Code": "62422",
+    "NAICS_Code.1": 722
+  },
+  {
+    "": 72928,
+    "NAICS_Code": "62423",
+    "NAICS_Code.1": 723
+  },
+  {
+    "": 315032,
+    "NAICS_Code": "62441",
+    "NAICS_Code.1": 724
+  },
+  {
+    "": 3849,
+    "NAICS_Code": "71111",
+    "NAICS_Code.1": 725
+  },
+  {
+    "": 20554,
+    "NAICS_Code": "71112",
+    "NAICS_Code.1": 726
+  },
+  {
+    "": 26655,
+    "NAICS_Code": "71113",
+    "NAICS_Code.1": 727
+  },
+  {
+    "": 316093,
+    "NAICS_Code": "71119",
+    "NAICS_Code.1": 728
+  },
+  {
+    "": 24315,
+    "NAICS_Code": "71121",
+    "NAICS_Code.1": 729
+  },
+  {
+    "": 19398,
+    "NAICS_Code": "71131",
+    "NAICS_Code.1": 730
+  },
+  {
+    "": 57263,
+    "NAICS_Code": "71132",
+    "NAICS_Code.1": 731
+  },
+  {
+    "": 363776,
+    "NAICS_Code": "71141",
+    "NAICS_Code.1": 732
+  },
+  {
+    "": 332351,
+    "NAICS_Code": "71151",
+    "NAICS_Code.1": 733
+  },
+  {
+    "": 39912,
+    "NAICS_Code": "71211",
+    "NAICS_Code.1": 734
+  },
+  {
+    "": 476257,
+    "NAICS_Code": "71212",
+    "NAICS_Code.1": 735
+  },
+  {
+    "": 29873,
+    "NAICS_Code": "71213",
+    "NAICS_Code.1": 736
+  },
+  {
+    "": 168101,
+    "NAICS_Code": "71311",
+    "NAICS_Code.1": 737
+  },
+  {
+    "": 58017,
+    "NAICS_Code": "71329",
+    "NAICS_Code.1": 738
+  },
+  {
+    "": 25182,
+    "NAICS_Code": "71391",
+    "NAICS_Code.1": 739
+  },
+  {
+    "": 12518,
+    "NAICS_Code": "71392",
+    "NAICS_Code.1": 740
+  },
+  {
+    "": 1602,
+    "NAICS_Code": "71394",
+    "NAICS_Code.1": 741
+  },
+  {
+    "": 279576,
+    "NAICS_Code": "71399",
+    "NAICS_Code.1": 742
+  },
+  {
+    "": 3031,
+    "NAICS_Code": "72111",
+    "NAICS_Code.1": 743
+  },
+  {
+    "": 252570,
+    "NAICS_Code": "72112",
+    "NAICS_Code.1": 744
+  },
+  {
+    "": 432,
+    "NAICS_Code": "72211",
+    "NAICS_Code.1": 745
+  },
+  {
+    "": 319194,
+    "NAICS_Code": "72231",
+    "NAICS_Code.1": 746
+  },
+  {
+    "": 36557,
+    "NAICS_Code": "72232",
+    "NAICS_Code.1": 747
+  },
+  {
+    "": 48,
+    "NAICS_Code": "72233",
+    "NAICS_Code.1": 748
+  },
+  {
+    "": 21913,
+    "NAICS_Code": "72251",
+    "NAICS_Code.1": 749
+  },
+  {
+    "": 2068,
+    "NAICS_Code": "81111",
+    "NAICS_Code.1": 750
+  },
+  {
+    "": 466772,
+    "NAICS_Code": "81112",
+    "NAICS_Code.1": 751
+  },
+  {
+    "": 23524,
+    "NAICS_Code": "81119",
+    "NAICS_Code.1": 752
+  },
+  {
+    "": 24430,
+    "NAICS_Code": "81121",
+    "NAICS_Code.1": 753
+  },
+  {
+    "": 19,
+    "NAICS_Code": "81211",
+    "NAICS_Code.1": 754
+  },
+  {
+    "": 22468,
+    "NAICS_Code": "81219",
+    "NAICS_Code.1": 755
+  },
+  {
+    "": 49472,
+    "NAICS_Code": "81221",
+    "NAICS_Code.1": 756
+  },
+  {
+    "": 231218,
+    "NAICS_Code": "81222",
+    "NAICS_Code.1": 757
+  },
+  {
+    "": 213022,
+    "NAICS_Code": "81233",
+    "NAICS_Code.1": 758
+  },
+  {
+    "": 444291,
+    "NAICS_Code": "81291",
+    "NAICS_Code.1": 759
+  },
+  {
+    "": 43120,
+    "NAICS_Code": "81293",
+    "NAICS_Code.1": 760
+  },
+  {
+    "": 321164,
+    "NAICS_Code": "81299",
+    "NAICS_Code.1": 761
+  },
+  {
+    "": 22,
+    "NAICS_Code": "81311",
+    "NAICS_Code.1": 762
+  },
+  {
+    "": 27084,
+    "NAICS_Code": "81321",
+    "NAICS_Code.1": 763
+  },
+  {
+    "": 380,
+    "NAICS_Code": "81331",
+    "NAICS_Code.1": 764
+  },
+  {
+    "": 16445,
+    "NAICS_Code": "81341",
+    "NAICS_Code.1": 765
+  },
+  {
+    "": 24492,
+    "NAICS_Code": "81391",
+    "NAICS_Code.1": 766
+  },
+  {
+    "": 46113,
+    "NAICS_Code": "81392",
+    "NAICS_Code.1": 767
+  },
+  {
+    "": 22769,
+    "NAICS_Code": "81393",
+    "NAICS_Code.1": 768
+  },
+  {
+    "": 316015,
+    "NAICS_Code": "81394",
+    "NAICS_Code.1": 769
+  },
+  {
+    "": 123096,
+    "NAICS_Code": "81399",
+    "NAICS_Code.1": 770
+  },
+  {
+    "": 27257,
+    "NAICS_Code": "92113",
+    "NAICS_Code.1": 771
+  },
+  {
+    "": 689,
+    "NAICS_Code": "92115",
+    "NAICS_Code.1": 772
+  },
+  {
+    "": 20195,
+    "NAICS_Code": "92119",
+    "NAICS_Code.1": 773
+  },
+  {
+    "": 298994,
+    "NAICS_Code": "92214",
+    "NAICS_Code.1": 774
+  },
+  {
+    "": 68999,
+    "NAICS_Code": "92216",
+    "NAICS_Code.1": 775
+  },
+  {
+    "": 31787,
+    "NAICS_Code": "92219",
+    "NAICS_Code.1": 776
+  },
+  {
+    "": 15057,
+    "NAICS_Code": "92311",
+    "NAICS_Code.1": 777
+  },
+  {
+    "": 1238,
+    "NAICS_Code": "92312",
+    "NAICS_Code.1": 778
+  },
+  {
+    "": 320688,
+    "NAICS_Code": "92313",
+    "NAICS_Code.1": 779
+  },
+  {
+    "": 311034,
+    "NAICS_Code": "92314",
+    "NAICS_Code.1": 780
+  },
+  {
+    "": 38516,
+    "NAICS_Code": "92411",
+    "NAICS_Code.1": 781
+  },
+  {
+    "": 316446,
+    "NAICS_Code": "92512",
+    "NAICS_Code.1": 782
+  },
+  {
+    "": 239012,
+    "NAICS_Code": "92612",
+    "NAICS_Code.1": 783
+  },
+  {
+    "": 457849,
+    "NAICS_Code": "92613",
+    "NAICS_Code.1": 784
+  },
+  {
+    "": 38248,
+    "NAICS_Code": "92614",
+    "NAICS_Code.1": 785
+  },
+  {
+    "": 39974,
+    "NAICS_Code": "92615",
+    "NAICS_Code.1": 786
+  },
+  {
+    "": 40508,
+    "NAICS_Code": "92711",
+    "NAICS_Code.1": 787
+  },
+  {
+    "": 6194,
+    "NAICS_Code": "92812",
+    "NAICS_Code.1": 788
+  },
+  {
+    "": 30859,
+    "NAICS_Code": "106888",
+    "NAICS_Code.1": 789
+  },
+  {
+    "": 454095,
+    "NAICS_Code": "111110",
+    "NAICS_Code.1": 790
+  },
+  {
+    "": 349979,
+    "NAICS_Code": "111130",
+    "NAICS_Code.1": 791
+  },
+  {
+    "": 1908,
+    "NAICS_Code": "111199",
+    "NAICS_Code.1": 792
+  },
+  {
+    "": 375332,
+    "NAICS_Code": "111211",
+    "NAICS_Code.1": 793
+  },
+  {
+    "": 36140,
+    "NAICS_Code": "111219",
+    "NAICS_Code.1": 794
+  },
+  {
+    "": 1250,
+    "NAICS_Code": "111332",
+    "NAICS_Code.1": 795
+  },
+  {
+    "": 25555,
+    "NAICS_Code": "111334",
+    "NAICS_Code.1": 796
+  },
+  {
+    "": 211122,
+    "NAICS_Code": "111335",
+    "NAICS_Code.1": 797
+  },
+  {
+    "": 315096,
+    "NAICS_Code": "111336",
+    "NAICS_Code.1": 798
+  },
+  {
+    "": 106,
+    "NAICS_Code": "111339",
+    "NAICS_Code.1": 799
+  },
+  {
+    "": 6475,
+    "NAICS_Code": "111411",
+    "NAICS_Code.1": 800
+  },
+  {
+    "": 337239,
+    "NAICS_Code": "111419",
+    "NAICS_Code.1": 801
+  },
+  {
+    "": 19589,
+    "NAICS_Code": "111421",
+    "NAICS_Code.1": 802
+  },
+  {
+    "": 31100,
+    "NAICS_Code": "111422",
+    "NAICS_Code.1": 803
+  },
+  {
+    "": 30680,
+    "NAICS_Code": "111940",
+    "NAICS_Code.1": 804
+  },
+  {
+    "": 26381,
+    "NAICS_Code": "111998",
+    "NAICS_Code.1": 805
+  },
+  {
+    "": 19013,
+    "NAICS_Code": "112111",
+    "NAICS_Code.1": 806
+  },
+  {
+    "": 336738,
+    "NAICS_Code": "112112",
+    "NAICS_Code.1": 807
+  },
+  {
+    "": 19099,
+    "NAICS_Code": "112120",
+    "NAICS_Code.1": 808
+  },
+  {
+    "": 19455,
+    "NAICS_Code": "112210",
+    "NAICS_Code.1": 809
+  },
+  {
+    "": 189327,
+    "NAICS_Code": "112310",
+    "NAICS_Code.1": 810
+  },
+  {
+    "": 112279,
+    "NAICS_Code": "112390",
+    "NAICS_Code.1": 811
+  },
+  {
+    "": 94309,
+    "NAICS_Code": "112511",
+    "NAICS_Code.1": 812
+  },
+  {
+    "": 180492,
+    "NAICS_Code": "112512",
+    "NAICS_Code.1": 813
+  },
+  {
+    "": 21331,
+    "NAICS_Code": "112519",
+    "NAICS_Code.1": 814
+  },
+  {
+    "": 332360,
+    "NAICS_Code": "112920",
+    "NAICS_Code.1": 815
+  },
+  {
+    "": 28869,
+    "NAICS_Code": "112990",
+    "NAICS_Code.1": 816
+  },
+  {
+    "": 392558,
+    "NAICS_Code": "113310",
+    "NAICS_Code.1": 817
+  },
+  {
+    "": 140762,
+    "NAICS_Code": "114210",
+    "NAICS_Code.1": 818
+  },
+  {
+    "": 36110,
+    "NAICS_Code": "115112",
+    "NAICS_Code.1": 819
+  },
+  {
+    "": 155431,
+    "NAICS_Code": "115113",
+    "NAICS_Code.1": 820
+  },
+  {
+    "": 20903,
+    "NAICS_Code": "115114",
+    "NAICS_Code.1": 821
+  },
+  {
+    "": 20575,
+    "NAICS_Code": "115116",
+    "NAICS_Code.1": 822
+  },
+  {
+    "": 27339,
+    "NAICS_Code": "115210",
+    "NAICS_Code.1": 823
+  },
+  {
+    "": 28,
+    "NAICS_Code": "115310",
+    "NAICS_Code.1": 824
+  },
+  {
+    "": 24400,
+    "NAICS_Code": "127110",
+    "NAICS_Code.1": 825
+  },
+  {
+    "": 2104,
+    "NAICS_Code": "211111",
+    "NAICS_Code.1": 826
+  },
+  {
+    "": 160046,
+    "NAICS_Code": "211112",
+    "NAICS_Code.1": 827
+  },
+  {
+    "": 575991,
+    "NAICS_Code": "212111",
+    "NAICS_Code.1": 828
+  },
+  {
+    "": 249414,
+    "NAICS_Code": "212112",
+    "NAICS_Code.1": 829
+  },
+  {
+    "": 269813,
+    "NAICS_Code": "212113",
+    "NAICS_Code.1": 830
+  },
+  {
+    "": 45358,
+    "NAICS_Code": "212221",
+    "NAICS_Code.1": 831
+  },
+  {
+    "": 485902,
+    "NAICS_Code": "212222",
+    "NAICS_Code.1": 832
+  },
+  {
+    "": 283858,
+    "NAICS_Code": "212231",
+    "NAICS_Code.1": 833
+  },
+  {
+    "": 401174,
+    "NAICS_Code": "212234",
+    "NAICS_Code.1": 834
+  },
+  {
+    "": 210003,
+    "NAICS_Code": "212291",
+    "NAICS_Code.1": 835
+  },
+  {
+    "": 43228,
+    "NAICS_Code": "212299",
+    "NAICS_Code.1": 836
+  },
+  {
+    "": 454238,
+    "NAICS_Code": "212311",
+    "NAICS_Code.1": 837
+  },
+  {
+    "": 134901,
+    "NAICS_Code": "212312",
+    "NAICS_Code.1": 838
+  },
+  {
+    "": 380195,
+    "NAICS_Code": "212319",
+    "NAICS_Code.1": 839
+  },
+  {
+    "": 213085,
+    "NAICS_Code": "212321",
+    "NAICS_Code.1": 840
+  },
+  {
+    "": 472621,
+    "NAICS_Code": "212322",
+    "NAICS_Code.1": 841
+  },
+  {
+    "": 390190,
+    "NAICS_Code": "212324",
+    "NAICS_Code.1": 842
+  },
+  {
+    "": 32870,
+    "NAICS_Code": "212325",
+    "NAICS_Code.1": 843
+  },
+  {
+    "": 166424,
+    "NAICS_Code": "212391",
+    "NAICS_Code.1": 844
+  },
+  {
+    "": 71637,
+    "NAICS_Code": "212393",
+    "NAICS_Code.1": 845
+  },
+  {
+    "": 10893,
+    "NAICS_Code": "212399",
+    "NAICS_Code.1": 846
+  },
+  {
+    "": 170302,
+    "NAICS_Code": "213111",
+    "NAICS_Code.1": 847
+  },
+  {
+    "": 424,
+    "NAICS_Code": "213112",
+    "NAICS_Code.1": 848
+  },
+  {
+    "": 9754,
+    "NAICS_Code": "213113",
+    "NAICS_Code.1": 849
+  },
+  {
+    "": 36749,
+    "NAICS_Code": "213114",
+    "NAICS_Code.1": 850
+  },
+  {
+    "": 495773,
+    "NAICS_Code": "213115",
+    "NAICS_Code.1": 851
+  },
+  {
+    "": 93304,
+    "NAICS_Code": "221111",
+    "NAICS_Code.1": 852
+  },
+  {
+    "": 93211,
+    "NAICS_Code": "221112",
+    "NAICS_Code.1": 853
+  },
+  {
+    "": 38261,
+    "NAICS_Code": "221113",
+    "NAICS_Code.1": 854
+  },
+  {
+    "": 353,
+    "NAICS_Code": "221114",
+    "NAICS_Code.1": 855
+  },
+  {
+    "": 94320,
+    "NAICS_Code": "221115",
+    "NAICS_Code.1": 856
+  },
+  {
+    "": 138655,
+    "NAICS_Code": "221116",
+    "NAICS_Code.1": 857
+  },
+  {
+    "": 297143,
+    "NAICS_Code": "221117",
+    "NAICS_Code.1": 858
+  },
+  {
+    "": 72875,
+    "NAICS_Code": "221118",
+    "NAICS_Code.1": 859
+  },
+  {
+    "": 136475,
+    "NAICS_Code": "221119",
+    "NAICS_Code.1": 860
+  },
+  {
+    "": 85463,
+    "NAICS_Code": "221121",
+    "NAICS_Code.1": 861
+  },
+  {
+    "": 28131,
+    "NAICS_Code": "221122",
+    "NAICS_Code.1": 862
+  },
+  {
+    "": 34258,
+    "NAICS_Code": "221210",
+    "NAICS_Code.1": 863
+  },
+  {
+    "": 30762,
+    "NAICS_Code": "221310",
+    "NAICS_Code.1": 864
+  },
+  {
+    "": 55022,
+    "NAICS_Code": "221320",
+    "NAICS_Code.1": 865
+  },
+  {
+    "": 339957,
+    "NAICS_Code": "221330",
+    "NAICS_Code.1": 866
+  },
+  {
+    "": 31653,
+    "NAICS_Code": "233320",
+    "NAICS_Code.1": 867
+  },
+  {
+    "": 8769,
+    "NAICS_Code": "236115",
+    "NAICS_Code.1": 868
+  },
+  {
+    "": 240,
+    "NAICS_Code": "236116",
+    "NAICS_Code.1": 869
+  },
+  {
+    "": 5914,
+    "NAICS_Code": "236117",
+    "NAICS_Code.1": 870
+  },
+  {
+    "": 24778,
+    "NAICS_Code": "236118",
+    "NAICS_Code.1": 871
+  },
+  {
+    "": 454,
+    "NAICS_Code": "236210",
+    "NAICS_Code.1": 872
+  },
+  {
+    "": 1201,
+    "NAICS_Code": "236220",
+    "NAICS_Code.1": 873
+  },
+  {
+    "": 27270,
+    "NAICS_Code": "237110",
+    "NAICS_Code.1": 874
+  },
+  {
+    "": 4500,
+    "NAICS_Code": "237120",
+    "NAICS_Code.1": 875
+  },
+  {
+    "": 18805,
+    "NAICS_Code": "237130",
+    "NAICS_Code.1": 876
+  },
+  {
+    "": 26675,
+    "NAICS_Code": "237210",
+    "NAICS_Code.1": 877
+  },
+  {
+    "": 6668,
+    "NAICS_Code": "237310",
+    "NAICS_Code.1": 878
+  },
+  {
+    "": 400,
+    "NAICS_Code": "237990",
+    "NAICS_Code.1": 879
+  },
+  {
+    "": 24436,
+    "NAICS_Code": "238100",
+    "NAICS_Code.1": 880
+  },
+  {
+    "": 27917,
+    "NAICS_Code": "238110",
+    "NAICS_Code.1": 881
+  },
+  {
+    "": 23902,
+    "NAICS_Code": "238120",
+    "NAICS_Code.1": 882
+  },
+  {
+    "": 89364,
+    "NAICS_Code": "238130",
+    "NAICS_Code.1": 883
+  },
+  {
+    "": 319877,
+    "NAICS_Code": "238140",
+    "NAICS_Code.1": 884
+  },
+  {
+    "": 20456,
+    "NAICS_Code": "238150",
+    "NAICS_Code.1": 885
+  },
+  {
+    "": 28874,
+    "NAICS_Code": "238160",
+    "NAICS_Code.1": 886
+  },
+  {
+    "": 3172,
+    "NAICS_Code": "238190",
+    "NAICS_Code.1": 887
+  },
+  {
+    "": 277,
+    "NAICS_Code": "238210",
+    "NAICS_Code.1": 888
+  },
+  {
+    "": 66,
+    "NAICS_Code": "238220",
+    "NAICS_Code.1": 889
+  },
+  {
+    "": 23202,
+    "NAICS_Code": "238290",
+    "NAICS_Code.1": 890
+  },
+  {
+    "": 21463,
+    "NAICS_Code": "238300",
+    "NAICS_Code.1": 891
+  },
+  {
+    "": 26493,
+    "NAICS_Code": "238310",
+    "NAICS_Code.1": 892
+  },
+  {
+    "": 1318,
+    "NAICS_Code": "238320",
+    "NAICS_Code.1": 893
+  },
+  {
+    "": 20885,
+    "NAICS_Code": "238330",
+    "NAICS_Code.1": 894
+  },
+  {
+    "": 385,
+    "NAICS_Code": "238340",
+    "NAICS_Code.1": 895
+  },
+  {
+    "": 14581,
+    "NAICS_Code": "238350",
+    "NAICS_Code.1": 896
+  },
+  {
+    "": 2066,
+    "NAICS_Code": "238390",
+    "NAICS_Code.1": 897
+  },
+  {
+    "": 21920,
+    "NAICS_Code": "238910",
+    "NAICS_Code.1": 898
+  },
+  {
+    "": 18801,
+    "NAICS_Code": "238990",
+    "NAICS_Code.1": 899
+  },
+  {
+    "": 33693,
+    "NAICS_Code": "263220",
+    "NAICS_Code.1": 900
+  },
+  {
+    "": 1192,
+    "NAICS_Code": "311111",
+    "NAICS_Code.1": 901
+  },
+  {
+    "": 28477,
+    "NAICS_Code": "311119",
+    "NAICS_Code.1": 902
+  },
+  {
+    "": 32670,
+    "NAICS_Code": "311211",
+    "NAICS_Code.1": 903
+  },
+  {
+    "": 25483,
+    "NAICS_Code": "311212",
+    "NAICS_Code.1": 904
+  },
+  {
+    "": 116499,
+    "NAICS_Code": "311213",
+    "NAICS_Code.1": 905
+  },
+  {
+    "": 353679,
+    "NAICS_Code": "311221",
+    "NAICS_Code.1": 906
+  },
+  {
+    "": 28703,
+    "NAICS_Code": "311224",
+    "NAICS_Code.1": 907
+  },
+  {
+    "": 61248,
+    "NAICS_Code": "311225",
+    "NAICS_Code.1": 908
+  },
+  {
+    "": 113061,
+    "NAICS_Code": "311230",
+    "NAICS_Code.1": 909
+  },
+  {
+    "": 35745,
+    "NAICS_Code": "311312",
+    "NAICS_Code.1": 910
+  },
+  {
+    "": 392176,
+    "NAICS_Code": "311314",
+    "NAICS_Code.1": 911
+  },
+  {
+    "": 22704,
+    "NAICS_Code": "311320",
+    "NAICS_Code.1": 912
+  },
+  {
+    "": 74190,
+    "NAICS_Code": "311330",
+    "NAICS_Code.1": 913
+  },
+  {
+    "": 32852,
+    "NAICS_Code": "311340",
+    "NAICS_Code.1": 914
+  },
+  {
+    "": 122,
+    "NAICS_Code": "311351",
+    "NAICS_Code.1": 915
+  },
+  {
+    "": 72,
+    "NAICS_Code": "311352",
+    "NAICS_Code.1": 916
+  },
+  {
+    "": 63535,
+    "NAICS_Code": "311411",
+    "NAICS_Code.1": 917
+  },
+  {
+    "": 858,
+    "NAICS_Code": "311412",
+    "NAICS_Code.1": 918
+  },
+  {
+    "": 43113,
+    "NAICS_Code": "311421",
+    "NAICS_Code.1": 919
+  },
+  {
+    "": 176707,
+    "NAICS_Code": "311422",
+    "NAICS_Code.1": 920
+  },
+  {
+    "": 1995,
+    "NAICS_Code": "311423",
+    "NAICS_Code.1": 921
+  },
+  {
+    "": 223780,
+    "NAICS_Code": "311510",
+    "NAICS_Code.1": 922
+  },
+  {
+    "": 28529,
+    "NAICS_Code": "311511",
+    "NAICS_Code.1": 923
+  },
+  {
+    "": 2061,
+    "NAICS_Code": "311513",
+    "NAICS_Code.1": 924
+  },
+  {
+    "": 14692,
+    "NAICS_Code": "311514",
+    "NAICS_Code.1": 925
+  },
+  {
+    "": 2134,
+    "NAICS_Code": "311520",
+    "NAICS_Code.1": 926
+  },
+  {
+    "": 19126,
+    "NAICS_Code": "311611",
+    "NAICS_Code.1": 927
+  },
+  {
+    "": 25122,
+    "NAICS_Code": "311612",
+    "NAICS_Code.1": 928
+  },
+  {
+    "": 23983,
+    "NAICS_Code": "311613",
+    "NAICS_Code.1": 929
+  },
+  {
+    "": 37764,
+    "NAICS_Code": "311615",
+    "NAICS_Code.1": 930
+  },
+  {
+    "": 57828,
+    "NAICS_Code": "311710",
+    "NAICS_Code.1": 931
+  },
+  {
+    "": 259504,
+    "NAICS_Code": "311711",
+    "NAICS_Code.1": 932
+  },
+  {
+    "": 340096,
+    "NAICS_Code": "311712",
+    "NAICS_Code.1": 933
+  },
+  {
+    "": 74,
+    "NAICS_Code": "311811",
+    "NAICS_Code.1": 934
+  },
+  {
+    "": 25,
+    "NAICS_Code": "311812",
+    "NAICS_Code.1": 935
+  },
+  {
+    "": 99310,
+    "NAICS_Code": "311813",
+    "NAICS_Code.1": 936
+  },
+  {
+    "": 247675,
+    "NAICS_Code": "311821",
+    "NAICS_Code.1": 937
+  },
+  {
+    "": 65812,
+    "NAICS_Code": "311822",
+    "NAICS_Code.1": 938
+  },
+  {
+    "": 360717,
+    "NAICS_Code": "311823",
+    "NAICS_Code.1": 939
+  },
+  {
+    "": 8534,
+    "NAICS_Code": "311824",
+    "NAICS_Code.1": 940
+  },
+  {
+    "": 46496,
+    "NAICS_Code": "311830",
+    "NAICS_Code.1": 941
+  },
+  {
+    "": 320909,
+    "NAICS_Code": "311911",
+    "NAICS_Code.1": 942
+  },
+  {
+    "": 165352,
+    "NAICS_Code": "311919",
+    "NAICS_Code.1": 943
+  },
+  {
+    "": 113,
+    "NAICS_Code": "311920",
+    "NAICS_Code.1": 944
+  },
+  {
+    "": 31941,
+    "NAICS_Code": "311930",
+    "NAICS_Code.1": 945
+  },
+  {
+    "": 31342,
+    "NAICS_Code": "311941",
+    "NAICS_Code.1": 946
+  },
+  {
+    "": 6714,
+    "NAICS_Code": "311942",
+    "NAICS_Code.1": 947
+  },
+  {
+    "": 4961,
+    "NAICS_Code": "311991",
+    "NAICS_Code.1": 948
+  },
+  {
+    "": 22239,
+    "NAICS_Code": "311999",
+    "NAICS_Code.1": 949
+  },
+  {
+    "": 48457,
+    "NAICS_Code": "312111",
+    "NAICS_Code.1": 950
+  },
+  {
+    "": 26145,
+    "NAICS_Code": "312112",
+    "NAICS_Code.1": 951
+  },
+  {
+    "": 436008,
+    "NAICS_Code": "312113",
+    "NAICS_Code.1": 952
+  },
+  {
+    "": 19550,
+    "NAICS_Code": "312120",
+    "NAICS_Code.1": 953
+  },
+  {
+    "": 209,
+    "NAICS_Code": "312130",
+    "NAICS_Code.1": 954
+  },
+  {
+    "": 25237,
+    "NAICS_Code": "312140",
+    "NAICS_Code.1": 955
+  },
+  {
+    "": 138839,
+    "NAICS_Code": "312221",
+    "NAICS_Code.1": 956
+  },
+  {
+    "": 254875,
+    "NAICS_Code": "312229",
+    "NAICS_Code.1": 957
+  },
+  {
+    "": 323734,
+    "NAICS_Code": "312230",
+    "NAICS_Code.1": 958
+  },
+  {
+    "": 81462,
+    "NAICS_Code": "313110",
+    "NAICS_Code.1": 959
+  },
+  {
+    "": 350252,
+    "NAICS_Code": "313111",
+    "NAICS_Code.1": 960
+  },
+  {
+    "": 46236,
+    "NAICS_Code": "313113",
+    "NAICS_Code.1": 961
+  },
+  {
+    "": 1692,
+    "NAICS_Code": "313210",
+    "NAICS_Code.1": 962
+  },
+  {
+    "": 349385,
+    "NAICS_Code": "313220",
+    "NAICS_Code.1": 963
+  },
+  {
+    "": 28779,
+    "NAICS_Code": "313230",
+    "NAICS_Code.1": 964
+  },
+  {
+    "": 318381,
+    "NAICS_Code": "313240",
+    "NAICS_Code.1": 965
+  },
+  {
+    "": 34739,
+    "NAICS_Code": "313310",
+    "NAICS_Code.1": 966
+  },
+  {
+    "": 51790,
+    "NAICS_Code": "313312",
+    "NAICS_Code.1": 967
+  },
+  {
+    "": 202497,
+    "NAICS_Code": "313320",
+    "NAICS_Code.1": 968
+  },
+  {
+    "": 21972,
+    "NAICS_Code": "314110",
+    "NAICS_Code.1": 969
+  },
+  {
+    "": 39086,
+    "NAICS_Code": "314120",
+    "NAICS_Code.1": 970
+  },
+  {
+    "": 104173,
+    "NAICS_Code": "314129",
+    "NAICS_Code.1": 971
+  },
+  {
+    "": 23726,
+    "NAICS_Code": "314910",
+    "NAICS_Code.1": 972
+  },
+  {
+    "": 492640,
+    "NAICS_Code": "314911",
+    "NAICS_Code.1": 973
+  },
+  {
+    "": 253800,
+    "NAICS_Code": "314994",
+    "NAICS_Code.1": 974
+  },
+  {
+    "": 20103,
+    "NAICS_Code": "314999",
+    "NAICS_Code.1": 975
+  },
+  {
+    "": 382294,
+    "NAICS_Code": "315110",
+    "NAICS_Code.1": 976
+  },
+  {
+    "": 315375,
+    "NAICS_Code": "315190",
+    "NAICS_Code.1": 977
+  },
+  {
+    "": 348517,
+    "NAICS_Code": "315192",
+    "NAICS_Code.1": 978
+  },
+  {
+    "": 45250,
+    "NAICS_Code": "315210",
+    "NAICS_Code.1": 979
+  },
+  {
+    "": 18854,
+    "NAICS_Code": "315211",
+    "NAICS_Code.1": 980
+  },
+  {
+    "": 460,
+    "NAICS_Code": "315212",
+    "NAICS_Code.1": 981
+  },
+  {
+    "": 27978,
+    "NAICS_Code": "315220",
+    "NAICS_Code.1": 982
+  },
+  {
+    "": 315382,
+    "NAICS_Code": "315225",
+    "NAICS_Code.1": 983
+  },
+  {
+    "": 322605,
+    "NAICS_Code": "315231",
+    "NAICS_Code.1": 984
+  },
+  {
+    "": 223778,
+    "NAICS_Code": "315233",
+    "NAICS_Code.1": 985
+  },
+  {
+    "": 19200,
+    "NAICS_Code": "315240",
+    "NAICS_Code.1": 986
+  },
+  {
+    "": 40315,
+    "NAICS_Code": "315280",
+    "NAICS_Code.1": 987
+  },
+  {
+    "": 305633,
+    "NAICS_Code": "315291",
+    "NAICS_Code.1": 988
+  },
+  {
+    "": 492163,
+    "NAICS_Code": "315299",
+    "NAICS_Code.1": 989
+  },
+  {
+    "": 16343,
+    "NAICS_Code": "315990",
+    "NAICS_Code.1": 990
+  },
+  {
+    "": 21108,
+    "NAICS_Code": "315999",
+    "NAICS_Code.1": 991
+  },
+  {
+    "": 301489,
+    "NAICS_Code": "316110",
+    "NAICS_Code.1": 992
+  },
+  {
+    "": 36950,
+    "NAICS_Code": "316210",
+    "NAICS_Code.1": 993
+  },
+  {
+    "": 355625,
+    "NAICS_Code": "316212",
+    "NAICS_Code.1": 994
+  },
+  {
+    "": 122777,
+    "NAICS_Code": "316213",
+    "NAICS_Code.1": 995
+  },
+  {
+    "": 32124,
+    "NAICS_Code": "316214",
+    "NAICS_Code.1": 996
+  },
+  {
+    "": 50368,
+    "NAICS_Code": "316219",
+    "NAICS_Code.1": 997
+  },
+  {
+    "": 176045,
+    "NAICS_Code": "316991",
+    "NAICS_Code.1": 998
+  },
+  {
+    "": 3826,
+    "NAICS_Code": "316992",
+    "NAICS_Code.1": 999
+  },
+  {
+    "": 336633,
+    "NAICS_Code": "316998",
+    "NAICS_Code.1": 1000
+  },
+  {
+    "": 233792,
+    "NAICS_Code": "316999",
+    "NAICS_Code.1": 1001
+  },
+  {
+    "": 108386,
+    "NAICS_Code": "321113",
+    "NAICS_Code.1": 1002
+  },
+  {
+    "": 28630,
+    "NAICS_Code": "321211",
+    "NAICS_Code.1": 1003
+  },
+  {
+    "": 352696,
+    "NAICS_Code": "321212",
+    "NAICS_Code.1": 1004
+  },
+  {
+    "": 37106,
+    "NAICS_Code": "321213",
+    "NAICS_Code.1": 1005
+  },
+  {
+    "": 405365,
+    "NAICS_Code": "321214",
+    "NAICS_Code.1": 1006
+  },
+  {
+    "": 21105,
+    "NAICS_Code": "321219",
+    "NAICS_Code.1": 1007
+  },
+  {
+    "": 215,
+    "NAICS_Code": "321911",
+    "NAICS_Code.1": 1008
+  },
+  {
+    "": 19569,
+    "NAICS_Code": "321912",
+    "NAICS_Code.1": 1009
+  },
+  {
+    "": 340036,
+    "NAICS_Code": "321918",
+    "NAICS_Code.1": 1010
+  },
+  {
+    "": 73340,
+    "NAICS_Code": "321920",
+    "NAICS_Code.1": 1011
+  },
+  {
+    "": 341043,
+    "NAICS_Code": "321991",
+    "NAICS_Code.1": 1012
+  },
+  {
+    "": 33927,
+    "NAICS_Code": "321999",
+    "NAICS_Code.1": 1013
+  },
+  {
+    "": 519147,
+    "NAICS_Code": "322110",
+    "NAICS_Code.1": 1014
+  },
+  {
+    "": 19638,
+    "NAICS_Code": "322121",
+    "NAICS_Code.1": 1015
+  },
+  {
+    "": 522264,
+    "NAICS_Code": "322130",
+    "NAICS_Code.1": 1016
+  },
+  {
+    "": 228133,
+    "NAICS_Code": "322211",
+    "NAICS_Code.1": 1017
+  },
+  {
+    "": 347398,
+    "NAICS_Code": "322212",
+    "NAICS_Code.1": 1018
+  },
+  {
+    "": 36615,
+    "NAICS_Code": "322220",
+    "NAICS_Code.1": 1019
+  },
+  {
+    "": 169483,
+    "NAICS_Code": "322221",
+    "NAICS_Code.1": 1020
+  },
+  {
+    "": 342060,
+    "NAICS_Code": "322222",
+    "NAICS_Code.1": 1021
+  },
+  {
+    "": 175043,
+    "NAICS_Code": "322223",
+    "NAICS_Code.1": 1022
+  },
+  {
+    "": 74027,
+    "NAICS_Code": "322230",
+    "NAICS_Code.1": 1023
+  },
+  {
+    "": 213706,
+    "NAICS_Code": "322291",
+    "NAICS_Code.1": 1024
+  },
+  {
+    "": 31522,
+    "NAICS_Code": "322299",
+    "NAICS_Code.1": 1025
+  },
+  {
+    "": 6593,
+    "NAICS_Code": "323110",
+    "NAICS_Code.1": 1026
+  },
+  {
+    "": 22730,
+    "NAICS_Code": "323111",
+    "NAICS_Code.1": 1027
+  },
+  {
+    "": 188177,
+    "NAICS_Code": "323112",
+    "NAICS_Code.1": 1028
+  },
+  {
+    "": 20296,
+    "NAICS_Code": "323113",
+    "NAICS_Code.1": 1029
+  },
+  {
+    "": 20135,
+    "NAICS_Code": "323114",
+    "NAICS_Code.1": 1030
+  },
+  {
+    "": 19171,
+    "NAICS_Code": "323115",
+    "NAICS_Code.1": 1031
+  },
+  {
+    "": 1688,
+    "NAICS_Code": "323117",
+    "NAICS_Code.1": 1032
+  },
+  {
+    "": 36015,
+    "NAICS_Code": "323118",
+    "NAICS_Code.1": 1033
+  },
+  {
+    "": 9196,
+    "NAICS_Code": "323119",
+    "NAICS_Code.1": 1034
+  },
+  {
+    "": 40943,
+    "NAICS_Code": "323120",
+    "NAICS_Code.1": 1035
+  },
+  {
+    "": 92306,
+    "NAICS_Code": "323310",
+    "NAICS_Code.1": 1036
+  },
+  {
+    "": 57945,
+    "NAICS_Code": "324110",
+    "NAICS_Code.1": 1037
+  },
+  {
+    "": 48886,
+    "NAICS_Code": "324121",
+    "NAICS_Code.1": 1038
+  },
+  {
+    "": 110429,
+    "NAICS_Code": "324122",
+    "NAICS_Code.1": 1039
+  },
+  {
+    "": 49061,
+    "NAICS_Code": "324191",
+    "NAICS_Code.1": 1040
+  },
+  {
+    "": 5994,
+    "NAICS_Code": "324199",
+    "NAICS_Code.1": 1041
+  },
+  {
+    "": 41699,
+    "NAICS_Code": "325110",
+    "NAICS_Code.1": 1042
+  },
+  {
+    "": 22825,
+    "NAICS_Code": "325120",
+    "NAICS_Code.1": 1043
+  },
+  {
+    "": 66094,
+    "NAICS_Code": "325130",
+    "NAICS_Code.1": 1044
+  },
+  {
+    "": 26083,
+    "NAICS_Code": "325132",
+    "NAICS_Code.1": 1045
+  },
+  {
+    "": 18185,
+    "NAICS_Code": "325180",
+    "NAICS_Code.1": 1046
+  },
+  {
+    "": 92341,
+    "NAICS_Code": "325181",
+    "NAICS_Code.1": 1047
+  },
+  {
+    "": 220255,
+    "NAICS_Code": "325182",
+    "NAICS_Code.1": 1048
+  },
+  {
+    "": 31773,
+    "NAICS_Code": "325188",
+    "NAICS_Code.1": 1049
+  },
+  {
+    "": 187945,
+    "NAICS_Code": "325193",
+    "NAICS_Code.1": 1050
+  },
+  {
+    "": 202228,
+    "NAICS_Code": "325194",
+    "NAICS_Code.1": 1051
+  },
+  {
+    "": 6416,
+    "NAICS_Code": "325199",
+    "NAICS_Code.1": 1052
+  },
+  {
+    "": 3319,
+    "NAICS_Code": "325211",
+    "NAICS_Code.1": 1053
+  },
+  {
+    "": 21631,
+    "NAICS_Code": "325212",
+    "NAICS_Code.1": 1054
+  },
+  {
+    "": 361067,
+    "NAICS_Code": "325220",
+    "NAICS_Code.1": 1055
+  },
+  {
+    "": 125895,
+    "NAICS_Code": "325222",
+    "NAICS_Code.1": 1056
+  },
+  {
+    "": 47106,
+    "NAICS_Code": "325311",
+    "NAICS_Code.1": 1057
+  },
+  {
+    "": 530841,
+    "NAICS_Code": "325312",
+    "NAICS_Code.1": 1058
+  },
+  {
+    "": 224745,
+    "NAICS_Code": "325314",
+    "NAICS_Code.1": 1059
+  },
+  {
+    "": 45270,
+    "NAICS_Code": "325320",
+    "NAICS_Code.1": 1060
+  },
+  {
+    "": 73445,
+    "NAICS_Code": "325410",
+    "NAICS_Code.1": 1061
+  },
+  {
+    "": 1732,
+    "NAICS_Code": "325411",
+    "NAICS_Code.1": 1062
+  },
+  {
+    "": 283,
+    "NAICS_Code": "325412",
+    "NAICS_Code.1": 1063
+  },
+  {
+    "": 838,
+    "NAICS_Code": "325413",
+    "NAICS_Code.1": 1064
+  },
+  {
+    "": 25530,
+    "NAICS_Code": "325414",
+    "NAICS_Code.1": 1065
+  },
+  {
+    "": 43896,
+    "NAICS_Code": "325510",
+    "NAICS_Code.1": 1066
+  },
+  {
+    "": 28606,
+    "NAICS_Code": "325520",
+    "NAICS_Code.1": 1067
+  },
+  {
+    "": 26263,
+    "NAICS_Code": "325611",
+    "NAICS_Code.1": 1068
+  },
+  {
+    "": 215739,
+    "NAICS_Code": "325612",
+    "NAICS_Code.1": 1069
+  },
+  {
+    "": 767,
+    "NAICS_Code": "325620",
+    "NAICS_Code.1": 1070
+  },
+  {
+    "": 32141,
+    "NAICS_Code": "325910",
+    "NAICS_Code.1": 1071
+  },
+  {
+    "": 72867,
+    "NAICS_Code": "325920",
+    "NAICS_Code.1": 1072
+  },
+  {
+    "": 16268,
+    "NAICS_Code": "325991",
+    "NAICS_Code.1": 1073
+  },
+  {
+    "": 91850,
+    "NAICS_Code": "325992",
+    "NAICS_Code.1": 1074
+  },
+  {
+    "": 763,
+    "NAICS_Code": "325998",
+    "NAICS_Code.1": 1075
+  },
+  {
+    "": 1146,
+    "NAICS_Code": "326111",
+    "NAICS_Code.1": 1076
+  },
+  {
+    "": 42029,
+    "NAICS_Code": "326112",
+    "NAICS_Code.1": 1077
+  },
+  {
+    "": 43900,
+    "NAICS_Code": "326113",
+    "NAICS_Code.1": 1078
+  },
+  {
+    "": 238173,
+    "NAICS_Code": "326121",
+    "NAICS_Code.1": 1079
+  },
+  {
+    "": 21441,
+    "NAICS_Code": "326122",
+    "NAICS_Code.1": 1080
+  },
+  {
+    "": 335523,
+    "NAICS_Code": "326130",
+    "NAICS_Code.1": 1081
+  },
+  {
+    "": 36734,
+    "NAICS_Code": "326140",
+    "NAICS_Code.1": 1082
+  },
+  {
+    "": 33610,
+    "NAICS_Code": "326150",
+    "NAICS_Code.1": 1083
+  },
+  {
+    "": 23112,
+    "NAICS_Code": "326160",
+    "NAICS_Code.1": 1084
+  },
+  {
+    "": 27928,
+    "NAICS_Code": "326192",
+    "NAICS_Code.1": 1085
+  },
+  {
+    "": 1301,
+    "NAICS_Code": "326199",
+    "NAICS_Code.1": 1086
+  },
+  {
+    "": 28950,
+    "NAICS_Code": "326211",
+    "NAICS_Code.1": 1087
+  },
+  {
+    "": 398423,
+    "NAICS_Code": "326212",
+    "NAICS_Code.1": 1088
+  },
+  {
+    "": 20524,
+    "NAICS_Code": "326220",
+    "NAICS_Code.1": 1089
+  },
+  {
+    "": 72577,
+    "NAICS_Code": "326291",
+    "NAICS_Code.1": 1090
+  },
+  {
+    "": 26218,
+    "NAICS_Code": "326299",
+    "NAICS_Code.1": 1091
+  },
+  {
+    "": 339915,
+    "NAICS_Code": "327110",
+    "NAICS_Code.1": 1092
+  },
+  {
+    "": 31490,
+    "NAICS_Code": "327111",
+    "NAICS_Code.1": 1093
+  },
+  {
+    "": 27652,
+    "NAICS_Code": "327112",
+    "NAICS_Code.1": 1094
+  },
+  {
+    "": 36203,
+    "NAICS_Code": "327120",
+    "NAICS_Code.1": 1095
+  },
+  {
+    "": 312667,
+    "NAICS_Code": "327121",
+    "NAICS_Code.1": 1096
+  },
+  {
+    "": 102495,
+    "NAICS_Code": "327122",
+    "NAICS_Code.1": 1097
+  },
+  {
+    "": 36464,
+    "NAICS_Code": "327125",
+    "NAICS_Code.1": 1098
+  },
+  {
+    "": 92334,
+    "NAICS_Code": "327211",
+    "NAICS_Code.1": 1099
+  },
+  {
+    "": 502898,
+    "NAICS_Code": "327212",
+    "NAICS_Code.1": 1100
+  },
+  {
+    "": 44367,
+    "NAICS_Code": "327213",
+    "NAICS_Code.1": 1101
+  },
+  {
+    "": 24875,
+    "NAICS_Code": "327215",
+    "NAICS_Code.1": 1102
+  },
+  {
+    "": 102164,
+    "NAICS_Code": "327310",
+    "NAICS_Code.1": 1103
+  },
+  {
+    "": 211124,
+    "NAICS_Code": "327320",
+    "NAICS_Code.1": 1104
+  },
+  {
+    "": 41760,
+    "NAICS_Code": "327331",
+    "NAICS_Code.1": 1105
+  },
+  {
+    "": 378165,
+    "NAICS_Code": "327332",
+    "NAICS_Code.1": 1106
+  },
+  {
+    "": 35498,
+    "NAICS_Code": "327390",
+    "NAICS_Code.1": 1107
+  },
+  {
+    "": 91909,
+    "NAICS_Code": "327420",
+    "NAICS_Code.1": 1108
+  },
+  {
+    "": 2307,
+    "NAICS_Code": "327910",
+    "NAICS_Code.1": 1109
+  },
+  {
+    "": 2484,
+    "NAICS_Code": "327991",
+    "NAICS_Code.1": 1110
+  },
+  {
+    "": 472638,
+    "NAICS_Code": "327992",
+    "NAICS_Code.1": 1111
+  },
+  {
+    "": 123221,
+    "NAICS_Code": "327993",
+    "NAICS_Code.1": 1112
+  },
+  {
+    "": 112713,
+    "NAICS_Code": "327999",
+    "NAICS_Code.1": 1113
+  },
+  {
+    "": 30137,
+    "NAICS_Code": "331110",
+    "NAICS_Code.1": 1114
+  },
+  {
+    "": 58396,
+    "NAICS_Code": "331111",
+    "NAICS_Code.1": 1115
+  },
+  {
+    "": 368420,
+    "NAICS_Code": "331112",
+    "NAICS_Code.1": 1116
+  },
+  {
+    "": 4104,
+    "NAICS_Code": "331210",
+    "NAICS_Code.1": 1117
+  },
+  {
+    "": 24154,
+    "NAICS_Code": "331221",
+    "NAICS_Code.1": 1118
+  },
+  {
+    "": 97051,
+    "NAICS_Code": "331222",
+    "NAICS_Code.1": 1119
+  },
+  {
+    "": 143285,
+    "NAICS_Code": "331311",
+    "NAICS_Code.1": 1120
+  },
+  {
+    "": 45506,
+    "NAICS_Code": "331312",
+    "NAICS_Code.1": 1121
+  },
+  {
+    "": 128257,
+    "NAICS_Code": "331313",
+    "NAICS_Code.1": 1122
+  },
+  {
+    "": 286360,
+    "NAICS_Code": "331314",
+    "NAICS_Code.1": 1123
+  },
+  {
+    "": 1186,
+    "NAICS_Code": "331315",
+    "NAICS_Code.1": 1124
+  },
+  {
+    "": 19820,
+    "NAICS_Code": "331316",
+    "NAICS_Code.1": 1125
+  },
+  {
+    "": 33179,
+    "NAICS_Code": "331318",
+    "NAICS_Code.1": 1126
+  },
+  {
+    "": 34647,
+    "NAICS_Code": "331319",
+    "NAICS_Code.1": 1127
+  },
+  {
+    "": 238980,
+    "NAICS_Code": "331410",
+    "NAICS_Code.1": 1128
+  },
+  {
+    "": 70155,
+    "NAICS_Code": "331411",
+    "NAICS_Code.1": 1129
+  },
+  {
+    "": 4733,
+    "NAICS_Code": "331419",
+    "NAICS_Code.1": 1130
+  },
+  {
+    "": 187007,
+    "NAICS_Code": "331420",
+    "NAICS_Code.1": 1131
+  },
+  {
+    "": 265614,
+    "NAICS_Code": "331421",
+    "NAICS_Code.1": 1132
+  },
+  {
+    "": 87231,
+    "NAICS_Code": "331422",
+    "NAICS_Code.1": 1133
+  },
+  {
+    "": 414286,
+    "NAICS_Code": "331491",
+    "NAICS_Code.1": 1134
+  },
+  {
+    "": 1028,
+    "NAICS_Code": "331492",
+    "NAICS_Code.1": 1135
+  },
+  {
+    "": 27408,
+    "NAICS_Code": "331511",
+    "NAICS_Code.1": 1136
+  },
+  {
+    "": 198696,
+    "NAICS_Code": "331512",
+    "NAICS_Code.1": 1137
+  },
+  {
+    "": 31027,
+    "NAICS_Code": "331513",
+    "NAICS_Code.1": 1138
+  },
+  {
+    "": 35158,
+    "NAICS_Code": "331521",
+    "NAICS_Code.1": 1139
+  },
+  {
+    "": 37737,
+    "NAICS_Code": "331523",
+    "NAICS_Code.1": 1140
+  },
+  {
+    "": 38270,
+    "NAICS_Code": "331524",
+    "NAICS_Code.1": 1141
+  },
+  {
+    "": 23107,
+    "NAICS_Code": "331529",
+    "NAICS_Code.1": 1142
+  },
+  {
+    "": 32883,
+    "NAICS_Code": "332111",
+    "NAICS_Code.1": 1143
+  },
+  {
+    "": 205167,
+    "NAICS_Code": "332112",
+    "NAICS_Code.1": 1144
+  },
+  {
+    "": 438846,
+    "NAICS_Code": "332114",
+    "NAICS_Code.1": 1145
+  },
+  {
+    "": 378002,
+    "NAICS_Code": "332115",
+    "NAICS_Code.1": 1146
+  },
+  {
+    "": 43585,
+    "NAICS_Code": "332116",
+    "NAICS_Code.1": 1147
+  },
+  {
+    "": 28850,
+    "NAICS_Code": "332117",
+    "NAICS_Code.1": 1148
+  },
+  {
+    "": 30844,
+    "NAICS_Code": "332119",
+    "NAICS_Code.1": 1149
+  },
+  {
+    "": 73055,
+    "NAICS_Code": "332212",
+    "NAICS_Code.1": 1150
+  },
+  {
+    "": 389717,
+    "NAICS_Code": "332213",
+    "NAICS_Code.1": 1151
+  },
+  {
+    "": 49101,
+    "NAICS_Code": "332214",
+    "NAICS_Code.1": 1152
+  },
+  {
+    "": 336631,
+    "NAICS_Code": "332215",
+    "NAICS_Code.1": 1153
+  },
+  {
+    "": 359040,
+    "NAICS_Code": "332216",
+    "NAICS_Code.1": 1154
+  },
+  {
+    "": 23656,
+    "NAICS_Code": "332311",
+    "NAICS_Code.1": 1155
+  },
+  {
+    "": 1560,
+    "NAICS_Code": "332312",
+    "NAICS_Code.1": 1156
+  },
+  {
+    "": 20219,
+    "NAICS_Code": "332313",
+    "NAICS_Code.1": 1157
+  },
+  {
+    "": 3881,
+    "NAICS_Code": "332321",
+    "NAICS_Code.1": 1158
+  },
+  {
+    "": 687,
+    "NAICS_Code": "332322",
+    "NAICS_Code.1": 1159
+  },
+  {
+    "": 715,
+    "NAICS_Code": "332323",
+    "NAICS_Code.1": 1160
+  },
+  {
+    "": 20168,
+    "NAICS_Code": "332410",
+    "NAICS_Code.1": 1161
+  },
+  {
+    "": 28289,
+    "NAICS_Code": "332420",
+    "NAICS_Code.1": 1162
+  },
+  {
+    "": 104489,
+    "NAICS_Code": "332431",
+    "NAICS_Code.1": 1163
+  },
+  {
+    "": 24452,
+    "NAICS_Code": "332439",
+    "NAICS_Code.1": 1164
+  },
+  {
+    "": 1646,
+    "NAICS_Code": "332510",
+    "NAICS_Code.1": 1165
+  },
+  {
+    "": 39356,
+    "NAICS_Code": "332610",
+    "NAICS_Code.1": 1166
+  },
+  {
+    "": 34905,
+    "NAICS_Code": "332611",
+    "NAICS_Code.1": 1167
+  },
+  {
+    "": 273988,
+    "NAICS_Code": "332612",
+    "NAICS_Code.1": 1168
+  },
+  {
+    "": 33609,
+    "NAICS_Code": "332613",
+    "NAICS_Code.1": 1169
+  },
+  {
+    "": 27774,
+    "NAICS_Code": "332618",
+    "NAICS_Code.1": 1170
+  },
+  {
+    "": 29269,
+    "NAICS_Code": "332710",
+    "NAICS_Code.1": 1171
+  },
+  {
+    "": 2025,
+    "NAICS_Code": "332721",
+    "NAICS_Code.1": 1172
+  },
+  {
+    "": 81922,
+    "NAICS_Code": "332722",
+    "NAICS_Code.1": 1173
+  },
+  {
+    "": 56456,
+    "NAICS_Code": "332811",
+    "NAICS_Code.1": 1174
+  },
+  {
+    "": 30488,
+    "NAICS_Code": "332812",
+    "NAICS_Code.1": 1175
+  },
+  {
+    "": 37666,
+    "NAICS_Code": "332813",
+    "NAICS_Code.1": 1176
+  },
+  {
+    "": 33286,
+    "NAICS_Code": "332911",
+    "NAICS_Code.1": 1177
+  },
+  {
+    "": 20110,
+    "NAICS_Code": "332912",
+    "NAICS_Code.1": 1178
+  },
+  {
+    "": 20288,
+    "NAICS_Code": "332913",
+    "NAICS_Code.1": 1179
+  },
+  {
+    "": 19780,
+    "NAICS_Code": "332919",
+    "NAICS_Code.1": 1180
+  },
+  {
+    "": 29885,
+    "NAICS_Code": "332991",
+    "NAICS_Code.1": 1181
+  },
+  {
+    "": 240955,
+    "NAICS_Code": "332992",
+    "NAICS_Code.1": 1182
+  },
+  {
+    "": 301991,
+    "NAICS_Code": "332993",
+    "NAICS_Code.1": 1183
+  },
+  {
+    "": 304778,
+    "NAICS_Code": "332994",
+    "NAICS_Code.1": 1184
+  },
+  {
+    "": 23660,
+    "NAICS_Code": "332996",
+    "NAICS_Code.1": 1185
+  },
+  {
+    "": 365219,
+    "NAICS_Code": "332998",
+    "NAICS_Code.1": 1186
+  },
+  {
+    "": 3672,
+    "NAICS_Code": "332999",
+    "NAICS_Code.1": 1187
+  },
+  {
+    "": 28143,
+    "NAICS_Code": "333111",
+    "NAICS_Code.1": 1188
+  },
+  {
+    "": 19197,
+    "NAICS_Code": "333112",
+    "NAICS_Code.1": 1189
+  },
+  {
+    "": 3500,
+    "NAICS_Code": "333120",
+    "NAICS_Code.1": 1190
+  },
+  {
+    "": 557,
+    "NAICS_Code": "333131",
+    "NAICS_Code.1": 1191
+  },
+  {
+    "": 4772,
+    "NAICS_Code": "333132",
+    "NAICS_Code.1": 1192
+  },
+  {
+    "": 336727,
+    "NAICS_Code": "333210",
+    "NAICS_Code.1": 1193
+  },
+  {
+    "": 37641,
+    "NAICS_Code": "333220",
+    "NAICS_Code.1": 1194
+  },
+  {
+    "": 1822,
+    "NAICS_Code": "333241",
+    "NAICS_Code.1": 1195
+  },
+  {
+    "": 1159,
+    "NAICS_Code": "333242",
+    "NAICS_Code.1": 1196
+  },
+  {
+    "": 54268,
+    "NAICS_Code": "333243",
+    "NAICS_Code.1": 1197
+  },
+  {
+    "": 19112,
+    "NAICS_Code": "333244",
+    "NAICS_Code.1": 1198
+  },
+  {
+    "": 1698,
+    "NAICS_Code": "333249",
+    "NAICS_Code.1": 1199
+  },
+  {
+    "": 362601,
+    "NAICS_Code": "333291",
+    "NAICS_Code.1": 1200
+  },
+  {
+    "": 21420,
+    "NAICS_Code": "333292",
+    "NAICS_Code.1": 1201
+  },
+  {
+    "": 83092,
+    "NAICS_Code": "333293",
+    "NAICS_Code.1": 1202
+  },
+  {
+    "": 871,
+    "NAICS_Code": "333294",
+    "NAICS_Code.1": 1203
+  },
+  {
+    "": 36651,
+    "NAICS_Code": "333295",
+    "NAICS_Code.1": 1204
+  },
+  {
+    "": 22048,
+    "NAICS_Code": "333298",
+    "NAICS_Code.1": 1205
+  },
+  {
+    "": 110455,
+    "NAICS_Code": "333311",
+    "NAICS_Code.1": 1206
+  },
+  {
+    "": 24060,
+    "NAICS_Code": "333312",
+    "NAICS_Code.1": 1207
+  },
+  {
+    "": 11520,
+    "NAICS_Code": "333313",
+    "NAICS_Code.1": 1208
+  },
+  {
+    "": 27435,
+    "NAICS_Code": "333314",
+    "NAICS_Code.1": 1209
+  },
+  {
+    "": 144458,
+    "NAICS_Code": "333315",
+    "NAICS_Code.1": 1210
+  },
+  {
+    "": 22959,
+    "NAICS_Code": "333316",
+    "NAICS_Code.1": 1211
+  },
+  {
+    "": 39793,
+    "NAICS_Code": "333318",
+    "NAICS_Code.1": 1212
+  },
+  {
+    "": 98115,
+    "NAICS_Code": "333319",
+    "NAICS_Code.1": 1213
+  },
+  {
+    "": 198895,
+    "NAICS_Code": "333411",
+    "NAICS_Code.1": 1214
+  },
+  {
+    "": 19291,
+    "NAICS_Code": "333412",
+    "NAICS_Code.1": 1215
+  },
+  {
+    "": 962,
+    "NAICS_Code": "333413",
+    "NAICS_Code.1": 1216
+  },
+  {
+    "": 20243,
+    "NAICS_Code": "333414",
+    "NAICS_Code.1": 1217
+  },
+  {
+    "": 17245,
+    "NAICS_Code": "333415",
+    "NAICS_Code.1": 1218
+  },
+  {
+    "": 1364,
+    "NAICS_Code": "333511",
+    "NAICS_Code.1": 1219
+  },
+  {
+    "": 20477,
+    "NAICS_Code": "333512",
+    "NAICS_Code.1": 1220
+  },
+  {
+    "": 52270,
+    "NAICS_Code": "333513",
+    "NAICS_Code.1": 1221
+  },
+  {
+    "": 22438,
+    "NAICS_Code": "333514",
+    "NAICS_Code.1": 1222
+  },
+  {
+    "": 20509,
+    "NAICS_Code": "333515",
+    "NAICS_Code.1": 1223
+  },
+  {
+    "": 29519,
+    "NAICS_Code": "333517",
+    "NAICS_Code.1": 1224
+  },
+  {
+    "": 1982,
+    "NAICS_Code": "333519",
+    "NAICS_Code.1": 1225
+  },
+  {
+    "": 234480,
+    "NAICS_Code": "333531",
+    "NAICS_Code.1": 1226
+  },
+  {
+    "": 17417,
+    "NAICS_Code": "333611",
+    "NAICS_Code.1": 1227
+  },
+  {
+    "": 43078,
+    "NAICS_Code": "333612",
+    "NAICS_Code.1": 1228
+  },
+  {
+    "": 24168,
+    "NAICS_Code": "333613",
+    "NAICS_Code.1": 1229
+  },
+  {
+    "": 7913,
+    "NAICS_Code": "333618",
+    "NAICS_Code.1": 1230
+  },
+  {
+    "": 37563,
+    "NAICS_Code": "333911",
+    "NAICS_Code.1": 1231
+  },
+  {
+    "": 19923,
+    "NAICS_Code": "333912",
+    "NAICS_Code.1": 1232
+  },
+  {
+    "": 75003,
+    "NAICS_Code": "333913",
+    "NAICS_Code.1": 1233
+  },
+  {
+    "": 35291,
+    "NAICS_Code": "333921",
+    "NAICS_Code.1": 1234
+  },
+  {
+    "": 2015,
+    "NAICS_Code": "333922",
+    "NAICS_Code.1": 1235
+  },
+  {
+    "": 3761,
+    "NAICS_Code": "333923",
+    "NAICS_Code.1": 1236
+  },
+  {
+    "": 24896,
+    "NAICS_Code": "333924",
+    "NAICS_Code.1": 1237
+  },
+  {
+    "": 48511,
+    "NAICS_Code": "333991",
+    "NAICS_Code.1": 1238
+  },
+  {
+    "": 20916,
+    "NAICS_Code": "333992",
+    "NAICS_Code.1": 1239
+  },
+  {
+    "": 2107,
+    "NAICS_Code": "333993",
+    "NAICS_Code.1": 1240
+  },
+  {
+    "": 174975,
+    "NAICS_Code": "333994",
+    "NAICS_Code.1": 1241
+  },
+  {
+    "": 56064,
+    "NAICS_Code": "333995",
+    "NAICS_Code.1": 1242
+  },
+  {
+    "": 135833,
+    "NAICS_Code": "333996",
+    "NAICS_Code.1": 1243
+  },
+  {
+    "": 7792,
+    "NAICS_Code": "333999",
+    "NAICS_Code.1": 1244
+  },
+  {
+    "": 167048,
+    "NAICS_Code": "334110",
+    "NAICS_Code.1": 1245
+  },
+  {
+    "": 5299,
+    "NAICS_Code": "334111",
+    "NAICS_Code.1": 1246
+  },
+  {
+    "": 28127,
+    "NAICS_Code": "334112",
+    "NAICS_Code.1": 1247
+  },
+  {
+    "": 395531,
+    "NAICS_Code": "334113",
+    "NAICS_Code.1": 1248
+  },
+  {
+    "": 41012,
+    "NAICS_Code": "334118",
+    "NAICS_Code.1": 1249
+  },
+  {
+    "": 61455,
+    "NAICS_Code": "334119",
+    "NAICS_Code.1": 1250
+  },
+  {
+    "": 23684,
+    "NAICS_Code": "334210",
+    "NAICS_Code.1": 1251
+  },
+  {
+    "": 17171,
+    "NAICS_Code": "334220",
+    "NAICS_Code.1": 1252
+  },
+  {
+    "": 1190,
+    "NAICS_Code": "334290",
+    "NAICS_Code.1": 1253
+  },
+  {
+    "": 8714,
+    "NAICS_Code": "334310",
+    "NAICS_Code.1": 1254
+  },
+  {
+    "": 408512,
+    "NAICS_Code": "334411",
+    "NAICS_Code.1": 1255
+  },
+  {
+    "": 31474,
+    "NAICS_Code": "334412",
+    "NAICS_Code.1": 1256
+  },
+  {
+    "": 467,
+    "NAICS_Code": "334413",
+    "NAICS_Code.1": 1257
+  },
+  {
+    "": 44102,
+    "NAICS_Code": "334414",
+    "NAICS_Code.1": 1258
+  },
+  {
+    "": 34085,
+    "NAICS_Code": "334415",
+    "NAICS_Code.1": 1259
+  },
+  {
+    "": 27298,
+    "NAICS_Code": "334416",
+    "NAICS_Code.1": 1260
+  },
+  {
+    "": 3817,
+    "NAICS_Code": "334417",
+    "NAICS_Code.1": 1261
+  },
+  {
+    "": 5835,
+    "NAICS_Code": "334418",
+    "NAICS_Code.1": 1262
+  },
+  {
+    "": 2079,
+    "NAICS_Code": "334419",
+    "NAICS_Code.1": 1263
+  },
+  {
+    "": 564,
+    "NAICS_Code": "334510",
+    "NAICS_Code.1": 1264
+  },
+  {
+    "": 72689,
+    "NAICS_Code": "334511",
+    "NAICS_Code.1": 1265
+  },
+  {
+    "": 25746,
+    "NAICS_Code": "334512",
+    "NAICS_Code.1": 1266
+  },
+  {
+    "": 25261,
+    "NAICS_Code": "334513",
+    "NAICS_Code.1": 1267
+  },
+  {
+    "": 102082,
+    "NAICS_Code": "334514",
+    "NAICS_Code.1": 1268
+  },
+  {
+    "": 22565,
+    "NAICS_Code": "334515",
+    "NAICS_Code.1": 1269
+  },
+  {
+    "": 3459,
+    "NAICS_Code": "334516",
+    "NAICS_Code.1": 1270
+  },
+  {
+    "": 74015,
+    "NAICS_Code": "334517",
+    "NAICS_Code.1": 1271
+  },
+  {
+    "": 150903,
+    "NAICS_Code": "334518",
+    "NAICS_Code.1": 1272
+  },
+  {
+    "": 28436,
+    "NAICS_Code": "334519",
+    "NAICS_Code.1": 1273
+  },
+  {
+    "": 9939,
+    "NAICS_Code": "334611",
+    "NAICS_Code.1": 1274
+  },
+  {
+    "": 167681,
+    "NAICS_Code": "334613",
+    "NAICS_Code.1": 1275
+  },
+  {
+    "": 35155,
+    "NAICS_Code": "334614",
+    "NAICS_Code.1": 1276
+  },
+  {
+    "": 9283,
+    "NAICS_Code": "335110",
+    "NAICS_Code.1": 1277
+  },
+  {
+    "": 85994,
+    "NAICS_Code": "335121",
+    "NAICS_Code.1": 1278
+  },
+  {
+    "": 1227,
+    "NAICS_Code": "335122",
+    "NAICS_Code.1": 1279
+  },
+  {
+    "": 110663,
+    "NAICS_Code": "335129",
+    "NAICS_Code.1": 1280
+  },
+  {
+    "": 73516,
+    "NAICS_Code": "335210",
+    "NAICS_Code.1": 1281
+  },
+  {
+    "": 36763,
+    "NAICS_Code": "335211",
+    "NAICS_Code.1": 1282
+  },
+  {
+    "": 422887,
+    "NAICS_Code": "335212",
+    "NAICS_Code.1": 1283
+  },
+  {
+    "": 32529,
+    "NAICS_Code": "335221",
+    "NAICS_Code.1": 1284
+  },
+  {
+    "": 356445,
+    "NAICS_Code": "335224",
+    "NAICS_Code.1": 1285
+  },
+  {
+    "": 22185,
+    "NAICS_Code": "335228",
+    "NAICS_Code.1": 1286
+  },
+  {
+    "": 197033,
+    "NAICS_Code": "335310",
+    "NAICS_Code.1": 1287
+  },
+  {
+    "": 1798,
+    "NAICS_Code": "335311",
+    "NAICS_Code.1": 1288
+  },
+  {
+    "": 32321,
+    "NAICS_Code": "335312",
+    "NAICS_Code.1": 1289
+  },
+  {
+    "": 929,
+    "NAICS_Code": "335313",
+    "NAICS_Code.1": 1290
+  },
+  {
+    "": 35016,
+    "NAICS_Code": "335314",
+    "NAICS_Code.1": 1291
+  },
+  {
+    "": 2769,
+    "NAICS_Code": "335911",
+    "NAICS_Code.1": 1292
+  },
+  {
+    "": 27399,
+    "NAICS_Code": "335912",
+    "NAICS_Code.1": 1293
+  },
+  {
+    "": 741,
+    "NAICS_Code": "335921",
+    "NAICS_Code.1": 1294
+  },
+  {
+    "": 60159,
+    "NAICS_Code": "335929",
+    "NAICS_Code.1": 1295
+  },
+  {
+    "": 60160,
+    "NAICS_Code": "335931",
+    "NAICS_Code.1": 1296
+  },
+  {
+    "": 187559,
+    "NAICS_Code": "335991",
+    "NAICS_Code.1": 1297
+  },
+  {
+    "": 591,
+    "NAICS_Code": "335999",
+    "NAICS_Code.1": 1298
+  },
+  {
+    "": 6885,
+    "NAICS_Code": "336111",
+    "NAICS_Code.1": 1299
+  },
+  {
+    "": 118077,
+    "NAICS_Code": "336112",
+    "NAICS_Code.1": 1300
+  },
+  {
+    "": 32151,
+    "NAICS_Code": "336120",
+    "NAICS_Code.1": 1301
+  },
+  {
+    "": 8064,
+    "NAICS_Code": "336211",
+    "NAICS_Code.1": 1302
+  },
+  {
+    "": 35960,
+    "NAICS_Code": "336212",
+    "NAICS_Code.1": 1303
+  },
+  {
+    "": 344232,
+    "NAICS_Code": "336214",
+    "NAICS_Code.1": 1304
+  },
+  {
+    "": 24810,
+    "NAICS_Code": "336300",
+    "NAICS_Code.1": 1305
+  },
+  {
+    "": 4244,
+    "NAICS_Code": "336310",
+    "NAICS_Code.1": 1306
+  },
+  {
+    "": 36532,
+    "NAICS_Code": "336311",
+    "NAICS_Code.1": 1307
+  },
+  {
+    "": 33292,
+    "NAICS_Code": "336312",
+    "NAICS_Code.1": 1308
+  },
+  {
+    "": 34238,
+    "NAICS_Code": "336320",
+    "NAICS_Code.1": 1309
+  },
+  {
+    "": 38905,
+    "NAICS_Code": "336321",
+    "NAICS_Code.1": 1310
+  },
+  {
+    "": 46174,
+    "NAICS_Code": "336322",
+    "NAICS_Code.1": 1311
+  },
+  {
+    "": 24478,
+    "NAICS_Code": "336330",
+    "NAICS_Code.1": 1312
+  },
+  {
+    "": 23242,
+    "NAICS_Code": "336340",
+    "NAICS_Code.1": 1313
+  },
+  {
+    "": 2266,
+    "NAICS_Code": "336350",
+    "NAICS_Code.1": 1314
+  },
+  {
+    "": 2977,
+    "NAICS_Code": "336360",
+    "NAICS_Code.1": 1315
+  },
+  {
+    "": 1765,
+    "NAICS_Code": "336370",
+    "NAICS_Code.1": 1316
+  },
+  {
+    "": 20620,
+    "NAICS_Code": "336390",
+    "NAICS_Code.1": 1317
+  },
+  {
+    "": 31714,
+    "NAICS_Code": "336391",
+    "NAICS_Code.1": 1318
+  },
+  {
+    "": 28470,
+    "NAICS_Code": "336399",
+    "NAICS_Code.1": 1319
+  },
+  {
+    "": 12616,
+    "NAICS_Code": "336411",
+    "NAICS_Code.1": 1320
+  },
+  {
+    "": 50037,
+    "NAICS_Code": "336412",
+    "NAICS_Code.1": 1321
+  },
+  {
+    "": 2710,
+    "NAICS_Code": "336413",
+    "NAICS_Code.1": 1322
+  },
+  {
+    "": 444489,
+    "NAICS_Code": "336415",
+    "NAICS_Code.1": 1323
+  },
+  {
+    "": 85580,
+    "NAICS_Code": "336419",
+    "NAICS_Code.1": 1324
+  },
+  {
+    "": 48849,
+    "NAICS_Code": "336501",
+    "NAICS_Code.1": 1325
+  },
+  {
+    "": 25439,
+    "NAICS_Code": "336510",
+    "NAICS_Code.1": 1326
+  },
+  {
+    "": 897,
+    "NAICS_Code": "336611",
+    "NAICS_Code.1": 1327
+  },
+  {
+    "": 2838,
+    "NAICS_Code": "336612",
+    "NAICS_Code.1": 1328
+  },
+  {
+    "": 577,
+    "NAICS_Code": "336991",
+    "NAICS_Code.1": 1329
+  },
+  {
+    "": 376517,
+    "NAICS_Code": "336992",
+    "NAICS_Code.1": 1330
+  },
+  {
+    "": 64500,
+    "NAICS_Code": "336999",
+    "NAICS_Code.1": 1331
+  },
+  {
+    "": 19119,
+    "NAICS_Code": "337110",
+    "NAICS_Code.1": 1332
+  },
+  {
+    "": 91393,
+    "NAICS_Code": "337121",
+    "NAICS_Code.1": 1333
+  },
+  {
+    "": 1964,
+    "NAICS_Code": "337122",
+    "NAICS_Code.1": 1334
+  },
+  {
+    "": 52410,
+    "NAICS_Code": "337124",
+    "NAICS_Code.1": 1335
+  },
+  {
+    "": 20341,
+    "NAICS_Code": "337125",
+    "NAICS_Code.1": 1336
+  },
+  {
+    "": 29186,
+    "NAICS_Code": "337127",
+    "NAICS_Code.1": 1337
+  },
+  {
+    "": 413270,
+    "NAICS_Code": "337211",
+    "NAICS_Code.1": 1338
+  },
+  {
+    "": 21800,
+    "NAICS_Code": "337212",
+    "NAICS_Code.1": 1339
+  },
+  {
+    "": 23335,
+    "NAICS_Code": "337214",
+    "NAICS_Code.1": 1340
+  },
+  {
+    "": 21632,
+    "NAICS_Code": "337215",
+    "NAICS_Code.1": 1341
+  },
+  {
+    "": 23662,
+    "NAICS_Code": "337910",
+    "NAICS_Code.1": 1342
+  },
+  {
+    "": 14780,
+    "NAICS_Code": "337920",
+    "NAICS_Code.1": 1343
+  },
+  {
+    "": 134706,
+    "NAICS_Code": "339111",
+    "NAICS_Code.1": 1344
+  },
+  {
+    "": 19255,
+    "NAICS_Code": "339112",
+    "NAICS_Code.1": 1345
+  },
+  {
+    "": 1388,
+    "NAICS_Code": "339113",
+    "NAICS_Code.1": 1346
+  },
+  {
+    "": 20830,
+    "NAICS_Code": "339114",
+    "NAICS_Code.1": 1347
+  },
+  {
+    "": 43945,
+    "NAICS_Code": "339115",
+    "NAICS_Code.1": 1348
+  },
+  {
+    "": 1704,
+    "NAICS_Code": "339116",
+    "NAICS_Code.1": 1349
+  },
+  {
+    "": 101923,
+    "NAICS_Code": "339900",
+    "NAICS_Code.1": 1350
+  },
+  {
+    "": 85,
+    "NAICS_Code": "339910",
+    "NAICS_Code.1": 1351
+  },
+  {
+    "": 57568,
+    "NAICS_Code": "339911",
+    "NAICS_Code.1": 1352
+  },
+  {
+    "": 314471,
+    "NAICS_Code": "339914",
+    "NAICS_Code.1": 1353
+  },
+  {
+    "": 3199,
+    "NAICS_Code": "339920",
+    "NAICS_Code.1": 1354
+  },
+  {
+    "": 23766,
+    "NAICS_Code": "339930",
+    "NAICS_Code.1": 1355
+  },
+  {
+    "": 202540,
+    "NAICS_Code": "339931",
+    "NAICS_Code.1": 1356
+  },
+  {
+    "": 56773,
+    "NAICS_Code": "339932",
+    "NAICS_Code.1": 1357
+  },
+  {
+    "": 745,
+    "NAICS_Code": "339940",
+    "NAICS_Code.1": 1358
+  },
+  {
+    "": 497657,
+    "NAICS_Code": "339941",
+    "NAICS_Code.1": 1359
+  },
+  {
+    "": 56728,
+    "NAICS_Code": "339943",
+    "NAICS_Code.1": 1360
+  },
+  {
+    "": 3966,
+    "NAICS_Code": "339950",
+    "NAICS_Code.1": 1361
+  },
+  {
+    "": 36115,
+    "NAICS_Code": "339991",
+    "NAICS_Code.1": 1362
+  },
+  {
+    "": 316891,
+    "NAICS_Code": "339992",
+    "NAICS_Code.1": 1363
+  },
+  {
+    "": 27335,
+    "NAICS_Code": "339993",
+    "NAICS_Code.1": 1364
+  },
+  {
+    "": 389752,
+    "NAICS_Code": "339994",
+    "NAICS_Code.1": 1365
+  },
+  {
+    "": 129,
+    "NAICS_Code": "339999",
+    "NAICS_Code.1": 1366
+  },
+  {
+    "": 1340,
+    "NAICS_Code": "423110",
+    "NAICS_Code.1": 1367
+  },
+  {
+    "": 466,
+    "NAICS_Code": "423120",
+    "NAICS_Code.1": 1368
+  },
+  {
+    "": 25250,
+    "NAICS_Code": "423130",
+    "NAICS_Code.1": 1369
+  },
+  {
+    "": 887,
+    "NAICS_Code": "423210",
+    "NAICS_Code.1": 1370
+  },
+  {
+    "": 86,
+    "NAICS_Code": "423220",
+    "NAICS_Code.1": 1371
+  },
+  {
+    "": 860,
+    "NAICS_Code": "423310",
+    "NAICS_Code.1": 1372
+  },
+  {
+    "": 13342,
+    "NAICS_Code": "423320",
+    "NAICS_Code.1": 1373
+  },
+  {
+    "": 32760,
+    "NAICS_Code": "423330",
+    "NAICS_Code.1": 1374
+  },
+  {
+    "": 24845,
+    "NAICS_Code": "423390",
+    "NAICS_Code.1": 1375
+  },
+  {
+    "": 87934,
+    "NAICS_Code": "423410",
+    "NAICS_Code.1": 1376
+  },
+  {
+    "": 56858,
+    "NAICS_Code": "423420",
+    "NAICS_Code.1": 1377
+  },
+  {
+    "": 9618,
+    "NAICS_Code": "423430",
+    "NAICS_Code.1": 1378
+  },
+  {
+    "": 131,
+    "NAICS_Code": "423440",
+    "NAICS_Code.1": 1379
+  },
+  {
+    "": 292,
+    "NAICS_Code": "423450",
+    "NAICS_Code.1": 1380
+  },
+  {
+    "": 20842,
+    "NAICS_Code": "423460",
+    "NAICS_Code.1": 1381
+  },
+  {
+    "": 43459,
+    "NAICS_Code": "423490",
+    "NAICS_Code.1": 1382
+  },
+  {
+    "": 19452,
+    "NAICS_Code": "423510",
+    "NAICS_Code.1": 1383
+  },
+  {
+    "": 85127,
+    "NAICS_Code": "423520",
+    "NAICS_Code.1": 1384
+  },
+  {
+    "": 158,
+    "NAICS_Code": "423610",
+    "NAICS_Code.1": 1385
+  },
+  {
+    "": 1260,
+    "NAICS_Code": "423620",
+    "NAICS_Code.1": 1386
+  },
+  {
+    "": 5900,
+    "NAICS_Code": "423690",
+    "NAICS_Code.1": 1387
+  },
+  {
+    "": 1970,
+    "NAICS_Code": "423710",
+    "NAICS_Code.1": 1388
+  },
+  {
+    "": 351,
+    "NAICS_Code": "423720",
+    "NAICS_Code.1": 1389
+  },
+  {
+    "": 2955,
+    "NAICS_Code": "423730",
+    "NAICS_Code.1": 1390
+  },
+  {
+    "": 28835,
+    "NAICS_Code": "423740",
+    "NAICS_Code.1": 1391
+  },
+  {
+    "": 1475,
+    "NAICS_Code": "423810",
+    "NAICS_Code.1": 1392
+  },
+  {
+    "": 25256,
+    "NAICS_Code": "423820",
+    "NAICS_Code.1": 1393
+  },
+  {
+    "": 426,
+    "NAICS_Code": "423830",
+    "NAICS_Code.1": 1394
+  },
+  {
+    "": 1172,
+    "NAICS_Code": "423840",
+    "NAICS_Code.1": 1395
+  },
+  {
+    "": 21439,
+    "NAICS_Code": "423850",
+    "NAICS_Code.1": 1396
+  },
+  {
+    "": 3506,
+    "NAICS_Code": "423860",
+    "NAICS_Code.1": 1397
+  },
+  {
+    "": 463,
+    "NAICS_Code": "423910",
+    "NAICS_Code.1": 1398
+  },
+  {
+    "": 22819,
+    "NAICS_Code": "423920",
+    "NAICS_Code.1": 1399
+  },
+  {
+    "": 795,
+    "NAICS_Code": "423930",
+    "NAICS_Code.1": 1400
+  },
+  {
+    "": 1289,
+    "NAICS_Code": "423940",
+    "NAICS_Code.1": 1401
+  },
+  {
+    "": 187,
+    "NAICS_Code": "423990",
+    "NAICS_Code.1": 1402
+  },
+  {
+    "": 330156,
+    "NAICS_Code": "424110",
+    "NAICS_Code.1": 1403
+  },
+  {
+    "": 55894,
+    "NAICS_Code": "424120",
+    "NAICS_Code.1": 1404
+  },
+  {
+    "": 23381,
+    "NAICS_Code": "424130",
+    "NAICS_Code.1": 1405
+  },
+  {
+    "": 180,
+    "NAICS_Code": "424210",
+    "NAICS_Code.1": 1406
+  },
+  {
+    "": 3128,
+    "NAICS_Code": "424310",
+    "NAICS_Code.1": 1407
+  },
+  {
+    "": 1281,
+    "NAICS_Code": "424320",
+    "NAICS_Code.1": 1408
+  },
+  {
+    "": 236,
+    "NAICS_Code": "424330",
+    "NAICS_Code.1": 1409
+  },
+  {
+    "": 104,
+    "NAICS_Code": "424340",
+    "NAICS_Code.1": 1410
+  },
+  {
+    "": 269864,
+    "NAICS_Code": "424400",
+    "NAICS_Code.1": 1411
+  },
+  {
+    "": 76,
+    "NAICS_Code": "424410",
+    "NAICS_Code.1": 1412
+  },
+  {
+    "": 1408,
+    "NAICS_Code": "424420",
+    "NAICS_Code.1": 1413
+  },
+  {
+    "": 25581,
+    "NAICS_Code": "424430",
+    "NAICS_Code.1": 1414
+  },
+  {
+    "": 42524,
+    "NAICS_Code": "424440",
+    "NAICS_Code.1": 1415
+  },
+  {
+    "": 1755,
+    "NAICS_Code": "424450",
+    "NAICS_Code.1": 1416
+  },
+  {
+    "": 20236,
+    "NAICS_Code": "424460",
+    "NAICS_Code.1": 1417
+  },
+  {
+    "": 34845,
+    "NAICS_Code": "424470",
+    "NAICS_Code.1": 1418
+  },
+  {
+    "": 244,
+    "NAICS_Code": "424480",
+    "NAICS_Code.1": 1419
+  },
+  {
+    "": 851,
+    "NAICS_Code": "424490",
+    "NAICS_Code.1": 1420
+  },
+  {
+    "": 20569,
+    "NAICS_Code": "424510",
+    "NAICS_Code.1": 1421
+  },
+  {
+    "": 28699,
+    "NAICS_Code": "424590",
+    "NAICS_Code.1": 1422
+  },
+  {
+    "": 20098,
+    "NAICS_Code": "424610",
+    "NAICS_Code.1": 1423
+  },
+  {
+    "": 659,
+    "NAICS_Code": "424690",
+    "NAICS_Code.1": 1424
+  },
+  {
+    "": 49160,
+    "NAICS_Code": "424710",
+    "NAICS_Code.1": 1425
+  },
+  {
+    "": 189401,
+    "NAICS_Code": "424720",
+    "NAICS_Code.1": 1426
+  },
+  {
+    "": 362,
+    "NAICS_Code": "424820",
+    "NAICS_Code.1": 1427
+  },
+  {
+    "": 2300,
+    "NAICS_Code": "424910",
+    "NAICS_Code.1": 1428
+  },
+  {
+    "": 256,
+    "NAICS_Code": "424920",
+    "NAICS_Code.1": 1429
+  },
+  {
+    "": 211768,
+    "NAICS_Code": "424930",
+    "NAICS_Code.1": 1430
+  },
+  {
+    "": 116174,
+    "NAICS_Code": "424940",
+    "NAICS_Code.1": 1431
+  },
+  {
+    "": 88406,
+    "NAICS_Code": "424950",
+    "NAICS_Code.1": 1432
+  },
+  {
+    "": 304,
+    "NAICS_Code": "424990",
+    "NAICS_Code.1": 1433
+  },
+  {
+    "": 352,
+    "NAICS_Code": "425110",
+    "NAICS_Code.1": 1434
+  },
+  {
+    "": 396,
+    "NAICS_Code": "425120",
+    "NAICS_Code.1": 1435
+  },
+  {
+    "": 18973,
+    "NAICS_Code": "441110",
+    "NAICS_Code.1": 1436
+  },
+  {
+    "": 27159,
+    "NAICS_Code": "441120",
+    "NAICS_Code.1": 1437
+  },
+  {
+    "": 21794,
+    "NAICS_Code": "441210",
+    "NAICS_Code.1": 1438
+  },
+  {
+    "": 347911,
+    "NAICS_Code": "441221",
+    "NAICS_Code.1": 1439
+  },
+  {
+    "": 8,
+    "NAICS_Code": "441222",
+    "NAICS_Code.1": 1440
+  },
+  {
+    "": 1110,
+    "NAICS_Code": "441228",
+    "NAICS_Code.1": 1441
+  },
+  {
+    "": 46958,
+    "NAICS_Code": "441229",
+    "NAICS_Code.1": 1442
+  },
+  {
+    "": 1050,
+    "NAICS_Code": "441310",
+    "NAICS_Code.1": 1443
+  },
+  {
+    "": 2120,
+    "NAICS_Code": "441320",
+    "NAICS_Code.1": 1444
+  },
+  {
+    "": 160,
+    "NAICS_Code": "442110",
+    "NAICS_Code.1": 1445
+  },
+  {
+    "": 190,
+    "NAICS_Code": "442210",
+    "NAICS_Code.1": 1446
+  },
+  {
+    "": 192451,
+    "NAICS_Code": "442291",
+    "NAICS_Code.1": 1447
+  },
+  {
+    "": 1397,
+    "NAICS_Code": "442299",
+    "NAICS_Code.1": 1448
+  },
+  {
+    "": 52395,
+    "NAICS_Code": "443111",
+    "NAICS_Code.1": 1449
+  },
+  {
+    "": 662,
+    "NAICS_Code": "443112",
+    "NAICS_Code.1": 1450
+  },
+  {
+    "": 1657,
+    "NAICS_Code": "443120",
+    "NAICS_Code.1": 1451
+  },
+  {
+    "": 72797,
+    "NAICS_Code": "443130",
+    "NAICS_Code.1": 1452
+  },
+  {
+    "": 316099,
+    "NAICS_Code": "443141",
+    "NAICS_Code.1": 1453
+  },
+  {
+    "": 645,
+    "NAICS_Code": "443142",
+    "NAICS_Code.1": 1454
+  },
+  {
+    "": 57936,
+    "NAICS_Code": "444110",
+    "NAICS_Code.1": 1455
+  },
+  {
+    "": 343545,
+    "NAICS_Code": "444120",
+    "NAICS_Code.1": 1456
+  },
+  {
+    "": 303616,
+    "NAICS_Code": "444130",
+    "NAICS_Code.1": 1457
+  },
+  {
+    "": 20985,
+    "NAICS_Code": "444190",
+    "NAICS_Code.1": 1458
+  },
+  {
+    "": 435452,
+    "NAICS_Code": "444210",
+    "NAICS_Code.1": 1459
+  },
+  {
+    "": 20286,
+    "NAICS_Code": "444220",
+    "NAICS_Code.1": 1460
+  },
+  {
+    "": 440,
+    "NAICS_Code": "445110",
+    "NAICS_Code.1": 1461
+  },
+  {
+    "": 1066,
+    "NAICS_Code": "445120",
+    "NAICS_Code.1": 1462
+  },
+  {
+    "": 346618,
+    "NAICS_Code": "445210",
+    "NAICS_Code.1": 1463
+  },
+  {
+    "": 438548,
+    "NAICS_Code": "445220",
+    "NAICS_Code.1": 1464
+  },
+  {
+    "": 549846,
+    "NAICS_Code": "445230",
+    "NAICS_Code.1": 1465
+  },
+  {
+    "": 19839,
+    "NAICS_Code": "445291",
+    "NAICS_Code.1": 1466
+  },
+  {
+    "": 316674,
+    "NAICS_Code": "445292",
+    "NAICS_Code.1": 1467
+  },
+  {
+    "": 347,
+    "NAICS_Code": "445299",
+    "NAICS_Code.1": 1468
+  },
+  {
+    "": 156796,
+    "NAICS_Code": "445310",
+    "NAICS_Code.1": 1469
+  },
+  {
+    "": 133,
+    "NAICS_Code": "446110",
+    "NAICS_Code.1": 1470
+  },
+  {
+    "": 639,
+    "NAICS_Code": "446120",
+    "NAICS_Code.1": 1471
+  },
+  {
+    "": 38893,
+    "NAICS_Code": "446130",
+    "NAICS_Code.1": 1472
+  },
+  {
+    "": 1339,
+    "NAICS_Code": "446191",
+    "NAICS_Code.1": 1473
+  },
+  {
+    "": 21825,
+    "NAICS_Code": "446199",
+    "NAICS_Code.1": 1474
+  },
+  {
+    "": 11661,
+    "NAICS_Code": "447110",
+    "NAICS_Code.1": 1475
+  },
+  {
+    "": 368733,
+    "NAICS_Code": "447190",
+    "NAICS_Code.1": 1476
+  },
+  {
+    "": 73416,
+    "NAICS_Code": "448110",
+    "NAICS_Code.1": 1477
+  },
+  {
+    "": 14858,
+    "NAICS_Code": "448120",
+    "NAICS_Code.1": 1478
+  },
+  {
+    "": 3311,
+    "NAICS_Code": "448130",
+    "NAICS_Code.1": 1479
+  },
+  {
+    "": 20502,
+    "NAICS_Code": "448140",
+    "NAICS_Code.1": 1480
+  },
+  {
+    "": 1399,
+    "NAICS_Code": "448150",
+    "NAICS_Code.1": 1481
+  },
+  {
+    "": 644,
+    "NAICS_Code": "448190",
+    "NAICS_Code.1": 1482
+  },
+  {
+    "": 128,
+    "NAICS_Code": "448210",
+    "NAICS_Code.1": 1483
+  },
+  {
+    "": 54,
+    "NAICS_Code": "448310",
+    "NAICS_Code.1": 1484
+  },
+  {
+    "": 91423,
+    "NAICS_Code": "448320",
+    "NAICS_Code.1": 1485
+  },
+  {
+    "": 25223,
+    "NAICS_Code": "451110",
+    "NAICS_Code.1": 1486
+  },
+  {
+    "": 19170,
+    "NAICS_Code": "451120",
+    "NAICS_Code.1": 1487
+  },
+  {
+    "": 319134,
+    "NAICS_Code": "451130",
+    "NAICS_Code.1": 1488
+  },
+  {
+    "": 2461,
+    "NAICS_Code": "451140",
+    "NAICS_Code.1": 1489
+  },
+  {
+    "": 180378,
+    "NAICS_Code": "451211",
+    "NAICS_Code.1": 1490
+  },
+  {
+    "": 19335,
+    "NAICS_Code": "452111",
+    "NAICS_Code.1": 1491
+  },
+  {
+    "": 30814,
+    "NAICS_Code": "452112",
+    "NAICS_Code.1": 1492
+  },
+  {
+    "": 75597,
+    "NAICS_Code": "452910",
+    "NAICS_Code.1": 1493
+  },
+  {
+    "": 468,
+    "NAICS_Code": "452990",
+    "NAICS_Code.1": 1494
+  },
+  {
+    "": 238248,
+    "NAICS_Code": "453110",
+    "NAICS_Code.1": 1495
+  },
+  {
+    "": 1678,
+    "NAICS_Code": "453210",
+    "NAICS_Code.1": 1496
+  },
+  {
+    "": 20006,
+    "NAICS_Code": "453220",
+    "NAICS_Code.1": 1497
+  },
+  {
+    "": 337801,
+    "NAICS_Code": "453310",
+    "NAICS_Code.1": 1498
+  },
+  {
+    "": 7618,
+    "NAICS_Code": "453910",
+    "NAICS_Code.1": 1499
+  },
+  {
+    "": 269,
+    "NAICS_Code": "453920",
+    "NAICS_Code.1": 1500
+  },
+  {
+    "": 414530,
+    "NAICS_Code": "453930",
+    "NAICS_Code.1": 1501
+  },
+  {
+    "": 327966,
+    "NAICS_Code": "453991",
+    "NAICS_Code.1": 1502
+  },
+  {
+    "": 663,
+    "NAICS_Code": "453998",
+    "NAICS_Code.1": 1503
+  },
+  {
+    "": 19961,
+    "NAICS_Code": "454110",
+    "NAICS_Code.1": 1504
+  },
+  {
+    "": 179,
+    "NAICS_Code": "454111",
+    "NAICS_Code.1": 1505
+  },
+  {
+    "": 25391,
+    "NAICS_Code": "454112",
+    "NAICS_Code.1": 1506
+  },
+  {
+    "": 36183,
+    "NAICS_Code": "454113",
+    "NAICS_Code.1": 1507
+  },
+  {
+    "": 64419,
+    "NAICS_Code": "454210",
+    "NAICS_Code.1": 1508
+  },
+  {
+    "": 36656,
+    "NAICS_Code": "454310",
+    "NAICS_Code.1": 1509
+  },
+  {
+    "": 88207,
+    "NAICS_Code": "454311",
+    "NAICS_Code.1": 1510
+  },
+  {
+    "": 317685,
+    "NAICS_Code": "454319",
+    "NAICS_Code.1": 1511
+  },
+  {
+    "": 18816,
+    "NAICS_Code": "454390",
+    "NAICS_Code.1": 1512
+  },
+  {
+    "": 4664,
+    "NAICS_Code": "481111",
+    "NAICS_Code.1": 1513
+  },
+  {
+    "": 17586,
+    "NAICS_Code": "481112",
+    "NAICS_Code.1": 1514
+  },
+  {
+    "": 13930,
+    "NAICS_Code": "481211",
+    "NAICS_Code.1": 1515
+  },
+  {
+    "": 18800,
+    "NAICS_Code": "481212",
+    "NAICS_Code.1": 1516
+  },
+  {
+    "": 63986,
+    "NAICS_Code": "481219",
+    "NAICS_Code.1": 1517
+  },
+  {
+    "": 83243,
+    "NAICS_Code": "482111",
+    "NAICS_Code.1": 1518
+  },
+  {
+    "": 364582,
+    "NAICS_Code": "482112",
+    "NAICS_Code.1": 1519
+  },
+  {
+    "": 2407,
+    "NAICS_Code": "483111",
+    "NAICS_Code.1": 1520
+  },
+  {
+    "": 25860,
+    "NAICS_Code": "483112",
+    "NAICS_Code.1": 1521
+  },
+  {
+    "": 49230,
+    "NAICS_Code": "483113",
+    "NAICS_Code.1": 1522
+  },
+  {
+    "": 512563,
+    "NAICS_Code": "483114",
+    "NAICS_Code.1": 1523
+  },
+  {
+    "": 19254,
+    "NAICS_Code": "484110",
+    "NAICS_Code.1": 1524
+  },
+  {
+    "": 5302,
+    "NAICS_Code": "484121",
+    "NAICS_Code.1": 1525
+  },
+  {
+    "": 62635,
+    "NAICS_Code": "484122",
+    "NAICS_Code.1": 1526
+  },
+  {
+    "": 187912,
+    "NAICS_Code": "484210",
+    "NAICS_Code.1": 1527
+  },
+  {
+    "": 164213,
+    "NAICS_Code": "484220",
+    "NAICS_Code.1": 1528
+  },
+  {
+    "": 1554,
+    "NAICS_Code": "484230",
+    "NAICS_Code.1": 1529
+  },
+  {
+    "": 256780,
+    "NAICS_Code": "485111",
+    "NAICS_Code.1": 1530
+  },
+  {
+    "": 46008,
+    "NAICS_Code": "485112",
+    "NAICS_Code.1": 1531
+  },
+  {
+    "": 40500,
+    "NAICS_Code": "485113",
+    "NAICS_Code.1": 1532
+  },
+  {
+    "": 258215,
+    "NAICS_Code": "485119",
+    "NAICS_Code.1": 1533
+  },
+  {
+    "": 383360,
+    "NAICS_Code": "485210",
+    "NAICS_Code.1": 1534
+  },
+  {
+    "": 86406,
+    "NAICS_Code": "485310",
+    "NAICS_Code.1": 1535
+  },
+  {
+    "": 493721,
+    "NAICS_Code": "485320",
+    "NAICS_Code.1": 1536
+  },
+  {
+    "": 328081,
+    "NAICS_Code": "485410",
+    "NAICS_Code.1": 1537
+  },
+  {
+    "": 293737,
+    "NAICS_Code": "485510",
+    "NAICS_Code.1": 1538
+  },
+  {
+    "": 38387,
+    "NAICS_Code": "485991",
+    "NAICS_Code.1": 1539
+  },
+  {
+    "": 78853,
+    "NAICS_Code": "485999",
+    "NAICS_Code.1": 1540
+  },
+  {
+    "": 30721,
+    "NAICS_Code": "486210",
+    "NAICS_Code.1": 1541
+  },
+  {
+    "": 62611,
+    "NAICS_Code": "487110",
+    "NAICS_Code.1": 1542
+  },
+  {
+    "": 32910,
+    "NAICS_Code": "487210",
+    "NAICS_Code.1": 1543
+  },
+  {
+    "": 161762,
+    "NAICS_Code": "487990",
+    "NAICS_Code.1": 1544
+  },
+  {
+    "": 451927,
+    "NAICS_Code": "488111",
+    "NAICS_Code.1": 1545
+  },
+  {
+    "": 3405,
+    "NAICS_Code": "488119",
+    "NAICS_Code.1": 1546
+  },
+  {
+    "": 1164,
+    "NAICS_Code": "488190",
+    "NAICS_Code.1": 1547
+  },
+  {
+    "": 40563,
+    "NAICS_Code": "488210",
+    "NAICS_Code.1": 1548
+  },
+  {
+    "": 358575,
+    "NAICS_Code": "488300",
+    "NAICS_Code.1": 1549
+  },
+  {
+    "": 3920,
+    "NAICS_Code": "488320",
+    "NAICS_Code.1": 1550
+  },
+  {
+    "": 1521,
+    "NAICS_Code": "488330",
+    "NAICS_Code.1": 1551
+  },
+  {
+    "": 155563,
+    "NAICS_Code": "488390",
+    "NAICS_Code.1": 1552
+  },
+  {
+    "": 52620,
+    "NAICS_Code": "488410",
+    "NAICS_Code.1": 1553
+  },
+  {
+    "": 200,
+    "NAICS_Code": "488490",
+    "NAICS_Code.1": 1554
+  },
+  {
+    "": 459,
+    "NAICS_Code": "488510",
+    "NAICS_Code.1": 1555
+  },
+  {
+    "": 163581,
+    "NAICS_Code": "488991",
+    "NAICS_Code.1": 1556
+  },
+  {
+    "": 26994,
+    "NAICS_Code": "488999",
+    "NAICS_Code.1": 1557
+  },
+  {
+    "": 572677,
+    "NAICS_Code": "491110",
+    "NAICS_Code.1": 1558
+  },
+  {
+    "": 2060,
+    "NAICS_Code": "492110",
+    "NAICS_Code.1": 1559
+  },
+  {
+    "": 20992,
+    "NAICS_Code": "492210",
+    "NAICS_Code.1": 1560
+  },
+  {
+    "": 867,
+    "NAICS_Code": "493110",
+    "NAICS_Code.1": 1561
+  },
+  {
+    "": 56443,
+    "NAICS_Code": "493120",
+    "NAICS_Code.1": 1562
+  },
+  {
+    "": 21239,
+    "NAICS_Code": "493130",
+    "NAICS_Code.1": 1563
+  },
+  {
+    "": 20840,
+    "NAICS_Code": "493190",
+    "NAICS_Code.1": 1564
+  },
+  {
+    "": 52,
+    "NAICS_Code": "511110",
+    "NAICS_Code.1": 1565
+  },
+  {
+    "": 2530,
+    "NAICS_Code": "511120",
+    "NAICS_Code.1": 1566
+  },
+  {
+    "": 434,
+    "NAICS_Code": "511130",
+    "NAICS_Code.1": 1567
+  },
+  {
+    "": 43122,
+    "NAICS_Code": "511140",
+    "NAICS_Code.1": 1568
+  },
+  {
+    "": 37401,
+    "NAICS_Code": "511191",
+    "NAICS_Code.1": 1569
+  },
+  {
+    "": 19778,
+    "NAICS_Code": "511199",
+    "NAICS_Code.1": 1570
+  },
+  {
+    "": 1814,
+    "NAICS_Code": "511210",
+    "NAICS_Code.1": 1571
+  },
+  {
+    "": 11213,
+    "NAICS_Code": "511513",
+    "NAICS_Code.1": 1572
+  },
+  {
+    "": 308,
+    "NAICS_Code": "512110",
+    "NAICS_Code.1": 1573
+  },
+  {
+    "": 4494,
+    "NAICS_Code": "512120",
+    "NAICS_Code.1": 1574
+  },
+  {
+    "": 113392,
+    "NAICS_Code": "512131",
+    "NAICS_Code.1": 1575
+  },
+  {
+    "": 188,
+    "NAICS_Code": "512191",
+    "NAICS_Code.1": 1576
+  },
+  {
+    "": 586,
+    "NAICS_Code": "512199",
+    "NAICS_Code.1": 1577
+  },
+  {
+    "": 212462,
+    "NAICS_Code": "512210",
+    "NAICS_Code.1": 1578
+  },
+  {
+    "": 133641,
+    "NAICS_Code": "512220",
+    "NAICS_Code.1": 1579
+  },
+  {
+    "": 15397,
+    "NAICS_Code": "512230",
+    "NAICS_Code.1": 1580
+  },
+  {
+    "": 314842,
+    "NAICS_Code": "512240",
+    "NAICS_Code.1": 1581
+  },
+  {
+    "": 190179,
+    "NAICS_Code": "512290",
+    "NAICS_Code.1": 1582
+  },
+  {
+    "": 102002,
+    "NAICS_Code": "514199",
+    "NAICS_Code.1": 1583
+  },
+  {
+    "": 115972,
+    "NAICS_Code": "514511",
+    "NAICS_Code.1": 1584
+  },
+  {
+    "": 31166,
+    "NAICS_Code": "515111",
+    "NAICS_Code.1": 1585
+  },
+  {
+    "": 10974,
+    "NAICS_Code": "515112",
+    "NAICS_Code.1": 1586
+  },
+  {
+    "": 223,
+    "NAICS_Code": "515120",
+    "NAICS_Code.1": 1587
+  },
+  {
+    "": 4181,
+    "NAICS_Code": "515210",
+    "NAICS_Code.1": 1588
+  },
+  {
+    "": 11697,
+    "NAICS_Code": "516110",
+    "NAICS_Code.1": 1589
+  },
+  {
+    "": 302317,
+    "NAICS_Code": "517000",
+    "NAICS_Code.1": 1590
+  },
+  {
+    "": 709,
+    "NAICS_Code": "517110",
+    "NAICS_Code.1": 1591
+  },
+  {
+    "": 4725,
+    "NAICS_Code": "517210",
+    "NAICS_Code.1": 1592
+  },
+  {
+    "": 115406,
+    "NAICS_Code": "517211",
+    "NAICS_Code.1": 1593
+  },
+  {
+    "": 679,
+    "NAICS_Code": "517212",
+    "NAICS_Code.1": 1594
+  },
+  {
+    "": 39646,
+    "NAICS_Code": "517310",
+    "NAICS_Code.1": 1595
+  },
+  {
+    "": 34769,
+    "NAICS_Code": "517312",
+    "NAICS_Code.1": 1596
+  },
+  {
+    "": 45426,
+    "NAICS_Code": "517410",
+    "NAICS_Code.1": 1597
+  },
+  {
+    "": 36104,
+    "NAICS_Code": "517510",
+    "NAICS_Code.1": 1598
+  },
+  {
+    "": 5152,
+    "NAICS_Code": "517910",
+    "NAICS_Code.1": 1599
+  },
+  {
+    "": 1261,
+    "NAICS_Code": "517911",
+    "NAICS_Code.1": 1600
+  },
+  {
+    "": 4694,
+    "NAICS_Code": "517919",
+    "NAICS_Code.1": 1601
+  },
+  {
+    "": 12994,
+    "NAICS_Code": "518111",
+    "NAICS_Code.1": 1602
+  },
+  {
+    "": 25164,
+    "NAICS_Code": "518112",
+    "NAICS_Code.1": 1603
+  },
+  {
+    "": 344,
+    "NAICS_Code": "518210",
+    "NAICS_Code.1": 1604
+  },
+  {
+    "": 13392,
+    "NAICS_Code": "519100",
+    "NAICS_Code.1": 1605
+  },
+  {
+    "": 16226,
+    "NAICS_Code": "519110",
+    "NAICS_Code.1": 1606
+  },
+  {
+    "": 25807,
+    "NAICS_Code": "519120",
+    "NAICS_Code.1": 1607
+  },
+  {
+    "": 346,
+    "NAICS_Code": "519130",
+    "NAICS_Code.1": 1608
+  },
+  {
+    "": 4476,
+    "NAICS_Code": "519190",
+    "NAICS_Code.1": 1609
+  },
+  {
+    "": 27963,
+    "NAICS_Code": "521110",
+    "NAICS_Code.1": 1610
+  },
+  {
+    "": 521,
+    "NAICS_Code": "522110",
+    "NAICS_Code.1": 1611
+  },
+  {
+    "": 39943,
+    "NAICS_Code": "522120",
+    "NAICS_Code.1": 1612
+  },
+  {
+    "": 41728,
+    "NAICS_Code": "522130",
+    "NAICS_Code.1": 1613
+  },
+  {
+    "": 14028,
+    "NAICS_Code": "522190",
+    "NAICS_Code.1": 1614
+  },
+  {
+    "": 43325,
+    "NAICS_Code": "522210",
+    "NAICS_Code.1": 1615
+  },
+  {
+    "": 34637,
+    "NAICS_Code": "522220",
+    "NAICS_Code.1": 1616
+  },
+  {
+    "": 788,
+    "NAICS_Code": "522291",
+    "NAICS_Code.1": 1617
+  },
+  {
+    "": 979,
+    "NAICS_Code": "522292",
+    "NAICS_Code.1": 1618
+  },
+  {
+    "": 634,
+    "NAICS_Code": "522293",
+    "NAICS_Code.1": 1619
+  },
+  {
+    "": 56035,
+    "NAICS_Code": "522294",
+    "NAICS_Code.1": 1620
+  },
+  {
+    "": 19228,
+    "NAICS_Code": "522298",
+    "NAICS_Code.1": 1621
+  },
+  {
+    "": 761,
+    "NAICS_Code": "522310",
+    "NAICS_Code.1": 1622
+  },
+  {
+    "": 2593,
+    "NAICS_Code": "522320",
+    "NAICS_Code.1": 1623
+  },
+  {
+    "": 20639,
+    "NAICS_Code": "522390",
+    "NAICS_Code.1": 1624
+  },
+  {
+    "": 127,
+    "NAICS_Code": "523110",
+    "NAICS_Code.1": 1625
+  },
+  {
+    "": 2412,
+    "NAICS_Code": "523120",
+    "NAICS_Code.1": 1626
+  },
+  {
+    "": 18938,
+    "NAICS_Code": "523130",
+    "NAICS_Code.1": 1627
+  },
+  {
+    "": 102205,
+    "NAICS_Code": "523140",
+    "NAICS_Code.1": 1628
+  },
+  {
+    "": 20953,
+    "NAICS_Code": "523210",
+    "NAICS_Code.1": 1629
+  },
+  {
+    "": 27959,
+    "NAICS_Code": "523900",
+    "NAICS_Code.1": 1630
+  },
+  {
+    "": 13369,
+    "NAICS_Code": "523910",
+    "NAICS_Code.1": 1631
+  },
+  {
+    "": 1031,
+    "NAICS_Code": "523920",
+    "NAICS_Code.1": 1632
+  },
+  {
+    "": 1417,
+    "NAICS_Code": "523930",
+    "NAICS_Code.1": 1633
+  },
+  {
+    "": 112260,
+    "NAICS_Code": "523990",
+    "NAICS_Code.1": 1634
+  },
+  {
+    "": 20127,
+    "NAICS_Code": "523991",
+    "NAICS_Code.1": 1635
+  },
+  {
+    "": 1780,
+    "NAICS_Code": "523999",
+    "NAICS_Code.1": 1636
+  },
+  {
+    "": 182814,
+    "NAICS_Code": "524100",
+    "NAICS_Code.1": 1637
+  },
+  {
+    "": 6461,
+    "NAICS_Code": "524113",
+    "NAICS_Code.1": 1638
+  },
+  {
+    "": 958,
+    "NAICS_Code": "524114",
+    "NAICS_Code.1": 1639
+  },
+  {
+    "": 19346,
+    "NAICS_Code": "524126",
+    "NAICS_Code.1": 1640
+  },
+  {
+    "": 24916,
+    "NAICS_Code": "524127",
+    "NAICS_Code.1": 1641
+  },
+  {
+    "": 36574,
+    "NAICS_Code": "524128",
+    "NAICS_Code.1": 1642
+  },
+  {
+    "": 43770,
+    "NAICS_Code": "524130",
+    "NAICS_Code.1": 1643
+  },
+  {
+    "": 1715,
+    "NAICS_Code": "524210",
+    "NAICS_Code.1": 1644
+  },
+  {
+    "": 307383,
+    "NAICS_Code": "524290",
+    "NAICS_Code.1": 1645
+  },
+  {
+    "": 293792,
+    "NAICS_Code": "524291",
+    "NAICS_Code.1": 1646
+  },
+  {
+    "": 25126,
+    "NAICS_Code": "524292",
+    "NAICS_Code.1": 1647
+  },
+  {
+    "": 21497,
+    "NAICS_Code": "524298",
+    "NAICS_Code.1": 1648
+  },
+  {
+    "": 57880,
+    "NAICS_Code": "525110",
+    "NAICS_Code.1": 1649
+  },
+  {
+    "": 26489,
+    "NAICS_Code": "525120",
+    "NAICS_Code.1": 1650
+  },
+  {
+    "": 105632,
+    "NAICS_Code": "525190",
+    "NAICS_Code.1": 1651
+  },
+  {
+    "": 56954,
+    "NAICS_Code": "525900",
+    "NAICS_Code.1": 1652
+  },
+  {
+    "": 36283,
+    "NAICS_Code": "525910",
+    "NAICS_Code.1": 1653
+  },
+  {
+    "": 10677,
+    "NAICS_Code": "525920",
+    "NAICS_Code.1": 1654
+  },
+  {
+    "": 7414,
+    "NAICS_Code": "525930",
+    "NAICS_Code.1": 1655
+  },
+  {
+    "": 22471,
+    "NAICS_Code": "525990",
+    "NAICS_Code.1": 1656
+  },
+  {
+    "": 572,
+    "NAICS_Code": "531110",
+    "NAICS_Code.1": 1657
+  },
+  {
+    "": 2372,
+    "NAICS_Code": "531120",
+    "NAICS_Code.1": 1658
+  },
+  {
+    "": 22500,
+    "NAICS_Code": "531130",
+    "NAICS_Code.1": 1659
+  },
+  {
+    "": 1196,
+    "NAICS_Code": "531190",
+    "NAICS_Code.1": 1660
+  },
+  {
+    "": 345,
+    "NAICS_Code": "531210",
+    "NAICS_Code.1": 1661
+  },
+  {
+    "": 212,
+    "NAICS_Code": "531311",
+    "NAICS_Code.1": 1662
+  },
+  {
+    "": 14493,
+    "NAICS_Code": "531312",
+    "NAICS_Code.1": 1663
+  },
+  {
+    "": 24246,
+    "NAICS_Code": "531320",
+    "NAICS_Code.1": 1664
+  },
+  {
+    "": 355,
+    "NAICS_Code": "531390",
+    "NAICS_Code.1": 1665
+  },
+  {
+    "": 1756,
+    "NAICS_Code": "532111",
+    "NAICS_Code.1": 1666
+  },
+  {
+    "": 196568,
+    "NAICS_Code": "532112",
+    "NAICS_Code.1": 1667
+  },
+  {
+    "": 254207,
+    "NAICS_Code": "532120",
+    "NAICS_Code.1": 1668
+  },
+  {
+    "": 204998,
+    "NAICS_Code": "532210",
+    "NAICS_Code.1": 1669
+  },
+  {
+    "": 485854,
+    "NAICS_Code": "532220",
+    "NAICS_Code.1": 1670
+  },
+  {
+    "": 302509,
+    "NAICS_Code": "532291",
+    "NAICS_Code.1": 1671
+  },
+  {
+    "": 112884,
+    "NAICS_Code": "532292",
+    "NAICS_Code.1": 1672
+  },
+  {
+    "": 333288,
+    "NAICS_Code": "532299",
+    "NAICS_Code.1": 1673
+  },
+  {
+    "": 342347,
+    "NAICS_Code": "532310",
+    "NAICS_Code.1": 1674
+  },
+  {
+    "": 28587,
+    "NAICS_Code": "532411",
+    "NAICS_Code.1": 1675
+  },
+  {
+    "": 40822,
+    "NAICS_Code": "532412",
+    "NAICS_Code.1": 1676
+  },
+  {
+    "": 24667,
+    "NAICS_Code": "532420",
+    "NAICS_Code.1": 1677
+  },
+  {
+    "": 2144,
+    "NAICS_Code": "532490",
+    "NAICS_Code.1": 1678
+  },
+  {
+    "": 1439,
+    "NAICS_Code": "533110",
+    "NAICS_Code.1": 1679
+  },
+  {
+    "": 46,
+    "NAICS_Code": "541110",
+    "NAICS_Code.1": 1680
+  },
+  {
+    "": 113937,
+    "NAICS_Code": "541120",
+    "NAICS_Code.1": 1681
+  },
+  {
+    "": 35613,
+    "NAICS_Code": "541191",
+    "NAICS_Code.1": 1682
+  },
+  {
+    "": 1536,
+    "NAICS_Code": "541199",
+    "NAICS_Code.1": 1683
+  },
+  {
+    "": 226,
+    "NAICS_Code": "541211",
+    "NAICS_Code.1": 1684
+  },
+  {
+    "": 1805,
+    "NAICS_Code": "541213",
+    "NAICS_Code.1": 1685
+  },
+  {
+    "": 4076,
+    "NAICS_Code": "541214",
+    "NAICS_Code.1": 1686
+  },
+  {
+    "": 36,
+    "NAICS_Code": "541219",
+    "NAICS_Code.1": 1687
+  },
+  {
+    "": 252,
+    "NAICS_Code": "541310",
+    "NAICS_Code.1": 1688
+  },
+  {
+    "": 631,
+    "NAICS_Code": "541320",
+    "NAICS_Code.1": 1689
+  },
+  {
+    "": 391,
+    "NAICS_Code": "541330",
+    "NAICS_Code.1": 1690
+  },
+  {
+    "": 915,
+    "NAICS_Code": "541340",
+    "NAICS_Code.1": 1691
+  },
+  {
+    "": 147,
+    "NAICS_Code": "541350",
+    "NAICS_Code.1": 1692
+  },
+  {
+    "": 13779,
+    "NAICS_Code": "541360",
+    "NAICS_Code.1": 1693
+  },
+  {
+    "": 4561,
+    "NAICS_Code": "541370",
+    "NAICS_Code.1": 1694
+  },
+  {
+    "": 514,
+    "NAICS_Code": "541380",
+    "NAICS_Code.1": 1695
+  },
+  {
+    "": 341852,
+    "NAICS_Code": "541400",
+    "NAICS_Code.1": 1696
+  },
+  {
+    "": 286,
+    "NAICS_Code": "541410",
+    "NAICS_Code.1": 1697
+  },
+  {
+    "": 260219,
+    "NAICS_Code": "541412",
+    "NAICS_Code.1": 1698
+  },
+  {
+    "": 367085,
+    "NAICS_Code": "541419",
+    "NAICS_Code.1": 1699
+  },
+  {
+    "": 879,
+    "NAICS_Code": "541420",
+    "NAICS_Code.1": 1700
+  },
+  {
+    "": 278,
+    "NAICS_Code": "541430",
+    "NAICS_Code.1": 1701
+  },
+  {
+    "": 1084,
+    "NAICS_Code": "541490",
+    "NAICS_Code.1": 1702
+  },
+  {
+    "": 19256,
+    "NAICS_Code": "541500",
+    "NAICS_Code.1": 1703
+  },
+  {
+    "": 63516,
+    "NAICS_Code": "541510",
+    "NAICS_Code.1": 1704
+  },
+  {
+    "": 489,
+    "NAICS_Code": "541511",
+    "NAICS_Code.1": 1705
+  },
+  {
+    "": 118,
+    "NAICS_Code": "541512",
+    "NAICS_Code.1": 1706
+  },
+  {
+    "": 1838,
+    "NAICS_Code": "541513",
+    "NAICS_Code.1": 1707
+  },
+  {
+    "": 255,
+    "NAICS_Code": "541519",
+    "NAICS_Code.1": 1708
+  },
+  {
+    "": 8987,
+    "NAICS_Code": "541600",
+    "NAICS_Code.1": 1709
+  },
+  {
+    "": 18200,
+    "NAICS_Code": "541610",
+    "NAICS_Code.1": 1710
+  },
+  {
+    "": 268,
+    "NAICS_Code": "541611",
+    "NAICS_Code.1": 1711
+  },
+  {
+    "": 316,
+    "NAICS_Code": "541612",
+    "NAICS_Code.1": 1712
+  },
+  {
+    "": 238,
+    "NAICS_Code": "541613",
+    "NAICS_Code.1": 1713
+  },
+  {
+    "": 141,
+    "NAICS_Code": "541614",
+    "NAICS_Code.1": 1714
+  },
+  {
+    "": 720,
+    "NAICS_Code": "541618",
+    "NAICS_Code.1": 1715
+  },
+  {
+    "": 266,
+    "NAICS_Code": "541620",
+    "NAICS_Code.1": 1716
+  },
+  {
+    "": 1144,
+    "NAICS_Code": "541690",
+    "NAICS_Code.1": 1717
+  },
+  {
+    "": 115153,
+    "NAICS_Code": "541700",
+    "NAICS_Code.1": 1718
+  },
+  {
+    "": 293,
+    "NAICS_Code": "541710",
+    "NAICS_Code.1": 1719
+  },
+  {
+    "": 925,
+    "NAICS_Code": "541711",
+    "NAICS_Code.1": 1720
+  },
+  {
+    "": 272,
+    "NAICS_Code": "541712",
+    "NAICS_Code.1": 1721
+  },
+  {
+    "": 40764,
+    "NAICS_Code": "541713",
+    "NAICS_Code.1": 1722
+  },
+  {
+    "": 25131,
+    "NAICS_Code": "541714",
+    "NAICS_Code.1": 1723
+  },
+  {
+    "": 59190,
+    "NAICS_Code": "541715",
+    "NAICS_Code.1": 1724
+  },
+  {
+    "": 115,
+    "NAICS_Code": "541720",
+    "NAICS_Code.1": 1725
+  },
+  {
+    "": 269629,
+    "NAICS_Code": "541800",
+    "NAICS_Code.1": 1726
+  },
+  {
+    "": 450,
+    "NAICS_Code": "541810",
+    "NAICS_Code.1": 1727
+  },
+  {
+    "": 1020,
+    "NAICS_Code": "541820",
+    "NAICS_Code.1": 1728
+  },
+  {
+    "": 26642,
+    "NAICS_Code": "541830",
+    "NAICS_Code.1": 1729
+  },
+  {
+    "": 19636,
+    "NAICS_Code": "541840",
+    "NAICS_Code.1": 1730
+  },
+  {
+    "": 21237,
+    "NAICS_Code": "541850",
+    "NAICS_Code.1": 1731
+  },
+  {
+    "": 32509,
+    "NAICS_Code": "541860",
+    "NAICS_Code.1": 1732
+  },
+  {
+    "": 18122,
+    "NAICS_Code": "541870",
+    "NAICS_Code.1": 1733
+  },
+  {
+    "": 18204,
+    "NAICS_Code": "541890",
+    "NAICS_Code.1": 1734
+  },
+  {
+    "": 144,
+    "NAICS_Code": "541910",
+    "NAICS_Code.1": 1735
+  },
+  {
+    "": 74716,
+    "NAICS_Code": "541921",
+    "NAICS_Code.1": 1736
+  },
+  {
+    "": 282,
+    "NAICS_Code": "541922",
+    "NAICS_Code.1": 1737
+  },
+  {
+    "": 1170,
+    "NAICS_Code": "541930",
+    "NAICS_Code.1": 1738
+  },
+  {
+    "": 88,
+    "NAICS_Code": "541940",
+    "NAICS_Code.1": 1739
+  },
+  {
+    "": 132,
+    "NAICS_Code": "541990",
+    "NAICS_Code.1": 1740
+  },
+  {
+    "": 183802,
+    "NAICS_Code": "548511",
+    "NAICS_Code.1": 1741
+  },
+  {
+    "": 27603,
+    "NAICS_Code": "551110",
+    "NAICS_Code.1": 1742
+  },
+  {
+    "": 47308,
+    "NAICS_Code": "551111",
+    "NAICS_Code.1": 1743
+  },
+  {
+    "": 5554,
+    "NAICS_Code": "551112",
+    "NAICS_Code.1": 1744
+  },
+  {
+    "": 142,
+    "NAICS_Code": "551114",
+    "NAICS_Code.1": 1745
+  },
+  {
+    "": 145,
+    "NAICS_Code": "561110",
+    "NAICS_Code.1": 1746
+  },
+  {
+    "": 21464,
+    "NAICS_Code": "561210",
+    "NAICS_Code.1": 1747
+  },
+  {
+    "": 73555,
+    "NAICS_Code": "561300",
+    "NAICS_Code.1": 1748
+  },
+  {
+    "": 14,
+    "NAICS_Code": "561310",
+    "NAICS_Code.1": 1749
+  },
+  {
+    "": 38,
+    "NAICS_Code": "561311",
+    "NAICS_Code.1": 1750
+  },
+  {
+    "": 1774,
+    "NAICS_Code": "561312",
+    "NAICS_Code.1": 1751
+  },
+  {
+    "": 492,
+    "NAICS_Code": "561320",
+    "NAICS_Code.1": 1752
+  },
+  {
+    "": 4383,
+    "NAICS_Code": "561330",
+    "NAICS_Code.1": 1753
+  },
+  {
+    "": 559,
+    "NAICS_Code": "561410",
+    "NAICS_Code.1": 1754
+  },
+  {
+    "": 235257,
+    "NAICS_Code": "561421",
+    "NAICS_Code.1": 1755
+  },
+  {
+    "": 2648,
+    "NAICS_Code": "561422",
+    "NAICS_Code.1": 1756
+  },
+  {
+    "": 3040,
+    "NAICS_Code": "561431",
+    "NAICS_Code.1": 1757
+  },
+  {
+    "": 43810,
+    "NAICS_Code": "561439",
+    "NAICS_Code.1": 1758
+  },
+  {
+    "": 40688,
+    "NAICS_Code": "561440",
+    "NAICS_Code.1": 1759
+  },
+  {
+    "": 10920,
+    "NAICS_Code": "561450",
+    "NAICS_Code.1": 1760
+  },
+  {
+    "": 57504,
+    "NAICS_Code": "561490",
+    "NAICS_Code.1": 1761
+  },
+  {
+    "": 314367,
+    "NAICS_Code": "561492",
+    "NAICS_Code.1": 1762
+  },
+  {
+    "": 152,
+    "NAICS_Code": "561499",
+    "NAICS_Code.1": 1763
+  },
+  {
+    "": 768,
+    "NAICS_Code": "561510",
+    "NAICS_Code.1": 1764
+  },
+  {
+    "": 364,
+    "NAICS_Code": "561520",
+    "NAICS_Code.1": 1765
+  },
+  {
+    "": 20047,
+    "NAICS_Code": "561591",
+    "NAICS_Code.1": 1766
+  },
+  {
+    "": 4932,
+    "NAICS_Code": "561599",
+    "NAICS_Code.1": 1767
+  },
+  {
+    "": 1177,
+    "NAICS_Code": "561611",
+    "NAICS_Code.1": 1768
+  },
+  {
+    "": 846,
+    "NAICS_Code": "561612",
+    "NAICS_Code.1": 1769
+  },
+  {
+    "": 111562,
+    "NAICS_Code": "561613",
+    "NAICS_Code.1": 1770
+  },
+  {
+    "": 556,
+    "NAICS_Code": "561621",
+    "NAICS_Code.1": 1771
+  },
+  {
+    "": 328444,
+    "NAICS_Code": "561622",
+    "NAICS_Code.1": 1772
+  },
+  {
+    "": 25412,
+    "NAICS_Code": "561710",
+    "NAICS_Code.1": 1773
+  },
+  {
+    "": 19886,
+    "NAICS_Code": "561720",
+    "NAICS_Code.1": 1774
+  },
+  {
+    "": 110,
+    "NAICS_Code": "561730",
+    "NAICS_Code.1": 1775
+  },
+  {
+    "": 1677,
+    "NAICS_Code": "561740",
+    "NAICS_Code.1": 1776
+  },
+  {
+    "": 92236,
+    "NAICS_Code": "561790",
+    "NAICS_Code.1": 1777
+  },
+  {
+    "": 21642,
+    "NAICS_Code": "561910",
+    "NAICS_Code.1": 1778
+  },
+  {
+    "": 30,
+    "NAICS_Code": "561920",
+    "NAICS_Code.1": 1779
+  },
+  {
+    "": 1711,
+    "NAICS_Code": "561990",
+    "NAICS_Code.1": 1780
+  },
+  {
+    "": 55775,
+    "NAICS_Code": "562111",
+    "NAICS_Code.1": 1781
+  },
+  {
+    "": 83105,
+    "NAICS_Code": "562112",
+    "NAICS_Code.1": 1782
+  },
+  {
+    "": 59889,
+    "NAICS_Code": "562211",
+    "NAICS_Code.1": 1783
+  },
+  {
+    "": 44997,
+    "NAICS_Code": "562212",
+    "NAICS_Code.1": 1784
+  },
+  {
+    "": 376415,
+    "NAICS_Code": "562219",
+    "NAICS_Code.1": 1785
+  },
+  {
+    "": 31867,
+    "NAICS_Code": "562910",
+    "NAICS_Code.1": 1786
+  },
+  {
+    "": 413851,
+    "NAICS_Code": "562920",
+    "NAICS_Code.1": 1787
+  },
+  {
+    "": 345106,
+    "NAICS_Code": "562991",
+    "NAICS_Code.1": 1788
+  },
+  {
+    "": 1133,
+    "NAICS_Code": "562998",
+    "NAICS_Code.1": 1789
+  },
+  {
+    "": 4,
+    "NAICS_Code": "611110",
+    "NAICS_Code.1": 1790
+  },
+  {
+    "": 18798,
+    "NAICS_Code": "611210",
+    "NAICS_Code.1": 1791
+  },
+  {
+    "": 0,
+    "NAICS_Code": "611310",
+    "NAICS_Code.1": 1792
+  },
+  {
+    "": 22122,
+    "NAICS_Code": "611410",
+    "NAICS_Code.1": 1793
+  },
+  {
+    "": 9285,
+    "NAICS_Code": "611420",
+    "NAICS_Code.1": 1794
+  },
+  {
+    "": 1209,
+    "NAICS_Code": "611430",
+    "NAICS_Code.1": 1795
+  },
+  {
+    "": 327042,
+    "NAICS_Code": "611511",
+    "NAICS_Code.1": 1796
+  },
+  {
+    "": 1558,
+    "NAICS_Code": "611512",
+    "NAICS_Code.1": 1797
+  },
+  {
+    "": 345910,
+    "NAICS_Code": "611513",
+    "NAICS_Code.1": 1798
+  },
+  {
+    "": 97592,
+    "NAICS_Code": "611519",
+    "NAICS_Code.1": 1799
+  },
+  {
+    "": 107,
+    "NAICS_Code": "611610",
+    "NAICS_Code.1": 1800
+  },
+  {
+    "": 688,
+    "NAICS_Code": "611620",
+    "NAICS_Code.1": 1801
+  },
+  {
+    "": 583,
+    "NAICS_Code": "611630",
+    "NAICS_Code.1": 1802
+  },
+  {
+    "": 116,
+    "NAICS_Code": "611691",
+    "NAICS_Code.1": 1803
+  },
+  {
+    "": 373277,
+    "NAICS_Code": "611692",
+    "NAICS_Code.1": 1804
+  },
+  {
+    "": 302,
+    "NAICS_Code": "611699",
+    "NAICS_Code.1": 1805
+  },
+  {
+    "": 224,
+    "NAICS_Code": "611710",
+    "NAICS_Code.1": 1806
+  },
+  {
+    "": 327828,
+    "NAICS_Code": "620000",
+    "NAICS_Code.1": 1807
+  },
+  {
+    "": 164,
+    "NAICS_Code": "621111",
+    "NAICS_Code.1": 1808
+  },
+  {
+    "": 584,
+    "NAICS_Code": "621112",
+    "NAICS_Code.1": 1809
+  },
+  {
+    "": 2463,
+    "NAICS_Code": "621210",
+    "NAICS_Code.1": 1810
+  },
+  {
+    "": 9416,
+    "NAICS_Code": "621310",
+    "NAICS_Code.1": 1811
+  },
+  {
+    "": 12079,
+    "NAICS_Code": "621320",
+    "NAICS_Code.1": 1812
+  },
+  {
+    "": 111197,
+    "NAICS_Code": "621322",
+    "NAICS_Code.1": 1813
+  },
+  {
+    "": 323,
+    "NAICS_Code": "621330",
+    "NAICS_Code.1": 1814
+  },
+  {
+    "": 381,
+    "NAICS_Code": "621340",
+    "NAICS_Code.1": 1815
+  },
+  {
+    "": 163265,
+    "NAICS_Code": "621391",
+    "NAICS_Code.1": 1816
+  },
+  {
+    "": 120,
+    "NAICS_Code": "621399",
+    "NAICS_Code.1": 1817
+  },
+  {
+    "": 554,
+    "NAICS_Code": "621410",
+    "NAICS_Code.1": 1818
+  },
+  {
+    "": 60,
+    "NAICS_Code": "621420",
+    "NAICS_Code.1": 1819
+  },
+  {
+    "": 3306,
+    "NAICS_Code": "621491",
+    "NAICS_Code.1": 1820
+  },
+  {
+    "": 31835,
+    "NAICS_Code": "621492",
+    "NAICS_Code.1": 1821
+  },
+  {
+    "": 25828,
+    "NAICS_Code": "621493",
+    "NAICS_Code.1": 1822
+  },
+  {
+    "": 245,
+    "NAICS_Code": "621498",
+    "NAICS_Code.1": 1823
+  },
+  {
+    "": 307837,
+    "NAICS_Code": "621510",
+    "NAICS_Code.1": 1824
+  },
+  {
+    "": 290,
+    "NAICS_Code": "621511",
+    "NAICS_Code.1": 1825
+  },
+  {
+    "": 19748,
+    "NAICS_Code": "621512",
+    "NAICS_Code.1": 1826
+  },
+  {
+    "": 3,
+    "NAICS_Code": "621610",
+    "NAICS_Code.1": 1827
+  },
+  {
+    "": 298,
+    "NAICS_Code": "621910",
+    "NAICS_Code.1": 1828
+  },
+  {
+    "": 30390,
+    "NAICS_Code": "621991",
+    "NAICS_Code.1": 1829
+  },
+  {
+    "": 2354,
+    "NAICS_Code": "621999",
+    "NAICS_Code.1": 1830
+  },
+  {
+    "": 36750,
+    "NAICS_Code": "622100",
+    "NAICS_Code.1": 1831
+  },
+  {
+    "": 91,
+    "NAICS_Code": "622110",
+    "NAICS_Code.1": 1832
+  },
+  {
+    "": 309209,
+    "NAICS_Code": "622111",
+    "NAICS_Code.1": 1833
+  },
+  {
+    "": 24570,
+    "NAICS_Code": "622200",
+    "NAICS_Code.1": 1834
+  },
+  {
+    "": 17816,
+    "NAICS_Code": "622210",
+    "NAICS_Code.1": 1835
+  },
+  {
+    "": 11442,
+    "NAICS_Code": "622310",
+    "NAICS_Code.1": 1836
+  },
+  {
+    "": 692,
+    "NAICS_Code": "623110",
+    "NAICS_Code.1": 1837
+  },
+  {
+    "": 1370,
+    "NAICS_Code": "623210",
+    "NAICS_Code.1": 1838
+  },
+  {
+    "": 20010,
+    "NAICS_Code": "623220",
+    "NAICS_Code.1": 1839
+  },
+  {
+    "": 1518,
+    "NAICS_Code": "623311",
+    "NAICS_Code.1": 1840
+  },
+  {
+    "": 31954,
+    "NAICS_Code": "623312",
+    "NAICS_Code.1": 1841
+  },
+  {
+    "": 63913,
+    "NAICS_Code": "623990",
+    "NAICS_Code.1": 1842
+  },
+  {
+    "": 65,
+    "NAICS_Code": "624110",
+    "NAICS_Code.1": 1843
+  },
+  {
+    "": 296,
+    "NAICS_Code": "624120",
+    "NAICS_Code.1": 1844
+  },
+  {
+    "": 318,
+    "NAICS_Code": "624190",
+    "NAICS_Code.1": 1845
+  },
+  {
+    "": 45088,
+    "NAICS_Code": "624210",
+    "NAICS_Code.1": 1846
+  },
+  {
+    "": 1176,
+    "NAICS_Code": "624229",
+    "NAICS_Code.1": 1847
+  },
+  {
+    "": 313655,
+    "NAICS_Code": "624230",
+    "NAICS_Code.1": 1848
+  },
+  {
+    "": 6962,
+    "NAICS_Code": "624310",
+    "NAICS_Code.1": 1849
+  },
+  {
+    "": 220,
+    "NAICS_Code": "624410",
+    "NAICS_Code.1": 1850
+  },
+  {
+    "": 14269,
+    "NAICS_Code": "626110",
+    "NAICS_Code.1": 1851
+  },
+  {
+    "": 27,
+    "NAICS_Code": "711110",
+    "NAICS_Code.1": 1852
+  },
+  {
+    "": 314983,
+    "NAICS_Code": "711120",
+    "NAICS_Code.1": 1853
+  },
+  {
+    "": 473,
+    "NAICS_Code": "711130",
+    "NAICS_Code.1": 1854
+  },
+  {
+    "": 26859,
+    "NAICS_Code": "711190",
+    "NAICS_Code.1": 1855
+  },
+  {
+    "": 18819,
+    "NAICS_Code": "711211",
+    "NAICS_Code.1": 1856
+  },
+  {
+    "": 1257,
+    "NAICS_Code": "711212",
+    "NAICS_Code.1": 1857
+  },
+  {
+    "": 92741,
+    "NAICS_Code": "711219",
+    "NAICS_Code.1": 1858
+  },
+  {
+    "": 1386,
+    "NAICS_Code": "711310",
+    "NAICS_Code.1": 1859
+  },
+  {
+    "": 2983,
+    "NAICS_Code": "711320",
+    "NAICS_Code.1": 1860
+  },
+  {
+    "": 61,
+    "NAICS_Code": "711410",
+    "NAICS_Code.1": 1861
+  },
+  {
+    "": 670,
+    "NAICS_Code": "711510",
+    "NAICS_Code.1": 1862
+  },
+  {
+    "": 148,
+    "NAICS_Code": "712110",
+    "NAICS_Code.1": 1863
+  },
+  {
+    "": 51,
+    "NAICS_Code": "712130",
+    "NAICS_Code.1": 1864
+  },
+  {
+    "": 141241,
+    "NAICS_Code": "712190",
+    "NAICS_Code.1": 1865
+  },
+  {
+    "": 19562,
+    "NAICS_Code": "713110",
+    "NAICS_Code.1": 1866
+  },
+  {
+    "": 21583,
+    "NAICS_Code": "713120",
+    "NAICS_Code.1": 1867
+  },
+  {
+    "": 222643,
+    "NAICS_Code": "713210",
+    "NAICS_Code.1": 1868
+  },
+  {
+    "": 51135,
+    "NAICS_Code": "713290",
+    "NAICS_Code.1": 1869
+  },
+  {
+    "": 34,
+    "NAICS_Code": "713910",
+    "NAICS_Code.1": 1870
+  },
+  {
+    "": 5984,
+    "NAICS_Code": "713920",
+    "NAICS_Code.1": 1871
+  },
+  {
+    "": 57743,
+    "NAICS_Code": "713930",
+    "NAICS_Code.1": 1872
+  },
+  {
+    "": 270,
+    "NAICS_Code": "713940",
+    "NAICS_Code.1": 1873
+  },
+  {
+    "": 1391,
+    "NAICS_Code": "713990",
+    "NAICS_Code.1": 1874
+  },
+  {
+    "": 101,
+    "NAICS_Code": "721110",
+    "NAICS_Code.1": 1875
+  },
+  {
+    "": 28401,
+    "NAICS_Code": "721120",
+    "NAICS_Code.1": 1876
+  },
+  {
+    "": 456666,
+    "NAICS_Code": "721191",
+    "NAICS_Code.1": 1877
+  },
+  {
+    "": 28502,
+    "NAICS_Code": "721199",
+    "NAICS_Code.1": 1878
+  },
+  {
+    "": 189,
+    "NAICS_Code": "721214",
+    "NAICS_Code.1": 1879
+  },
+  {
+    "": 72427,
+    "NAICS_Code": "721310",
+    "NAICS_Code.1": 1880
+  },
+  {
+    "": 37,
+    "NAICS_Code": "722110",
+    "NAICS_Code.1": 1881
+  },
+  {
+    "": 248,
+    "NAICS_Code": "722211",
+    "NAICS_Code.1": 1882
+  },
+  {
+    "": 314605,
+    "NAICS_Code": "722212",
+    "NAICS_Code.1": 1883
+  },
+  {
+    "": 187946,
+    "NAICS_Code": "722213",
+    "NAICS_Code.1": 1884
+  },
+  {
+    "": 344734,
+    "NAICS_Code": "722300",
+    "NAICS_Code.1": 1885
+  },
+  {
+    "": 32,
+    "NAICS_Code": "722310",
+    "NAICS_Code.1": 1886
+  },
+  {
+    "": 536,
+    "NAICS_Code": "722320",
+    "NAICS_Code.1": 1887
+  },
+  {
+    "": 170238,
+    "NAICS_Code": "722330",
+    "NAICS_Code.1": 1888
+  },
+  {
+    "": 231,
+    "NAICS_Code": "722511",
+    "NAICS_Code.1": 1889
+  },
+  {
+    "": 42,
+    "NAICS_Code": "722513",
+    "NAICS_Code.1": 1890
+  },
+  {
+    "": 804,
+    "NAICS_Code": "722515",
+    "NAICS_Code.1": 1891
+  },
+  {
+    "": 487158,
+    "NAICS_Code": "737299",
+    "NAICS_Code.1": 1892
+  },
+  {
+    "": 56828,
+    "NAICS_Code": "811111",
+    "NAICS_Code.1": 1893
+  },
+  {
+    "": 701,
+    "NAICS_Code": "811113",
+    "NAICS_Code.1": 1894
+  },
+  {
+    "": 3103,
+    "NAICS_Code": "811118",
+    "NAICS_Code.1": 1895
+  },
+  {
+    "": 938,
+    "NAICS_Code": "811121",
+    "NAICS_Code.1": 1896
+  },
+  {
+    "": 136131,
+    "NAICS_Code": "811122",
+    "NAICS_Code.1": 1897
+  },
+  {
+    "": 24765,
+    "NAICS_Code": "811191",
+    "NAICS_Code.1": 1898
+  },
+  {
+    "": 26470,
+    "NAICS_Code": "811198",
+    "NAICS_Code.1": 1899
+  },
+  {
+    "": 19567,
+    "NAICS_Code": "811211",
+    "NAICS_Code.1": 1900
+  },
+  {
+    "": 21983,
+    "NAICS_Code": "811212",
+    "NAICS_Code.1": 1901
+  },
+  {
+    "": 40383,
+    "NAICS_Code": "811213",
+    "NAICS_Code.1": 1902
+  },
+  {
+    "": 1788,
+    "NAICS_Code": "811219",
+    "NAICS_Code.1": 1903
+  },
+  {
+    "": 2093,
+    "NAICS_Code": "811310",
+    "NAICS_Code.1": 1904
+  },
+  {
+    "": 36294,
+    "NAICS_Code": "811412",
+    "NAICS_Code.1": 1905
+  },
+  {
+    "": 61458,
+    "NAICS_Code": "811490",
+    "NAICS_Code.1": 1906
+  },
+  {
+    "": 27463,
+    "NAICS_Code": "812112",
+    "NAICS_Code.1": 1907
+  },
+  {
+    "": 7,
+    "NAICS_Code": "812113",
+    "NAICS_Code.1": 1908
+  },
+  {
+    "": 31082,
+    "NAICS_Code": "812191",
+    "NAICS_Code.1": 1909
+  },
+  {
+    "": 64420,
+    "NAICS_Code": "812199",
+    "NAICS_Code.1": 1910
+  },
+  {
+    "": 321118,
+    "NAICS_Code": "812210",
+    "NAICS_Code.1": 1911
+  },
+  {
+    "": 539387,
+    "NAICS_Code": "812320",
+    "NAICS_Code.1": 1912
+  },
+  {
+    "": 254955,
+    "NAICS_Code": "812331",
+    "NAICS_Code.1": 1913
+  },
+  {
+    "": 3225,
+    "NAICS_Code": "812332",
+    "NAICS_Code.1": 1914
+  },
+  {
+    "": 19564,
+    "NAICS_Code": "812910",
+    "NAICS_Code.1": 1915
+  },
+  {
+    "": 178275,
+    "NAICS_Code": "812921",
+    "NAICS_Code.1": 1916
+  },
+  {
+    "": 182419,
+    "NAICS_Code": "812930",
+    "NAICS_Code.1": 1917
+  },
+  {
+    "": 833,
+    "NAICS_Code": "812990",
+    "NAICS_Code.1": 1918
+  },
+  {
+    "": 18,
+    "NAICS_Code": "813110",
+    "NAICS_Code.1": 1919
+  },
+  {
+    "": 533,
+    "NAICS_Code": "813211",
+    "NAICS_Code.1": 1920
+  },
+  {
+    "": 1314,
+    "NAICS_Code": "813212",
+    "NAICS_Code.1": 1921
+  },
+  {
+    "": 2810,
+    "NAICS_Code": "813219",
+    "NAICS_Code.1": 1922
+  },
+  {
+    "": 20367,
+    "NAICS_Code": "813311",
+    "NAICS_Code.1": 1923
+  },
+  {
+    "": 59,
+    "NAICS_Code": "813312",
+    "NAICS_Code.1": 1924
+  },
+  {
+    "": 413,
+    "NAICS_Code": "813319",
+    "NAICS_Code.1": 1925
+  },
+  {
+    "": 2132,
+    "NAICS_Code": "813410",
+    "NAICS_Code.1": 1926
+  },
+  {
+    "": 2913,
+    "NAICS_Code": "813910",
+    "NAICS_Code.1": 1927
+  },
+  {
+    "": 20481,
+    "NAICS_Code": "813920",
+    "NAICS_Code.1": 1928
+  },
+  {
+    "": 40543,
+    "NAICS_Code": "813930",
+    "NAICS_Code.1": 1929
+  },
+  {
+    "": 16329,
+    "NAICS_Code": "813940",
+    "NAICS_Code.1": 1930
+  },
+  {
+    "": 5303,
+    "NAICS_Code": "813990",
+    "NAICS_Code.1": 1931
+  },
+  {
+    "": 2,
+    "NAICS_Code": "814110",
+    "NAICS_Code.1": 1932
+  },
+  {
+    "": 19905,
+    "NAICS_Code": "921100",
+    "NAICS_Code.1": 1933
+  },
+  {
+    "": 18953,
+    "NAICS_Code": "921110",
+    "NAICS_Code.1": 1934
+  },
+  {
+    "": 23444,
+    "NAICS_Code": "921120",
+    "NAICS_Code.1": 1935
+  },
+  {
+    "": 18914,
+    "NAICS_Code": "921130",
+    "NAICS_Code.1": 1936
+  },
+  {
+    "": 92106,
+    "NAICS_Code": "921140",
+    "NAICS_Code.1": 1937
+  },
+  {
+    "": 2626,
+    "NAICS_Code": "921150",
+    "NAICS_Code.1": 1938
+  },
+  {
+    "": 3317,
+    "NAICS_Code": "921190",
+    "NAICS_Code.1": 1939
+  },
+  {
+    "": 61113,
+    "NAICS_Code": "922110",
+    "NAICS_Code.1": 1940
+  },
+  {
+    "": 34645,
+    "NAICS_Code": "922120",
+    "NAICS_Code.1": 1941
+  },
+  {
+    "": 936,
+    "NAICS_Code": "922130",
+    "NAICS_Code.1": 1942
+  },
+  {
+    "": 18976,
+    "NAICS_Code": "922140",
+    "NAICS_Code.1": 1943
+  },
+  {
+    "": 27164,
+    "NAICS_Code": "922160",
+    "NAICS_Code.1": 1944
+  },
+  {
+    "": 27390,
+    "NAICS_Code": "922190",
+    "NAICS_Code.1": 1945
+  },
+  {
+    "": 1361,
+    "NAICS_Code": "923110",
+    "NAICS_Code.1": 1946
+  },
+  {
+    "": 8977,
+    "NAICS_Code": "923120",
+    "NAICS_Code.1": 1947
+  },
+  {
+    "": 9412,
+    "NAICS_Code": "923130",
+    "NAICS_Code.1": 1948
+  },
+  {
+    "": 307858,
+    "NAICS_Code": "923140",
+    "NAICS_Code.1": 1949
+  },
+  {
+    "": 30942,
+    "NAICS_Code": "924110",
+    "NAICS_Code.1": 1950
+  },
+  {
+    "": 1333,
+    "NAICS_Code": "924120",
+    "NAICS_Code.1": 1951
+  },
+  {
+    "": 92202,
+    "NAICS_Code": "925110",
+    "NAICS_Code.1": 1952
+  },
+  {
+    "": 21655,
+    "NAICS_Code": "925120",
+    "NAICS_Code.1": 1953
+  },
+  {
+    "": 20599,
+    "NAICS_Code": "926110",
+    "NAICS_Code.1": 1954
+  },
+  {
+    "": 30943,
+    "NAICS_Code": "926120",
+    "NAICS_Code.1": 1955
+  },
+  {
+    "": 11783,
+    "NAICS_Code": "926130",
+    "NAICS_Code.1": 1956
+  },
+  {
+    "": 57,
+    "NAICS_Code": "926140",
+    "NAICS_Code.1": 1957
+  },
+  {
+    "": 45992,
+    "NAICS_Code": "926150",
+    "NAICS_Code.1": 1958
+  },
+  {
+    "": 217340,
+    "NAICS_Code": "927110",
+    "NAICS_Code.1": 1959
+  },
+  {
+    "": 18900,
+    "NAICS_Code": "928120",
+    "NAICS_Code.1": 1960
+  }
+]
