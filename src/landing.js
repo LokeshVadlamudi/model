@@ -65,6 +65,7 @@ class App extends Component {
       Total_wage: this.state.Total_wage,
       model_choice: this.state.model_choice
     };
+    console.log("just before sending data", data);
     axios
       .post(
         "http://ec2-3-134-96-99.us-east-2.compute.amazonaws.com:90/pred",
